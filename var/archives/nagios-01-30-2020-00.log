@@ -1,0 +1,223 @@
+[1580284800] LOG ROTATION: DAILY
+[1580284800] LOG VERSION: 2.0
+[1580284800] CURRENT HOST STATE: vdb-100;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1580284800] CURRENT HOST STATE: vdb-101;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1580284800] CURRENT HOST STATE: vdb-102;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1580284800] CURRENT HOST STATE: vdb-103;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1580284800] CURRENT HOST STATE: vonly-backup;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1580284800] CURRENT HOST STATE: vonly-database;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1580284800] CURRENT HOST STATE: vonly-replica;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.35 ms
+[1580284800] CURRENT SERVICE STATE: vdb-100;/mnt/data01 Partition;WARNING;HARD;4;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580284800] CURRENT SERVICE STATE: vdb-100;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1580284800] CURRENT SERVICE STATE: vdb-100;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1580284800] CURRENT SERVICE STATE: vdb-100;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1580284800] CURRENT SERVICE STATE: vdb-100;Root Partition;OK;HARD;1;/ is at 12% capacity, 10G of 91G
+[1580284800] CURRENT SERVICE STATE: vdb-100;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.6 (protocol 2.0)
+[1580284800] CURRENT SERVICE STATE: vdb-100;Swap Usage;CRITICAL;HARD;4;SWAP CRITICAL - 4% free (36 MB out of 975 MB)
+[1580284800] CURRENT SERVICE STATE: vdb-100;Total Processes;OK;HARD;1;PROCS OK: 177 processes with STATE = RSZDT
+[1580284800] CURRENT SERVICE STATE: vdb-101;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 88% capacity, 3.0T of 3.6T
+[1580284800] CURRENT SERVICE STATE: vdb-101;Current Load;OK;HARD;1;OK - load average: 0.02, 0.01, 0.00
+[1580284800] CURRENT SERVICE STATE: vdb-101;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1580284800] CURRENT SERVICE STATE: vdb-101;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1580284800] CURRENT SERVICE STATE: vdb-101;Root Partition;OK;HARD;1;/ is at 11% capacity, 19G of 183G
+[1580284800] CURRENT SERVICE STATE: vdb-101;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.4 (protocol 2.0)
+[1580284800] CURRENT SERVICE STATE: vdb-101;Swap Usage;WARNING;HARD;4;SWAP WARNING - 11% free (104 MB out of 975 MB)
+[1580284800] CURRENT SERVICE STATE: vdb-101;Total Processes;OK;HARD;1;PROCS OK: 150 processes with STATE = RSZDT
+[1580284800] CURRENT SERVICE STATE: vdb-102;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 86% capacity, 3.0T of 3.7T
+[1580284800] CURRENT SERVICE STATE: vdb-102;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1580284800] CURRENT SERVICE STATE: vdb-102;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1580284800] CURRENT SERVICE STATE: vdb-102;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1580284800] CURRENT SERVICE STATE: vdb-102;Root Partition;OK;HARD;1;/ is at 11% capacity, 9.4G of 91G
+[1580284800] CURRENT SERVICE STATE: vdb-102;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.6 (protocol 2.0)
+[1580284800] CURRENT SERVICE STATE: vdb-102;Swap Usage;CRITICAL;HARD;4;SWAP CRITICAL - 1% free (1 MB out of 975 MB)
+[1580284800] CURRENT SERVICE STATE: vdb-102;Total Processes;OK;HARD;1;PROCS OK: 151 processes with STATE = RSZDT
+[1580284800] CURRENT SERVICE STATE: vdb-103;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 68% capacity, 4.6T of 7.3T
+[1580284800] CURRENT SERVICE STATE: vdb-103;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1580284800] CURRENT SERVICE STATE: vdb-103;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1580284800] CURRENT SERVICE STATE: vdb-103;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1580284800] CURRENT SERVICE STATE: vdb-103;Root Partition;OK;HARD;1;/ is at 36% capacity, 153G of 457G
+[1580284800] CURRENT SERVICE STATE: vdb-103;SSH;OK;HARD;1;SSH OK - OpenSSH_7.6p1 Ubuntu-4ubuntu0.2 (protocol 2.0)
+[1580284800] CURRENT SERVICE STATE: vdb-103;Swap Usage;OK;HARD;1;SWAP OK - 93% free (1892 MB out of 2047 MB)
+[1580284800] CURRENT SERVICE STATE: vdb-103;Total Processes;OK;HARD;1;PROCS OK: 180 processes with STATE = RSZDT
+[1580284800] CURRENT SERVICE STATE: vonly-backup;Current Load;OK;HARD;1;OK - load average: 1.62, 1.43, 1.38
+[1580284800] CURRENT SERVICE STATE: vonly-backup;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1580284800] CURRENT SERVICE STATE: vonly-backup;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 11595 bytes in 0.001 second response time
+[1580284800] CURRENT SERVICE STATE: vonly-backup;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1580284800] CURRENT SERVICE STATE: vonly-backup;Root Partition;OK;HARD;1;/ is at 51% capacity, 107G of 220G
+[1580284800] CURRENT SERVICE STATE: vonly-backup;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.8 (protocol 2.0)
+[1580284800] CURRENT SERVICE STATE: vonly-backup;Swap Usage;OK;HARD;1;SWAP OK - 94% free (53402 MB out of 57111 MB)
+[1580284800] CURRENT SERVICE STATE: vonly-backup;Total Processes;OK;HARD;1;PROCS OK: 233 processes with STATE = RSZDT
+[1580284800] CURRENT SERVICE STATE: vonly-database;/media/data Partition;OK;HARD;1;/media/data is at 1% capacity, 22G of 3.6T
+[1580284800] CURRENT SERVICE STATE: vonly-database;Current Load;OK;HARD;1;OK - load average: 0.00, 0.01, 0.05
+[1580284800] CURRENT SERVICE STATE: vonly-database;Current Users;OK;HARD;1;USERS OK - 2 users currently logged in
+[1580284800] CURRENT SERVICE STATE: vonly-database;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1580284800] CURRENT SERVICE STATE: vonly-database;Root Partition;OK;HARD;1;/ is at 66% capacity, 137G of 220G
+[1580284800] CURRENT SERVICE STATE: vonly-database;SSH;OK;HARD;1;SSH OK - OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.8 (protocol 2.0)
+[1580284800] CURRENT SERVICE STATE: vonly-database;Swap Usage;OK;HARD;1;SWAP OK - 89% free (50467 MB out of 57111 MB)
+[1580284800] CURRENT SERVICE STATE: vonly-database;Total Processes;OK;HARD;1;PROCS OK: 202 processes with STATE = RSZDT
+[1580284800] CURRENT SERVICE STATE: vonly-replica;/media/data Partition;OK;HARD;1;/media/data is at 49% capacity, 3.3T of 7.3T
+[1580284800] CURRENT SERVICE STATE: vonly-replica;Current Load;OK;HARD;1;OK - load average: 2.61, 2.69, 2.83
+[1580284800] CURRENT SERVICE STATE: vonly-replica;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1580284800] CURRENT SERVICE STATE: vonly-replica;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1580284800] CURRENT SERVICE STATE: vonly-replica;Root Partition;OK;HARD;1;/ is at 32% capacity, 32G of 108G
+[1580284800] CURRENT SERVICE STATE: vonly-replica;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.2 (protocol 2.0)
+[1580284800] CURRENT SERVICE STATE: vonly-replica;Swap Usage;OK;HARD;1;SWAP OK - 99% free (27500 MB out of 27876 MB)
+[1580284800] CURRENT SERVICE STATE: vonly-replica;Total Processes;OK;HARD;1;PROCS OK: 92 processes with STATE = RSZDT
+[1580286036] Auto-save of retention data completed successfully.
+[1580286430] SERVICE NOTIFICATION: jatin;vdb-100;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 4% free (36 MB out of 975 MB)
+[1580286430] SERVICE NOTIFICATION: atul;vdb-100;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 4% free (36 MB out of 975 MB)
+[1580286565] SERVICE NOTIFICATION: jatin;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 5% free (47 MB out of 975 MB)
+[1580286565] SERVICE NOTIFICATION: atul;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 5% free (47 MB out of 975 MB)
+[1580286565] SERVICE ALERT: vdb-101;Swap Usage;CRITICAL;HARD;4;SWAP CRITICAL - 5% free (47 MB out of 975 MB)
+[1580286576] SERVICE NOTIFICATION: jatin;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (2 MB out of 975 MB)
+[1580286576] SERVICE NOTIFICATION: atul;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (2 MB out of 975 MB)
+[1580286944] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580286944] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580287016] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;1;WARNING - load average: 6.48, 6.31, 5.37
+[1580287076] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;2;WARNING - load average: 6.62, 6.38, 5.45
+[1580287136] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;3;WARNING - load average: 5.85, 6.20, 5.45
+[1580287196] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.86, 6.13, 5.48
+[1580287196] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.86, 6.13, 5.48
+[1580287196] SERVICE ALERT: vonly-replica;Current Load;WARNING;HARD;4;WARNING - load average: 5.86, 6.13, 5.48
+[1580289637] Auto-save of retention data completed successfully.
+[1580290544] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580290544] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580293237] Auto-save of retention data completed successfully.
+[1580294144] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580294144] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580296796] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 2.78, 3.54, 4.95
+[1580296796] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 2.78, 3.54, 4.95
+[1580296796] SERVICE ALERT: vonly-replica;Current Load;OK;HARD;4;OK - load average: 2.78, 3.54, 4.95
+[1580296837] Auto-save of retention data completed successfully.
+[1580297660] SERVICE ALERT: vonly-backup;Total Processes;WARNING;SOFT;1;PROCS WARNING: 287 processes with STATE = RSZDT
+[1580297721] SERVICE ALERT: vonly-backup;Total Processes;WARNING;SOFT;2;PROCS WARNING: 287 processes with STATE = RSZDT
+[1580297744] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580297744] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580297781] SERVICE ALERT: vonly-backup;Total Processes;WARNING;SOFT;3;PROCS WARNING: 284 processes with STATE = RSZDT
+[1580297841] SERVICE ALERT: vonly-backup;Total Processes;OK;HARD;4;PROCS OK: 234 processes with STATE = RSZDT
+[1580298441] SERVICE ALERT: vonly-backup;Total Processes;WARNING;SOFT;1;PROCS WARNING: 305 processes with STATE = RSZDT
+[1580298501] SERVICE ALERT: vonly-backup;Total Processes;WARNING;SOFT;2;PROCS WARNING: 305 processes with STATE = RSZDT
+[1580298561] SERVICE ALERT: vonly-backup;Total Processes;WARNING;SOFT;3;PROCS WARNING: 305 processes with STATE = RSZDT
+[1580298621] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 292 processes with STATE = RSZDT
+[1580298621] SERVICE ALERT: vonly-backup;Total Processes;WARNING;HARD;4;PROCS WARNING: 292 processes with STATE = RSZDT
+[1580298921] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Total Processes;OK;notify-service-by-email;PROCS OK: 235 processes with STATE = RSZDT
+[1580298921] SERVICE ALERT: vonly-backup;Total Processes;OK;HARD;4;PROCS OK: 235 processes with STATE = RSZDT
+[1580300162] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;1;WARNING - load average: 6.80, 6.33, 3.77
+[1580300222] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;2;WARNING - load average: 5.95, 6.18, 3.88
+[1580300282] SERVICE ALERT: vonly-backup;Current Load;OK;SOFT;3;OK - load average: 4.84, 5.82, 3.90
+[1580300436] Auto-save of retention data completed successfully.
+[1580300830] SERVICE NOTIFICATION: jatin;vdb-100;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 4% free (36 MB out of 975 MB)
+[1580300830] SERVICE NOTIFICATION: atul;vdb-100;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 4% free (36 MB out of 975 MB)
+[1580300942] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;1;WARNING - load average: 6.52, 6.49, 5.13
+[1580300965] SERVICE NOTIFICATION: jatin;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 2% free (18 MB out of 975 MB)
+[1580300965] SERVICE NOTIFICATION: atul;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 2% free (18 MB out of 975 MB)
+[1580300976] SERVICE NOTIFICATION: jatin;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1580300976] SERVICE NOTIFICATION: atul;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1580301002] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;2;WARNING - load average: 6.14, 6.37, 5.17
+[1580301062] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;3;WARNING - load average: 5.99, 6.27, 5.21
+[1580301122] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.75, 6.14, 5.23
+[1580301122] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 5.75, 6.14, 5.23
+[1580301344] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580301344] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580302022] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Current Load;OK;notify-service-by-email;OK - load average: 3.06, 4.36, 4.92
+[1580302022] SERVICE ALERT: vonly-backup;Current Load;OK;HARD;4;OK - load average: 3.06, 4.36, 4.92
+[1580302622] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;1;WARNING - load average: 5.77, 5.69, 5.32
+[1580302682] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;2;WARNING - load average: 6.39, 5.86, 5.40
+[1580302742] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;3;WARNING - load average: 5.91, 5.82, 5.42
+[1580302802] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Current Load;WARNING;notify-service-by-email;WARNING - load average: 6.96, 6.14, 5.56
+[1580302802] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 6.96, 6.14, 5.56
+[1580304037] Auto-save of retention data completed successfully.
+[1580304902] SERVICE FLAPPING ALERT: vonly-backup;Current Load;STARTED; Service appears to have started flapping (21.3% change >= 20.0% threshold)
+[1580304902] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Current Load;FLAPPINGSTART (CRITICAL);notify-service-by-email;CRITICAL - load average: 10.02, 7.26, 6.54
+[1580304902] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 10.02, 7.26, 6.54
+[1580304944] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580304944] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580305202] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 6.85, 6.89, 6.55
+[1580306102] SERVICE ALERT: vonly-backup;Current Load;OK;HARD;4;OK - load average: 2.97, 3.52, 4.88
+[1580307637] Auto-save of retention data completed successfully.
+[1580308544] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580308544] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580309121] SERVICE ALERT: vonly-backup;Total Processes;WARNING;SOFT;1;PROCS WARNING: 293 processes with STATE = RSZDT
+[1580309181] SERVICE ALERT: vonly-backup;Total Processes;WARNING;SOFT;2;PROCS WARNING: 289 processes with STATE = RSZDT
+[1580309241] SERVICE ALERT: vonly-backup;Total Processes;WARNING;SOFT;3;PROCS WARNING: 269 processes with STATE = RSZDT
+[1580309301] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 268 processes with STATE = RSZDT
+[1580309301] SERVICE ALERT: vonly-backup;Total Processes;WARNING;HARD;4;PROCS WARNING: 268 processes with STATE = RSZDT
+[1580309602] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Total Processes;OK;notify-service-by-email;PROCS OK: 235 processes with STATE = RSZDT
+[1580309602] SERVICE ALERT: vonly-backup;Total Processes;OK;HARD;4;PROCS OK: 235 processes with STATE = RSZDT
+[1580311202] SERVICE FLAPPING ALERT: vonly-backup;Current Load;STOPPED; Service appears to have stopped flapping (4.0% change < 5.0% threshold)
+[1580311202] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Current Load;FLAPPINGSTOP (OK);notify-service-by-email;OK - load average: 3.83, 4.15, 4.20
+[1580311236] Auto-save of retention data completed successfully.
+[1580312144] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580312144] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580314837] Auto-save of retention data completed successfully.
+[1580315230] SERVICE NOTIFICATION: jatin;vdb-100;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 4% free (36 MB out of 975 MB)
+[1580315230] SERVICE NOTIFICATION: atul;vdb-100;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 4% free (36 MB out of 975 MB)
+[1580315365] SERVICE NOTIFICATION: jatin;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 975 MB)
+[1580315365] SERVICE NOTIFICATION: atul;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 975 MB)
+[1580315376] SERVICE NOTIFICATION: jatin;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (1 MB out of 975 MB)
+[1580315376] SERVICE NOTIFICATION: atul;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (1 MB out of 975 MB)
+[1580315745] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580315745] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580318437] Auto-save of retention data completed successfully.
+[1580319644] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580319644] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580322036] Auto-save of retention data completed successfully.
+[1580323244] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580323244] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580325636] Auto-save of retention data completed successfully.
+[1580326844] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580326844] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580329236] Auto-save of retention data completed successfully.
+[1580329630] SERVICE NOTIFICATION: jatin;vdb-100;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 4% free (36 MB out of 975 MB)
+[1580329630] SERVICE NOTIFICATION: atul;vdb-100;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 4% free (36 MB out of 975 MB)
+[1580329765] SERVICE NOTIFICATION: jatin;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (3 MB out of 975 MB)
+[1580329765] SERVICE NOTIFICATION: atul;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (3 MB out of 975 MB)
+[1580329776] SERVICE NOTIFICATION: jatin;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 3% free (25 MB out of 975 MB)
+[1580329776] SERVICE NOTIFICATION: atul;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 3% free (25 MB out of 975 MB)
+[1580330444] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580330444] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580332836] Auto-save of retention data completed successfully.
+[1580334044] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580334044] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580336437] Auto-save of retention data completed successfully.
+[1580337644] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580337644] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580340036] Auto-save of retention data completed successfully.
+[1580341244] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580341244] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580343636] Auto-save of retention data completed successfully.
+[1580344030] SERVICE NOTIFICATION: jatin;vdb-100;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 4% free (36 MB out of 975 MB)
+[1580344030] SERVICE NOTIFICATION: atul;vdb-100;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 4% free (36 MB out of 975 MB)
+[1580344165] SERVICE NOTIFICATION: jatin;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (2 MB out of 975 MB)
+[1580344165] SERVICE NOTIFICATION: atul;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (2 MB out of 975 MB)
+[1580344176] SERVICE NOTIFICATION: jatin;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 4% free (31 MB out of 975 MB)
+[1580344176] SERVICE NOTIFICATION: atul;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 4% free (31 MB out of 975 MB)
+[1580344845] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580344845] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580347237] Auto-save of retention data completed successfully.
+[1580348744] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580348744] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580350837] Auto-save of retention data completed successfully.
+[1580352344] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580352344] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580354437] Auto-save of retention data completed successfully.
+[1580355944] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580355944] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580358037] Auto-save of retention data completed successfully.
+[1580358430] SERVICE NOTIFICATION: jatin;vdb-100;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 4% free (36 MB out of 975 MB)
+[1580358430] SERVICE NOTIFICATION: atul;vdb-100;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 4% free (36 MB out of 975 MB)
+[1580358565] SERVICE NOTIFICATION: jatin;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (2 MB out of 975 MB)
+[1580358565] SERVICE NOTIFICATION: atul;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (2 MB out of 975 MB)
+[1580358576] SERVICE NOTIFICATION: jatin;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (6 MB out of 975 MB)
+[1580358576] SERVICE NOTIFICATION: atul;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (6 MB out of 975 MB)
+[1580359544] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580359544] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580361636] Auto-save of retention data completed successfully.
+[1580363144] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580363144] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580365237] Auto-save of retention data completed successfully.
+[1580366744] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580366744] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580368837] Auto-save of retention data completed successfully.
+[1580370344] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T
+[1580370344] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 91% capacity! 3.2T of 3.7T

@@ -1,0 +1,1933 @@
+[1579680000] LOG ROTATION: DAILY
+[1579680000] LOG VERSION: 2.0
+[1579680000] CURRENT HOST STATE: vonly-backup;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1579680000] CURRENT SERVICE STATE: vonly-backup;/media/data Partition;CRITICAL;HARD;4;DISK CRITICAL - free space: /media/data 653646 MiB (9.09% inode=98%):
+[1579680000] CURRENT SERVICE STATE: vonly-backup;Current Load;OK;HARD;1;OK - load average: 0.52, 0.29, 0.54
+[1579680000] CURRENT SERVICE STATE: vonly-backup;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1579680000] CURRENT SERVICE STATE: vonly-backup;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 11595 bytes in 0.001 second response time
+[1579680000] CURRENT SERVICE STATE: vonly-backup;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1579680000] CURRENT SERVICE STATE: vonly-backup;Root Partition;OK;HARD;1;DISK OK - free space: / 104688 MiB (49.07% inode=97%):
+[1579680000] CURRENT SERVICE STATE: vonly-backup;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.8 (protocol 2.0)
+[1579680000] CURRENT SERVICE STATE: vonly-backup;Swap Usage;OK;HARD;1;SWAP OK - 92% free (52249 MB out of 57111 MB)
+[1579680000] CURRENT SERVICE STATE: vonly-backup;Total Processes;OK;HARD;1;PROCS OK: 237 processes with STATE = RSZDT
+[1579681308] Auto-save of retention data completed successfully.
+[1579681522] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;/media/data Partition;CRITICAL;notify-service-by-email;DISK CRITICAL - free space: /media/data 649993 MiB (9.04% inode=98%):
+[1579681766] Caught SIGTERM, shutting down...
+[1579681766] Successfully shutdown... (PID=21661)
+[1579681766] Nagios 4.4.5 starting... (PID=3036)
+[1579681766] Local time is Wed Jan 22 00:29:26 PST 2020
+[1579681766] LOG VERSION: 2.0
+[1579681766] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579681766] qh: core query handler registered
+[1579681766] qh: echo service query handler registered
+[1579681766] qh: help for the query handler registered
+[1579681766] wproc: Successfully registered manager as @wproc with query handler
+[1579681766] wproc: Registry request: name=Core Worker 3041;pid=3041
+[1579681766] wproc: Registry request: name=Core Worker 3042;pid=3042
+[1579681766] wproc: Registry request: name=Core Worker 3044;pid=3044
+[1579681766] wproc: Registry request: name=Core Worker 3043;pid=3043
+[1579681766] wproc: Registry request: name=Core Worker 3047;pid=3047
+[1579681766] wproc: Registry request: name=Core Worker 3048;pid=3048
+[1579681766] wproc: Registry request: name=Core Worker 3049;pid=3049
+[1579681766] wproc: Registry request: name=Core Worker 3051;pid=3051
+[1579681766] wproc: Registry request: name=Core Worker 3045;pid=3045
+[1579681766] wproc: Registry request: name=Core Worker 3046;pid=3046
+[1579681766] wproc: Registry request: name=Core Worker 3052;pid=3052
+[1579681766] wproc: Registry request: name=Core Worker 3050;pid=3050
+[1579681766] wproc: Registry request: name=Core Worker 3059;pid=3059
+[1579681766] wproc: Registry request: name=Core Worker 3054;pid=3054
+[1579681766] wproc: Registry request: name=Core Worker 3055;pid=3055
+[1579681766] wproc: Registry request: name=Core Worker 3056;pid=3056
+[1579681766] wproc: Registry request: name=Core Worker 3058;pid=3058
+[1579681766] wproc: Registry request: name=Core Worker 3062;pid=3062
+[1579681766] wproc: Registry request: name=Core Worker 3053;pid=3053
+[1579681766] wproc: Registry request: name=Core Worker 3057;pid=3057
+[1579681766] wproc: Registry request: name=Core Worker 3060;pid=3060
+[1579681766] wproc: Registry request: name=Core Worker 3061;pid=3061
+[1579681766] wproc: Registry request: name=Core Worker 3064;pid=3064
+[1579681766] wproc: Registry request: name=Core Worker 3063;pid=3063
+[1579681766] Error: Could not find any host matching 'vonly-backupvdb-102' (config file '/usr/local/nagios/etc/objects/localhost.cfg', starting on line 47)
+[1579681766] Error: Could not expand members specified in hostgroup (config file '/usr/local/nagios/etc/objects/localhost.cfg', starting on line 47)
+[1579681766] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=3036)
+[1579681840] Nagios 4.4.5 starting... (PID=3220)
+[1579681840] Local time is Wed Jan 22 00:30:40 PST 2020
+[1579681840] LOG VERSION: 2.0
+[1579681840] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579681840] qh: core query handler registered
+[1579681840] qh: echo service query handler registered
+[1579681840] qh: help for the query handler registered
+[1579681840] wproc: Successfully registered manager as @wproc with query handler
+[1579681840] wproc: Registry request: name=Core Worker 3225;pid=3225
+[1579681840] wproc: Registry request: name=Core Worker 3223;pid=3223
+[1579681840] wproc: Registry request: name=Core Worker 3229;pid=3229
+[1579681840] wproc: Registry request: name=Core Worker 3235;pid=3235
+[1579681840] wproc: Registry request: name=Core Worker 3224;pid=3224
+[1579681840] wproc: Registry request: name=Core Worker 3227;pid=3227
+[1579681840] wproc: Registry request: name=Core Worker 3222;pid=3222
+[1579681840] wproc: Registry request: name=Core Worker 3230;pid=3230
+[1579681840] wproc: Registry request: name=Core Worker 3228;pid=3228
+[1579681840] wproc: Registry request: name=Core Worker 3236;pid=3236
+[1579681840] wproc: Registry request: name=Core Worker 3231;pid=3231
+[1579681840] wproc: Registry request: name=Core Worker 3232;pid=3232
+[1579681840] wproc: Registry request: name=Core Worker 3226;pid=3226
+[1579681840] wproc: Registry request: name=Core Worker 3233;pid=3233
+[1579681840] wproc: Registry request: name=Core Worker 3244;pid=3244
+[1579681840] wproc: Registry request: name=Core Worker 3234;pid=3234
+[1579681840] wproc: Registry request: name=Core Worker 3245;pid=3245
+[1579681840] wproc: Registry request: name=Core Worker 3243;pid=3243
+[1579681840] wproc: Registry request: name=Core Worker 3238;pid=3238
+[1579681840] wproc: Registry request: name=Core Worker 3239;pid=3239
+[1579681840] wproc: Registry request: name=Core Worker 3242;pid=3242
+[1579681840] wproc: Registry request: name=Core Worker 3237;pid=3237
+[1579681840] wproc: Registry request: name=Core Worker 3241;pid=3241
+[1579681840] wproc: Registry request: name=Core Worker 3240;pid=3240
+[1579681840] Successfully launched command file worker with pid 3246
+[1579681873] SERVICE ALERT: vdb-102;/mnt/data01 Partition;CRITICAL;SOFT;1;DISK CRITICAL - /mnt/data01 is not accessible: No such file or directory
+[1579681933] SERVICE ALERT: vdb-102;/mnt/data01 Partition;CRITICAL;SOFT;2;DISK CRITICAL - /mnt/data01 is not accessible: No such file or directory
+[1579681983] SERVICE ALERT: vdb-102;HTTP;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1579681993] SERVICE ALERT: vdb-102;/mnt/data01 Partition;CRITICAL;SOFT;3;DISK CRITICAL - /mnt/data01 is not accessible: No such file or directory
+[1579682024] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-102;Root Partition;1579682022
+[1579682053] SERVICE ALERT: vdb-102;HTTP;CRITICAL;SOFT;2;CRITICAL - Socket timeout
+[1579682053] SERVICE NOTIFICATION: nagiosadmin;vdb-102;/mnt/data01 Partition;CRITICAL;notify-service-by-email;DISK CRITICAL - /mnt/data01 is not accessible: No such file or directory
+[1579682053] SERVICE ALERT: vdb-102;/mnt/data01 Partition;CRITICAL;HARD;4;DISK CRITICAL - /mnt/data01 is not accessible: No such file or directory
+[1579682123] SERVICE ALERT: vdb-102;HTTP;CRITICAL;SOFT;3;CRITICAL - Socket timeout
+[1579682193] SERVICE NOTIFICATION: nagiosadmin;vdb-102;HTTP;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1579682193] SERVICE ALERT: vdb-102;HTTP;CRITICAL;HARD;4;CRITICAL - Socket timeout
+[1579682298] EXTERNAL COMMAND: SCHEDULE_FORCED_HOST_SVC_CHECKS;vdb-102;1579682298
+[1579682329] Caught SIGTERM, shutting down...
+[1579682329] Caught SIGTERM, shutting down...
+[1579682329] Successfully shutdown... (PID=3220)
+[1579682329] Nagios 4.4.5 starting... (PID=4223)
+[1579682329] Local time is Wed Jan 22 00:38:49 PST 2020
+[1579682329] LOG VERSION: 2.0
+[1579682329] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579682329] qh: core query handler registered
+[1579682329] qh: echo service query handler registered
+[1579682329] qh: help for the query handler registered
+[1579682329] wproc: Successfully registered manager as @wproc with query handler
+[1579682329] wproc: Registry request: name=Core Worker 4228;pid=4228
+[1579682329] wproc: Registry request: name=Core Worker 4229;pid=4229
+[1579682329] wproc: Registry request: name=Core Worker 4226;pid=4226
+[1579682329] wproc: Registry request: name=Core Worker 4233;pid=4233
+[1579682329] wproc: Registry request: name=Core Worker 4236;pid=4236
+[1579682329] wproc: Registry request: name=Core Worker 4227;pid=4227
+[1579682329] wproc: Registry request: name=Core Worker 4232;pid=4232
+[1579682329] wproc: Registry request: name=Core Worker 4237;pid=4237
+[1579682329] wproc: Registry request: name=Core Worker 4241;pid=4241
+[1579682329] wproc: Registry request: name=Core Worker 4238;pid=4238
+[1579682329] wproc: Registry request: name=Core Worker 4239;pid=4239
+[1579682329] wproc: Registry request: name=Core Worker 4230;pid=4230
+[1579682329] wproc: Registry request: name=Core Worker 4234;pid=4234
+[1579682329] wproc: Registry request: name=Core Worker 4242;pid=4242
+[1579682329] wproc: Registry request: name=Core Worker 4240;pid=4240
+[1579682329] wproc: Registry request: name=Core Worker 4248;pid=4248
+[1579682329] wproc: Registry request: name=Core Worker 4231;pid=4231
+[1579682329] wproc: Registry request: name=Core Worker 4243;pid=4243
+[1579682329] wproc: Registry request: name=Core Worker 4244;pid=4244
+[1579682329] wproc: Registry request: name=Core Worker 4247;pid=4247
+[1579682329] wproc: Registry request: name=Core Worker 4245;pid=4245
+[1579682329] wproc: Registry request: name=Core Worker 4235;pid=4235
+[1579682329] wproc: Registry request: name=Core Worker 4246;pid=4246
+[1579682329] wproc: Registry request: name=Core Worker 4249;pid=4249
+[1579682329] Successfully launched command file worker with pid 4250
+[1579682390] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-102;Root Partition;1579682388
+[1579682881] EXTERNAL COMMAND: SCHEDULE_FORCED_HOST_SVC_CHECKS;vdb-102;1579682881
+[1579685026] EXTERNAL COMMAND: SCHEDULE_HOST_SVC_CHECKS;vdb-102;1579685026
+[1579685070] Caught SIGTERM, shutting down...
+[1579685070] Caught SIGTERM, shutting down...
+[1579685070] Successfully shutdown... (PID=4223)
+[1579685070] Nagios 4.4.5 starting... (PID=12446)
+[1579685070] Local time is Wed Jan 22 01:24:30 PST 2020
+[1579685070] LOG VERSION: 2.0
+[1579685070] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579685070] qh: core query handler registered
+[1579685070] qh: echo service query handler registered
+[1579685070] qh: help for the query handler registered
+[1579685070] wproc: Successfully registered manager as @wproc with query handler
+[1579685070] wproc: Registry request: name=Core Worker 12448;pid=12448
+[1579685070] wproc: Registry request: name=Core Worker 12455;pid=12455
+[1579685070] wproc: Registry request: name=Core Worker 12449;pid=12449
+[1579685070] wproc: Registry request: name=Core Worker 12456;pid=12456
+[1579685070] wproc: Registry request: name=Core Worker 12451;pid=12451
+[1579685070] wproc: Registry request: name=Core Worker 12457;pid=12457
+[1579685070] wproc: Registry request: name=Core Worker 12453;pid=12453
+[1579685070] wproc: Registry request: name=Core Worker 12458;pid=12458
+[1579685070] wproc: Registry request: name=Core Worker 12454;pid=12454
+[1579685070] wproc: Registry request: name=Core Worker 12450;pid=12450
+[1579685070] wproc: Registry request: name=Core Worker 12452;pid=12452
+[1579685070] wproc: Registry request: name=Core Worker 12459;pid=12459
+[1579685070] wproc: Registry request: name=Core Worker 12462;pid=12462
+[1579685070] wproc: Registry request: name=Core Worker 12463;pid=12463
+[1579685070] wproc: Registry request: name=Core Worker 12465;pid=12465
+[1579685070] wproc: Registry request: name=Core Worker 12464;pid=12464
+[1579685070] wproc: Registry request: name=Core Worker 12461;pid=12461
+[1579685070] wproc: Registry request: name=Core Worker 12466;pid=12466
+[1579685070] wproc: Registry request: name=Core Worker 12469;pid=12469
+[1579685070] wproc: Registry request: name=Core Worker 12470;pid=12470
+[1579685070] wproc: Registry request: name=Core Worker 12460;pid=12460
+[1579685070] wproc: Registry request: name=Core Worker 12467;pid=12467
+[1579685070] wproc: Registry request: name=Core Worker 12468;pid=12468
+[1579685070] wproc: Registry request: name=Core Worker 12471;pid=12471
+[1579685070] Successfully launched command file worker with pid 12472
+[1579685190] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;/media/data Partition;CRITICAL;notify-service-by-email;DISK CRITICAL - free space: /media/data 648575 MiB (9.02% inode=98%):
+[1579685388] Caught SIGTERM, shutting down...
+[1579685388] Caught SIGTERM, shutting down...
+[1579685388] Successfully shutdown... (PID=12446)
+[1579685388] Nagios 4.4.5 starting... (PID=13079)
+[1579685388] Local time is Wed Jan 22 01:29:48 PST 2020
+[1579685388] LOG VERSION: 2.0
+[1579685388] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579685388] qh: core query handler registered
+[1579685388] qh: echo service query handler registered
+[1579685388] qh: help for the query handler registered
+[1579685388] wproc: Successfully registered manager as @wproc with query handler
+[1579685388] wproc: Registry request: name=Core Worker 13082;pid=13082
+[1579685388] wproc: Registry request: name=Core Worker 13086;pid=13086
+[1579685388] wproc: Registry request: name=Core Worker 13087;pid=13087
+[1579685388] wproc: Registry request: name=Core Worker 13083;pid=13083
+[1579685388] wproc: Registry request: name=Core Worker 13091;pid=13091
+[1579685388] wproc: Registry request: name=Core Worker 13092;pid=13092
+[1579685388] wproc: Registry request: name=Core Worker 13085;pid=13085
+[1579685388] wproc: Registry request: name=Core Worker 13088;pid=13088
+[1579685388] wproc: Registry request: name=Core Worker 13084;pid=13084
+[1579685388] wproc: Registry request: name=Core Worker 13090;pid=13090
+[1579685388] wproc: Registry request: name=Core Worker 13081;pid=13081
+[1579685388] wproc: Registry request: name=Core Worker 13089;pid=13089
+[1579685388] wproc: Registry request: name=Core Worker 13101;pid=13101
+[1579685388] wproc: Registry request: name=Core Worker 13093;pid=13093
+[1579685388] wproc: Registry request: name=Core Worker 13094;pid=13094
+[1579685388] wproc: Registry request: name=Core Worker 13097;pid=13097
+[1579685388] wproc: Registry request: name=Core Worker 13095;pid=13095
+[1579685388] wproc: Registry request: name=Core Worker 13100;pid=13100
+[1579685388] wproc: Registry request: name=Core Worker 13099;pid=13099
+[1579685388] wproc: Registry request: name=Core Worker 13104;pid=13104
+[1579685388] wproc: Registry request: name=Core Worker 13102;pid=13102
+[1579685388] wproc: Registry request: name=Core Worker 13096;pid=13096
+[1579685388] wproc: Registry request: name=Core Worker 13103;pid=13103
+[1579685388] wproc: Registry request: name=Core Worker 13098;pid=13098
+[1579685388] Successfully launched command file worker with pid 13105
+[1579686069] Caught SIGTERM, shutting down...
+[1579686069] Caught SIGTERM, shutting down...
+[1579686069] Successfully shutdown... (PID=13079)
+[1579686069] Nagios 4.4.5 starting... (PID=14527)
+[1579686069] Local time is Wed Jan 22 01:41:09 PST 2020
+[1579686069] LOG VERSION: 2.0
+[1579686069] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579686069] qh: core query handler registered
+[1579686069] qh: echo service query handler registered
+[1579686069] qh: help for the query handler registered
+[1579686069] wproc: Successfully registered manager as @wproc with query handler
+[1579686069] wproc: Registry request: name=Core Worker 14529;pid=14529
+[1579686069] wproc: Registry request: name=Core Worker 14536;pid=14536
+[1579686069] wproc: Registry request: name=Core Worker 14537;pid=14537
+[1579686069] wproc: Registry request: name=Core Worker 14538;pid=14538
+[1579686069] wproc: Registry request: name=Core Worker 14530;pid=14530
+[1579686069] wproc: Registry request: name=Core Worker 14541;pid=14541
+[1579686069] wproc: Registry request: name=Core Worker 14539;pid=14539
+[1579686069] wproc: Registry request: name=Core Worker 14531;pid=14531
+[1579686069] wproc: Registry request: name=Core Worker 14542;pid=14542
+[1579686069] wproc: Registry request: name=Core Worker 14534;pid=14534
+[1579686069] wproc: Registry request: name=Core Worker 14532;pid=14532
+[1579686069] wproc: Registry request: name=Core Worker 14552;pid=14552
+[1579686069] wproc: Registry request: name=Core Worker 14533;pid=14533
+[1579686069] wproc: Registry request: name=Core Worker 14546;pid=14546
+[1579686069] wproc: Registry request: name=Core Worker 14540;pid=14540
+[1579686069] wproc: Registry request: name=Core Worker 14543;pid=14543
+[1579686069] wproc: Registry request: name=Core Worker 14551;pid=14551
+[1579686069] wproc: Registry request: name=Core Worker 14545;pid=14545
+[1579686069] wproc: Registry request: name=Core Worker 14535;pid=14535
+[1579686069] wproc: Registry request: name=Core Worker 14550;pid=14550
+[1579686069] wproc: Registry request: name=Core Worker 14544;pid=14544
+[1579686069] wproc: Registry request: name=Core Worker 14549;pid=14549
+[1579686069] wproc: Registry request: name=Core Worker 14548;pid=14548
+[1579686069] wproc: Registry request: name=Core Worker 14547;pid=14547
+[1579686069] Successfully launched command file worker with pid 14553
+[1579686179] SERVICE ALERT: vdb-102;HTTP;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1579686249] SERVICE ALERT: vdb-102;HTTP;CRITICAL;SOFT;2;CRITICAL - Socket timeout
+[1579686319] SERVICE ALERT: vdb-102;HTTP;CRITICAL;SOFT;3;CRITICAL - Socket timeout
+[1579686369] SERVICE ALERT: vonly-backup;/mnt/data01 Partition;CRITICAL;SOFT;1;DISK CRITICAL - /mnt/data01 is not accessible: No such file or directory
+[1579686389] SERVICE NOTIFICATION: nagiosadmin;vdb-102;HTTP;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1579686389] SERVICE ALERT: vdb-102;HTTP;CRITICAL;HARD;4;CRITICAL - Socket timeout
+[1579686429] SERVICE ALERT: vonly-backup;/mnt/data01 Partition;CRITICAL;SOFT;2;DISK CRITICAL - /mnt/data01 is not accessible: No such file or directory
+[1579686489] SERVICE ALERT: vonly-backup;/mnt/data01 Partition;CRITICAL;SOFT;3;DISK CRITICAL - /mnt/data01 is not accessible: No such file or directory
+[1579686549] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;/mnt/data01 Partition;CRITICAL;notify-service-by-email;DISK CRITICAL - /mnt/data01 is not accessible: No such file or directory
+[1579686549] SERVICE ALERT: vonly-backup;/mnt/data01 Partition;CRITICAL;HARD;4;DISK CRITICAL - /mnt/data01 is not accessible: No such file or directory
+[1579688419] Caught SIGTERM, shutting down...
+[1579688419] Caught SIGTERM, shutting down...
+[1579688419] Successfully shutdown... (PID=14527)
+[1579688419] Nagios 4.4.5 starting... (PID=18993)
+[1579688419] Local time is Wed Jan 22 02:20:19 PST 2020
+[1579688419] LOG VERSION: 2.0
+[1579688419] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579688419] qh: core query handler registered
+[1579688419] qh: echo service query handler registered
+[1579688419] qh: help for the query handler registered
+[1579688419] wproc: Successfully registered manager as @wproc with query handler
+[1579688419] wproc: Registry request: name=Core Worker 18996;pid=18996
+[1579688419] wproc: Registry request: name=Core Worker 19005;pid=19005
+[1579688419] wproc: Registry request: name=Core Worker 19006;pid=19006
+[1579688419] wproc: Registry request: name=Core Worker 18997;pid=18997
+[1579688419] wproc: Registry request: name=Core Worker 18998;pid=18998
+[1579688419] wproc: Registry request: name=Core Worker 19012;pid=19012
+[1579688419] wproc: Registry request: name=Core Worker 18999;pid=18999
+[1579688419] wproc: Registry request: name=Core Worker 19017;pid=19017
+[1579688419] wproc: Registry request: name=Core Worker 19008;pid=19008
+[1579688419] wproc: Registry request: name=Core Worker 19013;pid=19013
+[1579688419] wproc: Registry request: name=Core Worker 19000;pid=19000
+[1579688419] wproc: Registry request: name=Core Worker 19009;pid=19009
+[1579688419] wproc: Registry request: name=Core Worker 19011;pid=19011
+[1579688419] wproc: Registry request: name=Core Worker 19010;pid=19010
+[1579688419] wproc: Registry request: name=Core Worker 19002;pid=19002
+[1579688419] wproc: Registry request: name=Core Worker 19007;pid=19007
+[1579688419] wproc: Registry request: name=Core Worker 19003;pid=19003
+[1579688419] wproc: Registry request: name=Core Worker 19016;pid=19016
+[1579688419] wproc: Registry request: name=Core Worker 19019;pid=19019
+[1579688419] wproc: Registry request: name=Core Worker 19004;pid=19004
+[1579688419] wproc: Registry request: name=Core Worker 19018;pid=19018
+[1579688419] wproc: Registry request: name=Core Worker 19014;pid=19014
+[1579688419] wproc: Registry request: name=Core Worker 19015;pid=19015
+[1579688419] wproc: Registry request: name=Core Worker 19001;pid=19001
+[1579688419] Successfully launched command file worker with pid 19020
+[1579688440] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-102;Swap Usage;1579688438
+[1579688440] SERVICE ALERT: vdb-102;Swap Usage;UNKNOWN;SOFT;1;NRPE Plugin for Nagios
+[1579688440] HOST ALERT: vdb-102;DOWN;SOFT;1;NRPE Plugin for Nagios
+[1579688469] HOST ALERT: vonly-backup;DOWN;SOFT;1;NRPE Plugin for Nagios
+[1579688500] SERVICE ALERT: vdb-102;Swap Usage;UNKNOWN;HARD;4;NRPE Plugin for Nagios
+[1579688500] HOST ALERT: vdb-102;DOWN;SOFT;2;NRPE Plugin for Nagios
+[1579688518] HOST ALERT: vonly-backup;DOWN;SOFT;2;NRPE Plugin for Nagios
+[1579688523] SERVICE ALERT: vonly-backup;Swap Usage;UNKNOWN;HARD;1;NRPE Plugin for Nagios
+[1579688535] HOST ALERT: vdb-102;DOWN;SOFT;3;NRPE Plugin for Nagios
+[1579688550] HOST ALERT: vonly-backup;DOWN;SOFT;3;NRPE Plugin for Nagios
+[1579688582] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-102;PING;1579688580
+[1579688586] HOST ALERT: vdb-102;DOWN;SOFT;4;NRPE Plugin for Nagios
+[1579688587] HOST ALERT: vonly-backup;DOWN;SOFT;4;NRPE Plugin for Nagios
+[1579688617] HOST ALERT: vonly-backup;DOWN;SOFT;5;NRPE Plugin for Nagios
+[1579688635] HOST ALERT: vdb-102;DOWN;SOFT;5;NRPE Plugin for Nagios
+[1579688650] HOST ALERT: vonly-backup;DOWN;SOFT;6;NRPE Plugin for Nagios
+[1579688669] HOST ALERT: vdb-102;DOWN;SOFT;6;NRPE Plugin for Nagios
+[1579688710] HOST ALERT: vonly-backup;DOWN;SOFT;7;NRPE Plugin for Nagios
+[1579688729] HOST ALERT: vdb-102;DOWN;SOFT;7;NRPE Plugin for Nagios
+[1579688770] HOST ALERT: vonly-backup;DOWN;SOFT;8;NRPE Plugin for Nagios
+[1579688789] HOST ALERT: vdb-102;DOWN;SOFT;8;NRPE Plugin for Nagios
+[1579688818] HOST ALERT: vonly-backup;DOWN;SOFT;9;NRPE Plugin for Nagios
+[1579688835] HOST ALERT: vdb-102;DOWN;SOFT;9;NRPE Plugin for Nagios
+[1579688850] HOST ALERT: vonly-backup;DOWN;HARD;10;NRPE Plugin for Nagios
+[1579688886] HOST ALERT: vdb-102;DOWN;HARD;10;NRPE Plugin for Nagios
+[1579689664] Caught SIGTERM, shutting down...
+[1579689664] Caught SIGTERM, shutting down...
+[1579689664] Successfully shutdown... (PID=18993)
+[1579689664] Nagios 4.4.5 starting... (PID=21447)
+[1579689664] Local time is Wed Jan 22 02:41:04 PST 2020
+[1579689664] LOG VERSION: 2.0
+[1579689664] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579689664] qh: core query handler registered
+[1579689664] qh: echo service query handler registered
+[1579689664] qh: help for the query handler registered
+[1579689664] wproc: Successfully registered manager as @wproc with query handler
+[1579689664] wproc: Registry request: name=Core Worker 21459;pid=21459
+[1579689664] wproc: Registry request: name=Core Worker 21461;pid=21461
+[1579689664] wproc: Registry request: name=Core Worker 21463;pid=21463
+[1579689664] wproc: Registry request: name=Core Worker 21464;pid=21464
+[1579689664] wproc: Registry request: name=Core Worker 21476;pid=21476
+[1579689664] wproc: Registry request: name=Core Worker 21460;pid=21460
+[1579689664] wproc: Registry request: name=Core Worker 21462;pid=21462
+[1579689664] wproc: Registry request: name=Core Worker 21458;pid=21458
+[1579689664] wproc: Registry request: name=Core Worker 21487;pid=21487
+[1579689664] wproc: Registry request: name=Core Worker 21488;pid=21488
+[1579689664] wproc: Registry request: name=Core Worker 21489;pid=21489
+[1579689664] wproc: Registry request: name=Core Worker 21490;pid=21490
+[1579689664] wproc: Registry request: name=Core Worker 21478;pid=21478
+[1579689664] wproc: Registry request: name=Core Worker 21491;pid=21491
+[1579689664] wproc: Registry request: name=Core Worker 21485;pid=21485
+[1579689664] wproc: Registry request: name=Core Worker 21484;pid=21484
+[1579689664] wproc: Registry request: name=Core Worker 21486;pid=21486
+[1579689664] wproc: Registry request: name=Core Worker 21477;pid=21477
+[1579689664] wproc: Registry request: name=Core Worker 21479;pid=21479
+[1579689664] wproc: Registry request: name=Core Worker 21480;pid=21480
+[1579689664] wproc: Registry request: name=Core Worker 21481;pid=21481
+[1579689664] wproc: Registry request: name=Core Worker 21492;pid=21492
+[1579689664] wproc: Registry request: name=Core Worker 21482;pid=21482
+[1579689664] wproc: Registry request: name=Core Worker 21483;pid=21483
+[1579689664] Successfully launched command file worker with pid 21493
+[1579689687] HOST ALERT: vonly-backup;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1579689690] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;/media/data Partition;CRITICAL;notify-service-by-email;DISK CRITICAL - free space: /media/data 655571 MiB (9.12% inode=98%):
+[1579689706] HOST ALERT: vdb-102;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1579689723] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Swap Usage;UNKNOWN;notify-service-by-email;NRPE Plugin for Nagios
+[1579689785] Caught SIGTERM, shutting down...
+[1579689785] Caught SIGTERM, shutting down...
+[1579689785] Successfully shutdown... (PID=21447)
+[1579689785] Nagios 4.4.5 starting... (PID=21768)
+[1579689785] Local time is Wed Jan 22 02:43:05 PST 2020
+[1579689785] LOG VERSION: 2.0
+[1579689785] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579689785] qh: core query handler registered
+[1579689785] qh: echo service query handler registered
+[1579689785] qh: help for the query handler registered
+[1579689785] wproc: Successfully registered manager as @wproc with query handler
+[1579689785] wproc: Registry request: name=Core Worker 21772;pid=21772
+[1579689785] wproc: Registry request: name=Core Worker 21774;pid=21774
+[1579689785] wproc: Registry request: name=Core Worker 21775;pid=21775
+[1579689785] wproc: Registry request: name=Core Worker 21776;pid=21776
+[1579689785] wproc: Registry request: name=Core Worker 21777;pid=21777
+[1579689785] wproc: Registry request: name=Core Worker 21781;pid=21781
+[1579689785] wproc: Registry request: name=Core Worker 21773;pid=21773
+[1579689785] wproc: Registry request: name=Core Worker 21782;pid=21782
+[1579689785] wproc: Registry request: name=Core Worker 21778;pid=21778
+[1579689785] wproc: Registry request: name=Core Worker 21786;pid=21786
+[1579689785] wproc: Registry request: name=Core Worker 21783;pid=21783
+[1579689785] wproc: Registry request: name=Core Worker 21788;pid=21788
+[1579689785] wproc: Registry request: name=Core Worker 21791;pid=21791
+[1579689785] wproc: Registry request: name=Core Worker 21787;pid=21787
+[1579689785] wproc: Registry request: name=Core Worker 21789;pid=21789
+[1579689785] wproc: Registry request: name=Core Worker 21779;pid=21779
+[1579689785] wproc: Registry request: name=Core Worker 21780;pid=21780
+[1579689785] wproc: Registry request: name=Core Worker 21784;pid=21784
+[1579689785] wproc: Registry request: name=Core Worker 21785;pid=21785
+[1579689785] wproc: Registry request: name=Core Worker 21790;pid=21790
+[1579689785] wproc: Registry request: name=Core Worker 21792;pid=21792
+[1579689785] wproc: Registry request: name=Core Worker 21793;pid=21793
+[1579689785] wproc: Registry request: name=Core Worker 21794;pid=21794
+[1579689785] wproc: Registry request: name=Core Worker 21795;pid=21795
+[1579689785] Successfully launched command file worker with pid 21796
+[1579689801] EXTERNAL COMMAND: SCHEDULE_FORCED_HOST_CHECK;vdb-102;1579689797
+[1579689840] Caught SIGTERM, shutting down...
+[1579689840] Caught SIGTERM, shutting down...
+[1579689840] Successfully shutdown... (PID=21768)
+[1579689840] Nagios 4.4.5 starting... (PID=21969)
+[1579689840] Local time is Wed Jan 22 02:44:00 PST 2020
+[1579689840] LOG VERSION: 2.0
+[1579689840] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579689840] qh: core query handler registered
+[1579689840] qh: echo service query handler registered
+[1579689840] qh: help for the query handler registered
+[1579689840] wproc: Successfully registered manager as @wproc with query handler
+[1579689840] wproc: Registry request: name=Core Worker 21970;pid=21970
+[1579689840] wproc: Registry request: name=Core Worker 21971;pid=21971
+[1579689840] wproc: Registry request: name=Core Worker 21972;pid=21972
+[1579689840] wproc: Registry request: name=Core Worker 21991;pid=21991
+[1579689840] wproc: Registry request: name=Core Worker 21978;pid=21978
+[1579689840] wproc: Registry request: name=Core Worker 21992;pid=21992
+[1579689840] wproc: Registry request: name=Core Worker 21974;pid=21974
+[1579689840] wproc: Registry request: name=Core Worker 21994;pid=21994
+[1579689840] wproc: Registry request: name=Core Worker 21973;pid=21973
+[1579689840] wproc: Registry request: name=Core Worker 21995;pid=21995
+[1579689840] wproc: Registry request: name=Core Worker 21980;pid=21980
+[1579689840] wproc: Registry request: name=Core Worker 21979;pid=21979
+[1579689840] wproc: Registry request: name=Core Worker 21989;pid=21989
+[1579689840] wproc: Registry request: name=Core Worker 21982;pid=21982
+[1579689840] wproc: Registry request: name=Core Worker 21993;pid=21993
+[1579689840] wproc: Registry request: name=Core Worker 21981;pid=21981
+[1579689840] wproc: Registry request: name=Core Worker 21990;pid=21990
+[1579689840] wproc: Registry request: name=Core Worker 21975;pid=21975
+[1579689840] wproc: Registry request: name=Core Worker 21983;pid=21983
+[1579689840] wproc: Registry request: name=Core Worker 21984;pid=21984
+[1579689840] wproc: Registry request: name=Core Worker 21985;pid=21985
+[1579689840] wproc: Registry request: name=Core Worker 21986;pid=21986
+[1579689840] wproc: Registry request: name=Core Worker 21987;pid=21987
+[1579689840] wproc: Registry request: name=Core Worker 21988;pid=21988
+[1579689840] Successfully launched command file worker with pid 21996
+[1579689963] Caught SIGTERM, shutting down...
+[1579689963] Caught SIGTERM, shutting down...
+[1579689963] Successfully shutdown... (PID=21969)
+[1579689963] Nagios 4.4.5 starting... (PID=22198)
+[1579689963] Local time is Wed Jan 22 02:46:03 PST 2020
+[1579689963] LOG VERSION: 2.0
+[1579689963] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579689963] qh: core query handler registered
+[1579689963] qh: echo service query handler registered
+[1579689963] qh: help for the query handler registered
+[1579689963] wproc: Successfully registered manager as @wproc with query handler
+[1579689963] wproc: Registry request: name=Core Worker 22199;pid=22199
+[1579689963] wproc: Registry request: name=Core Worker 22207;pid=22207
+[1579689963] wproc: Registry request: name=Core Worker 22201;pid=22201
+[1579689963] wproc: Registry request: name=Core Worker 22200;pid=22200
+[1579689963] wproc: Registry request: name=Core Worker 22202;pid=22202
+[1579689963] wproc: Registry request: name=Core Worker 22216;pid=22216
+[1579689963] wproc: Registry request: name=Core Worker 22204;pid=22204
+[1579689963] wproc: Registry request: name=Core Worker 22203;pid=22203
+[1579689963] wproc: Registry request: name=Core Worker 22218;pid=22218
+[1579689963] wproc: Registry request: name=Core Worker 22205;pid=22205
+[1579689963] wproc: Registry request: name=Core Worker 22220;pid=22220
+[1579689963] wproc: Registry request: name=Core Worker 22222;pid=22222
+[1579689963] wproc: Registry request: name=Core Worker 22208;pid=22208
+[1579689963] wproc: Registry request: name=Core Worker 22213;pid=22213
+[1579689963] wproc: Registry request: name=Core Worker 22214;pid=22214
+[1579689963] wproc: Registry request: name=Core Worker 22215;pid=22215
+[1579689963] wproc: Registry request: name=Core Worker 22221;pid=22221
+[1579689963] wproc: Registry request: name=Core Worker 22209;pid=22209
+[1579689963] wproc: Registry request: name=Core Worker 22223;pid=22223
+[1579689963] wproc: Registry request: name=Core Worker 22219;pid=22219
+[1579689963] wproc: Registry request: name=Core Worker 22217;pid=22217
+[1579689963] wproc: Registry request: name=Core Worker 22210;pid=22210
+[1579689963] wproc: Registry request: name=Core Worker 22211;pid=22211
+[1579689963] wproc: Registry request: name=Core Worker 22212;pid=22212
+[1579689963] Successfully launched command file worker with pid 22224
+[1579689977] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-102;Swap Usage;1579689975
+[1579689977] SERVICE ALERT: vdb-102;Swap Usage;OK;HARD;4;SWAP OK - 92% free (52253 MB out of 57111 MB)
+[1579689999] SERVICE NOTIFICATION: nagiosadmin;vdb-102;HTTP;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1579690023] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Swap Usage;OK;notify-service-by-email;SWAP OK - 92% free (52253 MB out of 57111 MB)
+[1579690023] SERVICE ALERT: vonly-backup;Swap Usage;OK;HARD;4;SWAP OK - 92% free (52253 MB out of 57111 MB)
+[1579690149] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;/mnt/data01 Partition;CRITICAL;notify-service-by-email;DISK CRITICAL - /mnt/data01 is not accessible: No such file or directory
+[1579690175] Caught SIGTERM, shutting down...
+[1579690175] Caught SIGTERM, shutting down...
+[1579690175] wproc: Socket to worker Core Worker 22199 broken, removing
+[1579690175] wproc: Socket to worker Core Worker 22200 broken, removing
+[1579690175] wproc: Socket to worker Core Worker 22201 broken, removing
+[1579690175] wproc: Socket to worker Core Worker 22211 broken, removing
+[1579690175] wproc: Socket to worker Core Worker 22204 broken, removing
+[1579690175] wproc: Socket to worker Core Worker 22205 broken, removing
+[1579690175] wproc: Socket to worker Core Worker 22210 broken, removing
+[1579690175] wproc: Socket to worker Core Worker 22216 broken, removing
+[1579690175] wproc: Socket to worker Core Worker 22208 broken, removing
+[1579690175] wproc: Socket to worker Core Worker 22222 broken, removing
+[1579690175] wproc: Socket to worker Core Worker 22202 broken, removing
+[1579690175] wproc: Socket to worker Core Worker 22203 broken, removing
+[1579690175] wproc: Socket to worker Core Worker 22212 broken, removing
+[1579690175] wproc: Socket to worker Core Worker 22223 broken, removing
+[1579690175] wproc: Socket to worker Core Worker 22214 broken, removing
+[1579690175] Successfully shutdown... (PID=22198)
+[1579690175] Nagios 4.4.5 starting... (PID=22686)
+[1579690175] Local time is Wed Jan 22 02:49:35 PST 2020
+[1579690175] LOG VERSION: 2.0
+[1579690175] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579690175] qh: core query handler registered
+[1579690175] qh: echo service query handler registered
+[1579690175] qh: help for the query handler registered
+[1579690175] wproc: Successfully registered manager as @wproc with query handler
+[1579690175] wproc: Registry request: name=Core Worker 22689;pid=22689
+[1579690175] wproc: Registry request: name=Core Worker 22688;pid=22688
+[1579690175] wproc: Registry request: name=Core Worker 22691;pid=22691
+[1579690175] wproc: Registry request: name=Core Worker 22699;pid=22699
+[1579690175] wproc: Registry request: name=Core Worker 22700;pid=22700
+[1579690175] wproc: Registry request: name=Core Worker 22703;pid=22703
+[1579690175] wproc: Registry request: name=Core Worker 22693;pid=22693
+[1579690175] wproc: Registry request: name=Core Worker 22708;pid=22708
+[1579690175] wproc: Registry request: name=Core Worker 22695;pid=22695
+[1579690175] wproc: Registry request: name=Core Worker 22704;pid=22704
+[1579690175] wproc: Registry request: name=Core Worker 22709;pid=22709
+[1579690175] wproc: Registry request: name=Core Worker 22697;pid=22697
+[1579690175] wproc: Registry request: name=Core Worker 22702;pid=22702
+[1579690175] wproc: Registry request: name=Core Worker 22705;pid=22705
+[1579690175] wproc: Registry request: name=Core Worker 22690;pid=22690
+[1579690175] wproc: Registry request: name=Core Worker 22692;pid=22692
+[1579690175] wproc: Registry request: name=Core Worker 22701;pid=22701
+[1579690175] wproc: Registry request: name=Core Worker 22696;pid=22696
+[1579690175] wproc: Registry request: name=Core Worker 22698;pid=22698
+[1579690175] wproc: Registry request: name=Core Worker 22707;pid=22707
+[1579690175] wproc: Registry request: name=Core Worker 22706;pid=22706
+[1579690175] wproc: Registry request: name=Core Worker 22694;pid=22694
+[1579690175] wproc: Registry request: name=Core Worker 22710;pid=22710
+[1579690175] wproc: Registry request: name=Core Worker 22711;pid=22711
+[1579690175] Successfully launched command file worker with pid 22712
+[1579690285] Caught SIGTERM, shutting down...
+[1579690285] Caught SIGTERM, shutting down...
+[1579690285] Successfully shutdown... (PID=22686)
+[1579690285] Nagios 4.4.5 starting... (PID=22898)
+[1579690285] Local time is Wed Jan 22 02:51:25 PST 2020
+[1579690285] LOG VERSION: 2.0
+[1579690285] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579690285] qh: core query handler registered
+[1579690285] qh: echo service query handler registered
+[1579690285] qh: help for the query handler registered
+[1579690285] wproc: Successfully registered manager as @wproc with query handler
+[1579690285] wproc: Registry request: name=Core Worker 22900;pid=22900
+[1579690285] wproc: Registry request: name=Core Worker 22902;pid=22902
+[1579690285] wproc: Registry request: name=Core Worker 22904;pid=22904
+[1579690285] wproc: Registry request: name=Core Worker 22908;pid=22908
+[1579690285] wproc: Registry request: name=Core Worker 22916;pid=22916
+[1579690285] wproc: Registry request: name=Core Worker 22909;pid=22909
+[1579690285] wproc: Registry request: name=Core Worker 22918;pid=22918
+[1579690285] wproc: Registry request: name=Core Worker 22919;pid=22919
+[1579690285] wproc: Registry request: name=Core Worker 22920;pid=22920
+[1579690285] wproc: Registry request: name=Core Worker 22921;pid=22921
+[1579690285] wproc: Registry request: name=Core Worker 22910;pid=22910
+[1579690285] wproc: Registry request: name=Core Worker 22917;pid=22917
+[1579690285] wproc: Registry request: name=Core Worker 22911;pid=22911
+[1579690285] wproc: Registry request: name=Core Worker 22913;pid=22913
+[1579690285] wproc: Registry request: name=Core Worker 22922;pid=22922
+[1579690285] wproc: Registry request: name=Core Worker 22915;pid=22915
+[1579690285] wproc: Registry request: name=Core Worker 22923;pid=22923
+[1579690285] wproc: Registry request: name=Core Worker 22901;pid=22901
+[1579690285] wproc: Registry request: name=Core Worker 22903;pid=22903
+[1579690285] wproc: Registry request: name=Core Worker 22907;pid=22907
+[1579690285] wproc: Registry request: name=Core Worker 22905;pid=22905
+[1579690285] wproc: Registry request: name=Core Worker 22914;pid=22914
+[1579690285] wproc: Registry request: name=Core Worker 22912;pid=22912
+[1579690285] wproc: Registry request: name=Core Worker 22906;pid=22906
+[1579690285] Successfully launched command file worker with pid 22924
+[1579690302] SERVICE ALERT: vdb-102;Current Load;CRITICAL;SOFT;1;NRPE: Command 'check_local_load' not defined
+[1579690335] SERVICE ALERT: vdb-102;Current Users;CRITICAL;SOFT;1;NRPE: Command 'check_local_users' not defined
+[1579690362] SERVICE ALERT: vdb-102;Current Load;CRITICAL;SOFT;2;NRPE: Command 'check_local_load' not defined
+[1579690395] SERVICE ALERT: vdb-102;Current Users;CRITICAL;SOFT;2;NRPE: Command 'check_local_users' not defined
+[1579690418] SERVICE ALERT: vdb-102;PING;CRITICAL;SOFT;1;NRPE: Command 'check_ping' not defined
+[1579690422] SERVICE ALERT: vdb-102;Current Load;CRITICAL;SOFT;3;NRPE: Command 'check_local_load' not defined
+[1579690435] SERVICE ALERT: vdb-102;Root Partition;CRITICAL;SOFT;1;NRPE: Command 'check_local_disk' not defined
+[1579690455] SERVICE ALERT: vdb-102;Current Users;CRITICAL;SOFT;3;NRPE: Command 'check_local_users' not defined
+[1579690478] SERVICE ALERT: vdb-102;PING;CRITICAL;SOFT;2;NRPE: Command 'check_ping' not defined
+[1579690482] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Current Load;CRITICAL;notify-service-by-email;NRPE: Command 'check_local_load' not defined
+[1579690482] SERVICE ALERT: vdb-102;Current Load;CRITICAL;HARD;4;NRPE: Command 'check_local_load' not defined
+[1579690495] SERVICE ALERT: vdb-102;Root Partition;CRITICAL;SOFT;2;NRPE: Command 'check_local_disk' not defined
+[1579690515] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Current Users;CRITICAL;notify-service-by-email;NRPE: Command 'check_local_users' not defined
+[1579690515] SERVICE ALERT: vdb-102;Current Users;CRITICAL;HARD;4;NRPE: Command 'check_local_users' not defined
+[1579690535] SERVICE ALERT: vdb-102;Total Processes;CRITICAL;SOFT;1;NRPE: Command 'check_local_procs' not defined
+[1579690538] SERVICE ALERT: vdb-102;PING;CRITICAL;SOFT;3;NRPE: Command 'check_ping' not defined
+[1579690555] SERVICE ALERT: vdb-102;Root Partition;CRITICAL;SOFT;3;NRPE: Command 'check_local_disk' not defined
+[1579690595] SERVICE ALERT: vdb-102;Total Processes;CRITICAL;SOFT;2;NRPE: Command 'check_local_procs' not defined
+[1579690598] SERVICE NOTIFICATION: nagiosadmin;vdb-102;PING;CRITICAL;notify-service-by-email;NRPE: Command 'check_ping' not defined
+[1579690598] SERVICE ALERT: vdb-102;PING;CRITICAL;HARD;4;NRPE: Command 'check_ping' not defined
+[1579690615] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Root Partition;CRITICAL;notify-service-by-email;NRPE: Command 'check_local_disk' not defined
+[1579690615] SERVICE ALERT: vdb-102;Root Partition;CRITICAL;HARD;4;NRPE: Command 'check_local_disk' not defined
+[1579690655] SERVICE ALERT: vdb-102;Total Processes;CRITICAL;SOFT;3;NRPE: Command 'check_local_procs' not defined
+[1579690715] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Total Processes;CRITICAL;notify-service-by-email;NRPE: Command 'check_local_procs' not defined
+[1579690715] SERVICE ALERT: vdb-102;Total Processes;CRITICAL;HARD;4;NRPE: Command 'check_local_procs' not defined
+[1579691127] Caught SIGTERM, shutting down...
+[1579691127] Caught SIGTERM, shutting down...
+[1579691127] Successfully shutdown... (PID=22898)
+[1579691127] Nagios 4.4.5 starting... (PID=24606)
+[1579691127] Local time is Wed Jan 22 03:05:27 PST 2020
+[1579691127] LOG VERSION: 2.0
+[1579691127] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579691127] qh: core query handler registered
+[1579691127] qh: echo service query handler registered
+[1579691127] qh: help for the query handler registered
+[1579691127] wproc: Successfully registered manager as @wproc with query handler
+[1579691127] wproc: Registry request: name=Core Worker 24609;pid=24609
+[1579691127] wproc: Registry request: name=Core Worker 24608;pid=24608
+[1579691127] wproc: Registry request: name=Core Worker 24610;pid=24610
+[1579691127] wproc: Registry request: name=Core Worker 24611;pid=24611
+[1579691127] wproc: Registry request: name=Core Worker 24621;pid=24621
+[1579691127] wproc: Registry request: name=Core Worker 24622;pid=24622
+[1579691127] wproc: Registry request: name=Core Worker 24623;pid=24623
+[1579691127] wproc: Registry request: name=Core Worker 24613;pid=24613
+[1579691127] wproc: Registry request: name=Core Worker 24612;pid=24612
+[1579691127] wproc: Registry request: name=Core Worker 24624;pid=24624
+[1579691127] wproc: Registry request: name=Core Worker 24614;pid=24614
+[1579691127] wproc: Registry request: name=Core Worker 24615;pid=24615
+[1579691127] wproc: Registry request: name=Core Worker 24631;pid=24631
+[1579691127] wproc: Registry request: name=Core Worker 24625;pid=24625
+[1579691127] wproc: Registry request: name=Core Worker 24628;pid=24628
+[1579691127] wproc: Registry request: name=Core Worker 24616;pid=24616
+[1579691127] wproc: Registry request: name=Core Worker 24629;pid=24629
+[1579691127] wproc: Registry request: name=Core Worker 24626;pid=24626
+[1579691127] wproc: Registry request: name=Core Worker 24627;pid=24627
+[1579691127] wproc: Registry request: name=Core Worker 24620;pid=24620
+[1579691127] wproc: Registry request: name=Core Worker 24619;pid=24619
+[1579691127] wproc: Registry request: name=Core Worker 24630;pid=24630
+[1579691127] wproc: Registry request: name=Core Worker 24618;pid=24618
+[1579691127] wproc: Registry request: name=Core Worker 24617;pid=24617
+[1579691127] Successfully launched command file worker with pid 24632
+[1579691202] SERVICE NOTIFICATION: nagiosadmin;vdb-102;PING;OK;notify-service-by-email;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1579691202] SERVICE ALERT: vdb-102;PING;OK;HARD;4;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1579691215] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Root Partition;OK;notify-service-by-email;DISK OK - free space: / 104681 MiB (49.07% inode=97%):
+[1579691215] SERVICE ALERT: vdb-102;Root Partition;OK;HARD;4;DISK OK - free space: / 104681 MiB (49.07% inode=97%):
+[1579691315] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Total Processes;OK;notify-service-by-email;PROCS OK: 239 processes with STATE = RSZDT
+[1579691315] SERVICE ALERT: vdb-102;Total Processes;OK;HARD;4;PROCS OK: 239 processes with STATE = RSZDT
+[1579691382] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Current Load;OK;notify-service-by-email;OK - load average: 1.36, 1.35, 1.22
+[1579691382] SERVICE ALERT: vdb-102;Current Load;OK;HARD;4;OK - load average: 1.36, 1.35, 1.22
+[1579691415] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Current Users;OK;notify-service-by-email;USERS OK - 1 users currently logged in
+[1579691415] SERVICE ALERT: vdb-102;Current Users;OK;HARD;4;USERS OK - 1 users currently logged in
+[1579691883] Caught SIGTERM, shutting down...
+[1579691883] Caught SIGTERM, shutting down...
+[1579691883] Successfully shutdown... (PID=24606)
+[1579691883] Nagios 4.4.5 starting... (PID=26175)
+[1579691883] Local time is Wed Jan 22 03:18:03 PST 2020
+[1579691883] LOG VERSION: 2.0
+[1579691883] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579691883] qh: core query handler registered
+[1579691883] qh: echo service query handler registered
+[1579691883] qh: help for the query handler registered
+[1579691883] wproc: Successfully registered manager as @wproc with query handler
+[1579691883] wproc: Registry request: name=Core Worker 26177;pid=26177
+[1579691883] wproc: Registry request: name=Core Worker 26180;pid=26180
+[1579691883] wproc: Registry request: name=Core Worker 26179;pid=26179
+[1579691883] wproc: Registry request: name=Core Worker 26178;pid=26178
+[1579691883] wproc: Registry request: name=Core Worker 26182;pid=26182
+[1579691883] wproc: Registry request: name=Core Worker 26184;pid=26184
+[1579691883] wproc: Registry request: name=Core Worker 26199;pid=26199
+[1579691883] wproc: Registry request: name=Core Worker 26181;pid=26181
+[1579691883] wproc: Registry request: name=Core Worker 26186;pid=26186
+[1579691883] wproc: Registry request: name=Core Worker 26200;pid=26200
+[1579691883] wproc: Registry request: name=Core Worker 26198;pid=26198
+[1579691883] wproc: Registry request: name=Core Worker 26185;pid=26185
+[1579691883] wproc: Registry request: name=Core Worker 26197;pid=26197
+[1579691883] wproc: Registry request: name=Core Worker 26183;pid=26183
+[1579691883] wproc: Registry request: name=Core Worker 26187;pid=26187
+[1579691883] wproc: Registry request: name=Core Worker 26190;pid=26190
+[1579691883] wproc: Registry request: name=Core Worker 26188;pid=26188
+[1579691883] wproc: Registry request: name=Core Worker 26191;pid=26191
+[1579691883] wproc: Registry request: name=Core Worker 26192;pid=26192
+[1579691883] wproc: Registry request: name=Core Worker 26189;pid=26189
+[1579691883] wproc: Registry request: name=Core Worker 26193;pid=26193
+[1579691883] wproc: Registry request: name=Core Worker 26195;pid=26195
+[1579691883] wproc: Registry request: name=Core Worker 26196;pid=26196
+[1579691883] wproc: Registry request: name=Core Worker 26194;pid=26194
+[1579691883] Warning: Duplicate definition found for service 'PING' on host 'vdb-102' (config file '/usr/local/nagios/etc/objects/servers/ubuntu.cfg', starting on line 54)
+[1579691883] Successfully launched command file worker with pid 26201
+[1579691915] SERVICE ALERT: vdb-102;Total Processes;CRITICAL;SOFT;1;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579691975] SERVICE ALERT: vdb-102;Total Processes;CRITICAL;SOFT;2;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579691982] SERVICE ALERT: vdb-102;Current Load;CRITICAL;SOFT;1;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692015] SERVICE ALERT: vdb-102;Current Users;CRITICAL;SOFT;1;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692035] SERVICE ALERT: vdb-102;Total Processes;CRITICAL;SOFT;3;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692042] SERVICE ALERT: vdb-102;Current Load;CRITICAL;SOFT;2;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692075] SERVICE ALERT: vdb-102;Current Users;CRITICAL;SOFT;2;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692077] SERVICE ALERT: vdb-102;Swap Usage;CRITICAL;SOFT;1;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692095] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692095] SERVICE ALERT: vdb-102;Total Processes;CRITICAL;HARD;4;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692102] SERVICE ALERT: vdb-102;PING;CRITICAL;SOFT;1;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692102] SERVICE ALERT: vdb-102;Current Load;CRITICAL;SOFT;3;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692115] SERVICE ALERT: vdb-102;Root Partition;CRITICAL;SOFT;1;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692135] SERVICE ALERT: vdb-102;Current Users;CRITICAL;SOFT;3;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692137] SERVICE ALERT: vdb-102;Swap Usage;CRITICAL;SOFT;2;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692162] SERVICE ALERT: vdb-102;PING;CRITICAL;SOFT;2;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692162] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692162] SERVICE ALERT: vdb-102;Current Load;CRITICAL;HARD;4;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692175] SERVICE ALERT: vdb-102;Root Partition;CRITICAL;SOFT;2;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692195] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692195] SERVICE ALERT: vdb-102;Current Users;CRITICAL;HARD;4;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692197] SERVICE ALERT: vdb-102;Swap Usage;CRITICAL;SOFT;3;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692222] SERVICE ALERT: vdb-102;PING;CRITICAL;SOFT;3;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692235] SERVICE ALERT: vdb-102;Root Partition;CRITICAL;SOFT;3;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692257] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692257] SERVICE ALERT: vdb-102;Swap Usage;CRITICAL;HARD;4;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692267] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-102;Current Load;1579692266
+[1579692282] SERVICE NOTIFICATION: nagiosadmin;vdb-102;PING;CRITICAL;notify-service-by-email;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692282] SERVICE ALERT: vdb-102;PING;CRITICAL;HARD;4;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692284] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-102;Current Load;1579692290
+[1579692295] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Root Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692295] SERVICE ALERT: vdb-102;Root Partition;CRITICAL;HARD;4;(No output on stdout) stderr: execvp(/usr/lib64/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory
+[1579692484] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-102;Current Load;1579692490
+[1579692647] Caught SIGTERM, shutting down...
+[1579692647] Caught SIGTERM, shutting down...
+[1579692647] Successfully shutdown... (PID=26175)
+[1579692647] Nagios 4.4.5 starting... (PID=27702)
+[1579692647] Local time is Wed Jan 22 03:30:47 PST 2020
+[1579692647] LOG VERSION: 2.0
+[1579692647] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579692647] qh: core query handler registered
+[1579692647] qh: echo service query handler registered
+[1579692647] qh: help for the query handler registered
+[1579692647] wproc: Successfully registered manager as @wproc with query handler
+[1579692647] wproc: Registry request: name=Core Worker 27704;pid=27704
+[1579692647] wproc: Registry request: name=Core Worker 27705;pid=27705
+[1579692647] wproc: Registry request: name=Core Worker 27706;pid=27706
+[1579692647] wproc: Registry request: name=Core Worker 27708;pid=27708
+[1579692647] wproc: Registry request: name=Core Worker 27725;pid=27725
+[1579692647] wproc: Registry request: name=Core Worker 27709;pid=27709
+[1579692647] wproc: Registry request: name=Core Worker 27712;pid=27712
+[1579692647] wproc: Registry request: name=Core Worker 27726;pid=27726
+[1579692647] wproc: Registry request: name=Core Worker 27710;pid=27710
+[1579692647] wproc: Registry request: name=Core Worker 27724;pid=27724
+[1579692647] wproc: Registry request: name=Core Worker 27716;pid=27716
+[1579692647] wproc: Registry request: name=Core Worker 27707;pid=27707
+[1579692647] wproc: Registry request: name=Core Worker 27711;pid=27711
+[1579692647] wproc: Registry request: name=Core Worker 27717;pid=27717
+[1579692647] wproc: Registry request: name=Core Worker 27727;pid=27727
+[1579692647] wproc: Registry request: name=Core Worker 27720;pid=27720
+[1579692647] wproc: Registry request: name=Core Worker 27723;pid=27723
+[1579692647] wproc: Registry request: name=Core Worker 27714;pid=27714
+[1579692647] wproc: Registry request: name=Core Worker 27722;pid=27722
+[1579692647] wproc: Registry request: name=Core Worker 27713;pid=27713
+[1579692647] wproc: Registry request: name=Core Worker 27721;pid=27721
+[1579692647] wproc: Registry request: name=Core Worker 27718;pid=27718
+[1579692647] wproc: Registry request: name=Core Worker 27715;pid=27715
+[1579692647] wproc: Registry request: name=Core Worker 27719;pid=27719
+[1579692647] Warning: Duplicate definition found for service 'PING' on host 'vdb-102' (config file '/usr/local/nagios/etc/objects/servers/ubuntu.cfg', starting on line 54)
+[1579692647] Successfully launched command file worker with pid 27728
+[1579692790] SERVICE FLAPPING ALERT: vdb-102;Current Load;STARTED; Service appears to have started flapping (22.5% change >= 20.0% threshold)
+[1579692790] SERVICE ALERT: vdb-102;Current Load;OK;HARD;4;OK - load average: 0.01, 0.07, 0.28
+[1579692795] SERVICE FLAPPING ALERT: vdb-102;Current Users;STARTED; Service appears to have started flapping (23.3% change >= 20.0% threshold)
+[1579692795] SERVICE ALERT: vdb-102;Current Users;OK;HARD;4;USERS OK - 2 users currently logged in
+[1579692813] Caught SIGTERM, shutting down...
+[1579692813] Caught SIGTERM, shutting down...
+[1579692813] Successfully shutdown... (PID=27702)
+[1579692813] Nagios 4.4.5 starting... (PID=28043)
+[1579692813] Local time is Wed Jan 22 03:33:33 PST 2020
+[1579692813] LOG VERSION: 2.0
+[1579692813] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579692813] qh: core query handler registered
+[1579692813] qh: echo service query handler registered
+[1579692813] qh: help for the query handler registered
+[1579692813] wproc: Successfully registered manager as @wproc with query handler
+[1579692813] wproc: Registry request: name=Core Worker 28047;pid=28047
+[1579692813] wproc: Registry request: name=Core Worker 28046;pid=28046
+[1579692813] wproc: Registry request: name=Core Worker 28048;pid=28048
+[1579692813] wproc: Registry request: name=Core Worker 28060;pid=28060
+[1579692813] wproc: Registry request: name=Core Worker 28053;pid=28053
+[1579692813] wproc: Registry request: name=Core Worker 28054;pid=28054
+[1579692813] wproc: Registry request: name=Core Worker 28061;pid=28061
+[1579692813] wproc: Registry request: name=Core Worker 28052;pid=28052
+[1579692813] wproc: Registry request: name=Core Worker 28055;pid=28055
+[1579692813] wproc: Registry request: name=Core Worker 28049;pid=28049
+[1579692813] wproc: Registry request: name=Core Worker 28050;pid=28050
+[1579692813] wproc: Registry request: name=Core Worker 28062;pid=28062
+[1579692813] wproc: Registry request: name=Core Worker 28056;pid=28056
+[1579692813] wproc: Registry request: name=Core Worker 28051;pid=28051
+[1579692813] wproc: Registry request: name=Core Worker 28063;pid=28063
+[1579692813] wproc: Registry request: name=Core Worker 28057;pid=28057
+[1579692813] wproc: Registry request: name=Core Worker 28059;pid=28059
+[1579692813] wproc: Registry request: name=Core Worker 28064;pid=28064
+[1579692813] wproc: Registry request: name=Core Worker 28066;pid=28066
+[1579692813] wproc: Registry request: name=Core Worker 28067;pid=28067
+[1579692813] wproc: Registry request: name=Core Worker 28068;pid=28068
+[1579692813] wproc: Registry request: name=Core Worker 28069;pid=28069
+[1579692813] wproc: Registry request: name=Core Worker 28070;pid=28070
+[1579692813] wproc: Registry request: name=Core Worker 28071;pid=28071
+[1579692813] Warning: Duplicate definition found for service 'PING' on host 'vdb-102' (config file '/usr/local/nagios/etc/objects/servers/ubuntu.cfg', starting on line 54)
+[1579692813] SERVICE FLAPPING ALERT: vdb-102;Current Load;STARTED; Service appears to have started flapping (22.5% change >= 20.0% threshold)
+[1579692813] SERVICE FLAPPING ALERT: vdb-102;Current Users;STARTED; Service appears to have started flapping (23.3% change >= 20.0% threshold)
+[1579692813] Successfully launched command file worker with pid 28072
+[1579692905] Caught SIGTERM, shutting down...
+[1579692905] Caught SIGTERM, shutting down...
+[1579692905] Successfully shutdown... (PID=28043)
+[1579692905] Nagios 4.4.5 starting... (PID=28308)
+[1579692905] Local time is Wed Jan 22 03:35:05 PST 2020
+[1579692905] LOG VERSION: 2.0
+[1579692905] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579692905] qh: core query handler registered
+[1579692905] qh: echo service query handler registered
+[1579692905] qh: help for the query handler registered
+[1579692905] wproc: Successfully registered manager as @wproc with query handler
+[1579692905] wproc: Registry request: name=Core Worker 28313;pid=28313
+[1579692905] wproc: Registry request: name=Core Worker 28310;pid=28310
+[1579692905] wproc: Registry request: name=Core Worker 28315;pid=28315
+[1579692905] wproc: Registry request: name=Core Worker 28312;pid=28312
+[1579692905] wproc: Registry request: name=Core Worker 28311;pid=28311
+[1579692905] wproc: Registry request: name=Core Worker 28314;pid=28314
+[1579692905] wproc: Registry request: name=Core Worker 28320;pid=28320
+[1579692905] wproc: Registry request: name=Core Worker 28316;pid=28316
+[1579692905] wproc: Registry request: name=Core Worker 28319;pid=28319
+[1579692905] wproc: Registry request: name=Core Worker 28322;pid=28322
+[1579692905] wproc: Registry request: name=Core Worker 28321;pid=28321
+[1579692905] wproc: Registry request: name=Core Worker 28331;pid=28331
+[1579692905] wproc: Registry request: name=Core Worker 28318;pid=28318
+[1579692905] wproc: Registry request: name=Core Worker 28317;pid=28317
+[1579692905] wproc: Registry request: name=Core Worker 28323;pid=28323
+[1579692905] wproc: Registry request: name=Core Worker 28324;pid=28324
+[1579692905] wproc: Registry request: name=Core Worker 28325;pid=28325
+[1579692905] wproc: Registry request: name=Core Worker 28326;pid=28326
+[1579692905] wproc: Registry request: name=Core Worker 28329;pid=28329
+[1579692905] wproc: Registry request: name=Core Worker 28328;pid=28328
+[1579692905] wproc: Registry request: name=Core Worker 28330;pid=28330
+[1579692905] wproc: Registry request: name=Core Worker 28327;pid=28327
+[1579692905] wproc: Registry request: name=Core Worker 28333;pid=28333
+[1579692905] wproc: Registry request: name=Core Worker 28334;pid=28334
+[1579692905] SERVICE FLAPPING ALERT: vdb-102;Current Load;STARTED; Service appears to have started flapping (22.5% change >= 20.0% threshold)
+[1579692905] SERVICE FLAPPING ALERT: vdb-102;Current Users;STARTED; Service appears to have started flapping (23.3% change >= 20.0% threshold)
+[1579692905] Successfully launched command file worker with pid 28335
+[1579692940] SERVICE ALERT: vdb-102;/mnt/data01 Partition;CRITICAL;SOFT;1;NRPE: Command 'check_volume.sh' not defined
+[1579693000] SERVICE ALERT: vdb-102;/mnt/data01 Partition;CRITICAL;SOFT;2;NRPE: Command 'check_volume.sh' not defined
+[1579693060] SERVICE ALERT: vdb-102;/mnt/data01 Partition;CRITICAL;SOFT;3;NRPE: Command 'check_volume.sh' not defined
+[1579693120] SERVICE NOTIFICATION: nagiosadmin;vdb-102;/mnt/data01 Partition;CRITICAL;notify-service-by-email;NRPE: Command 'check_volume.sh' not defined
+[1579693120] SERVICE ALERT: vdb-102;/mnt/data01 Partition;CRITICAL;HARD;4;NRPE: Command 'check_volume.sh' not defined
+[1579693155] Caught SIGTERM, shutting down...
+[1579693155] Caught SIGTERM, shutting down...
+[1579693155] Successfully shutdown... (PID=28308)
+[1579693155] Nagios 4.4.5 starting... (PID=28827)
+[1579693155] Local time is Wed Jan 22 03:39:15 PST 2020
+[1579693155] LOG VERSION: 2.0
+[1579693155] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579693155] qh: core query handler registered
+[1579693155] qh: echo service query handler registered
+[1579693155] qh: help for the query handler registered
+[1579693155] wproc: Successfully registered manager as @wproc with query handler
+[1579693156] wproc: Registry request: name=Core Worker 28830;pid=28830
+[1579693156] wproc: Registry request: name=Core Worker 28831;pid=28831
+[1579693156] wproc: Registry request: name=Core Worker 28832;pid=28832
+[1579693156] wproc: Registry request: name=Core Worker 28840;pid=28840
+[1579693156] wproc: Registry request: name=Core Worker 28852;pid=28852
+[1579693156] wproc: Registry request: name=Core Worker 28841;pid=28841
+[1579693156] wproc: Registry request: name=Core Worker 28854;pid=28854
+[1579693156] wproc: Registry request: name=Core Worker 28843;pid=28843
+[1579693156] wproc: Registry request: name=Core Worker 28846;pid=28846
+[1579693156] wproc: Registry request: name=Core Worker 28850;pid=28850
+[1579693156] wproc: Registry request: name=Core Worker 28853;pid=28853
+[1579693156] wproc: Registry request: name=Core Worker 28855;pid=28855
+[1579693156] wproc: Registry request: name=Core Worker 28833;pid=28833
+[1579693156] wproc: Registry request: name=Core Worker 28836;pid=28836
+[1579693156] wproc: Registry request: name=Core Worker 28837;pid=28837
+[1579693156] wproc: Registry request: name=Core Worker 28839;pid=28839
+[1579693156] wproc: Registry request: name=Core Worker 28851;pid=28851
+[1579693156] wproc: Registry request: name=Core Worker 28842;pid=28842
+[1579693156] wproc: Registry request: name=Core Worker 28838;pid=28838
+[1579693156] wproc: Registry request: name=Core Worker 28844;pid=28844
+[1579693156] wproc: Registry request: name=Core Worker 28856;pid=28856
+[1579693156] wproc: Registry request: name=Core Worker 28847;pid=28847
+[1579693156] wproc: Registry request: name=Core Worker 28848;pid=28848
+[1579693156] wproc: Registry request: name=Core Worker 28845;pid=28845
+[1579693156] SERVICE FLAPPING ALERT: vdb-102;Current Load;STARTED; Service appears to have started flapping (22.0% change >= 20.0% threshold)
+[1579693156] SERVICE FLAPPING ALERT: vdb-102;Current Users;STARTED; Service appears to have started flapping (22.8% change >= 20.0% threshold)
+[1579693156] Successfully launched command file worker with pid 28857
+[1579693599] SERVICE NOTIFICATION: nagiosadmin;vdb-102;HTTP;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1579694675] Caught SIGTERM, shutting down...
+[1579694675] Caught SIGTERM, shutting down...
+[1579694675] Successfully shutdown... (PID=28827)
+[1579694675] Nagios 4.4.5 starting... (PID=31607)
+[1579694675] Local time is Wed Jan 22 04:04:35 PST 2020
+[1579694675] LOG VERSION: 2.0
+[1579694675] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579694675] qh: core query handler registered
+[1579694675] qh: echo service query handler registered
+[1579694675] qh: help for the query handler registered
+[1579694675] wproc: Successfully registered manager as @wproc with query handler
+[1579694675] wproc: Registry request: name=Core Worker 31610;pid=31610
+[1579694675] wproc: Registry request: name=Core Worker 31609;pid=31609
+[1579694675] wproc: Registry request: name=Core Worker 31611;pid=31611
+[1579694675] wproc: Registry request: name=Core Worker 31612;pid=31612
+[1579694675] wproc: Registry request: name=Core Worker 31627;pid=31627
+[1579694675] wproc: Registry request: name=Core Worker 31626;pid=31626
+[1579694675] wproc: Registry request: name=Core Worker 31628;pid=31628
+[1579694675] wproc: Registry request: name=Core Worker 31630;pid=31630
+[1579694675] wproc: Registry request: name=Core Worker 31613;pid=31613
+[1579694675] wproc: Registry request: name=Core Worker 31614;pid=31614
+[1579694675] wproc: Registry request: name=Core Worker 31615;pid=31615
+[1579694675] wproc: Registry request: name=Core Worker 31616;pid=31616
+[1579694675] wproc: Registry request: name=Core Worker 31622;pid=31622
+[1579694675] wproc: Registry request: name=Core Worker 31623;pid=31623
+[1579694675] wproc: Registry request: name=Core Worker 31625;pid=31625
+[1579694675] wproc: Registry request: name=Core Worker 31624;pid=31624
+[1579694675] wproc: Registry request: name=Core Worker 31629;pid=31629
+[1579694675] wproc: Registry request: name=Core Worker 31631;pid=31631
+[1579694675] wproc: Registry request: name=Core Worker 31632;pid=31632
+[1579694675] wproc: Registry request: name=Core Worker 31617;pid=31617
+[1579694675] wproc: Registry request: name=Core Worker 31618;pid=31618
+[1579694675] wproc: Registry request: name=Core Worker 31621;pid=31621
+[1579694675] wproc: Registry request: name=Core Worker 31619;pid=31619
+[1579694675] wproc: Registry request: name=Core Worker 31620;pid=31620
+[1579694675] SERVICE FLAPPING ALERT: vdb-102;Current Users;STARTED; Service appears to have started flapping (20.1% change >= 20.0% threshold)
+[1579694675] Successfully launched command file worker with pid 31633
+[1579694711] Caught SIGTERM, shutting down...
+[1579694711] Caught SIGTERM, shutting down...
+[1579694711] Successfully shutdown... (PID=31607)
+[1579694711] Nagios 4.4.5 starting... (PID=31747)
+[1579694711] Local time is Wed Jan 22 04:05:11 PST 2020
+[1579694711] LOG VERSION: 2.0
+[1579694711] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579694711] qh: core query handler registered
+[1579694711] qh: echo service query handler registered
+[1579694711] qh: help for the query handler registered
+[1579694711] wproc: Successfully registered manager as @wproc with query handler
+[1579694711] wproc: Registry request: name=Core Worker 31750;pid=31750
+[1579694711] wproc: Registry request: name=Core Worker 31757;pid=31757
+[1579694711] wproc: Registry request: name=Core Worker 31758;pid=31758
+[1579694711] wproc: Registry request: name=Core Worker 31749;pid=31749
+[1579694711] wproc: Registry request: name=Core Worker 31761;pid=31761
+[1579694711] wproc: Registry request: name=Core Worker 31762;pid=31762
+[1579694711] wproc: Registry request: name=Core Worker 31763;pid=31763
+[1579694711] wproc: Registry request: name=Core Worker 31759;pid=31759
+[1579694711] wproc: Registry request: name=Core Worker 31765;pid=31765
+[1579694711] wproc: Registry request: name=Core Worker 31751;pid=31751
+[1579694711] wproc: Registry request: name=Core Worker 31764;pid=31764
+[1579694711] wproc: Registry request: name=Core Worker 31754;pid=31754
+[1579694711] wproc: Registry request: name=Core Worker 31760;pid=31760
+[1579694711] wproc: Registry request: name=Core Worker 31756;pid=31756
+[1579694711] wproc: Registry request: name=Core Worker 31752;pid=31752
+[1579694711] wproc: Registry request: name=Core Worker 31766;pid=31766
+[1579694711] wproc: Registry request: name=Core Worker 31753;pid=31753
+[1579694711] wproc: Registry request: name=Core Worker 31755;pid=31755
+[1579694711] wproc: Registry request: name=Core Worker 31767;pid=31767
+[1579694711] wproc: Registry request: name=Core Worker 31770;pid=31770
+[1579694711] wproc: Registry request: name=Core Worker 31768;pid=31768
+[1579694711] wproc: Registry request: name=Core Worker 31772;pid=31772
+[1579694711] wproc: Registry request: name=Core Worker 31769;pid=31769
+[1579694711] wproc: Registry request: name=Core Worker 31771;pid=31771
+[1579694711] SERVICE FLAPPING ALERT: vdb-102;Current Users;STARTED; Service appears to have started flapping (20.1% change >= 20.0% threshold)
+[1579694711] Successfully launched command file worker with pid 31773
+[1579694756] Caught SIGTERM, shutting down...
+[1579694756] Caught SIGTERM, shutting down...
+[1579694756] Successfully shutdown... (PID=31747)
+[1579694756] Nagios 4.4.5 starting... (PID=31862)
+[1579694756] Local time is Wed Jan 22 04:05:56 PST 2020
+[1579694756] LOG VERSION: 2.0
+[1579694756] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579694756] qh: core query handler registered
+[1579694756] qh: echo service query handler registered
+[1579694756] qh: help for the query handler registered
+[1579694756] wproc: Successfully registered manager as @wproc with query handler
+[1579694756] wproc: Registry request: name=Core Worker 31867;pid=31867
+[1579694756] wproc: Registry request: name=Core Worker 31865;pid=31865
+[1579694756] wproc: Registry request: name=Core Worker 31869;pid=31869
+[1579694756] wproc: Registry request: name=Core Worker 31866;pid=31866
+[1579694756] wproc: Registry request: name=Core Worker 31873;pid=31873
+[1579694756] wproc: Registry request: name=Core Worker 31864;pid=31864
+[1579694756] wproc: Registry request: name=Core Worker 31874;pid=31874
+[1579694756] wproc: Registry request: name=Core Worker 31880;pid=31880
+[1579694756] wproc: Registry request: name=Core Worker 31868;pid=31868
+[1579694756] wproc: Registry request: name=Core Worker 31881;pid=31881
+[1579694756] wproc: Registry request: name=Core Worker 31872;pid=31872
+[1579694756] wproc: Registry request: name=Core Worker 31875;pid=31875
+[1579694756] wproc: Registry request: name=Core Worker 31878;pid=31878
+[1579694756] wproc: Registry request: name=Core Worker 31882;pid=31882
+[1579694756] wproc: Registry request: name=Core Worker 31879;pid=31879
+[1579694756] wproc: Registry request: name=Core Worker 31871;pid=31871
+[1579694756] wproc: Registry request: name=Core Worker 31870;pid=31870
+[1579694756] wproc: Registry request: name=Core Worker 31884;pid=31884
+[1579694756] wproc: Registry request: name=Core Worker 31883;pid=31883
+[1579694756] wproc: Registry request: name=Core Worker 31876;pid=31876
+[1579694756] wproc: Registry request: name=Core Worker 31885;pid=31885
+[1579694756] wproc: Registry request: name=Core Worker 31877;pid=31877
+[1579694756] wproc: Registry request: name=Core Worker 31886;pid=31886
+[1579694756] wproc: Registry request: name=Core Worker 31887;pid=31887
+[1579694756] SERVICE FLAPPING ALERT: vdb-102;Current Users;STARTED; Service appears to have started flapping (20.1% change >= 20.0% threshold)
+[1579694756] Successfully launched command file worker with pid 31888
+[1579695034] Caught SIGTERM, shutting down...
+[1579695034] Caught SIGTERM, shutting down...
+[1579695034] Successfully shutdown... (PID=31862)
+[1579695034] Nagios 4.4.5 starting... (PID=32441)
+[1579695034] Local time is Wed Jan 22 04:10:34 PST 2020
+[1579695034] LOG VERSION: 2.0
+[1579695034] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579695034] qh: core query handler registered
+[1579695034] qh: echo service query handler registered
+[1579695034] qh: help for the query handler registered
+[1579695034] wproc: Successfully registered manager as @wproc with query handler
+[1579695034] wproc: Registry request: name=Core Worker 32444;pid=32444
+[1579695034] wproc: Registry request: name=Core Worker 32443;pid=32443
+[1579695034] wproc: Registry request: name=Core Worker 32447;pid=32447
+[1579695034] wproc: Registry request: name=Core Worker 32445;pid=32445
+[1579695034] wproc: Registry request: name=Core Worker 32451;pid=32451
+[1579695034] wproc: Registry request: name=Core Worker 32450;pid=32450
+[1579695034] wproc: Registry request: name=Core Worker 32446;pid=32446
+[1579695034] wproc: Registry request: name=Core Worker 32455;pid=32455
+[1579695034] wproc: Registry request: name=Core Worker 32466;pid=32466
+[1579695034] wproc: Registry request: name=Core Worker 32457;pid=32457
+[1579695034] wproc: Registry request: name=Core Worker 32458;pid=32458
+[1579695034] wproc: Registry request: name=Core Worker 32449;pid=32449
+[1579695034] wproc: Registry request: name=Core Worker 32459;pid=32459
+[1579695034] wproc: Registry request: name=Core Worker 32454;pid=32454
+[1579695034] wproc: Registry request: name=Core Worker 32452;pid=32452
+[1579695034] wproc: Registry request: name=Core Worker 32453;pid=32453
+[1579695034] wproc: Registry request: name=Core Worker 32448;pid=32448
+[1579695034] wproc: Registry request: name=Core Worker 32460;pid=32460
+[1579695034] wproc: Registry request: name=Core Worker 32461;pid=32461
+[1579695034] wproc: Registry request: name=Core Worker 32463;pid=32463
+[1579695034] wproc: Registry request: name=Core Worker 32456;pid=32456
+[1579695034] wproc: Registry request: name=Core Worker 32464;pid=32464
+[1579695034] wproc: Registry request: name=Core Worker 32462;pid=32462
+[1579695034] wproc: Registry request: name=Core Worker 32465;pid=32465
+[1579695034] Successfully launched command file worker with pid 32467
+[1579695091] Caught SIGTERM, shutting down...
+[1579695091] Caught SIGTERM, shutting down...
+[1579695091] Successfully shutdown... (PID=32441)
+[1579695091] Nagios 4.4.5 starting... (PID=32606)
+[1579695091] Local time is Wed Jan 22 04:11:31 PST 2020
+[1579695091] LOG VERSION: 2.0
+[1579695091] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579695091] qh: core query handler registered
+[1579695091] qh: echo service query handler registered
+[1579695091] qh: help for the query handler registered
+[1579695091] wproc: Successfully registered manager as @wproc with query handler
+[1579695091] wproc: Registry request: name=Core Worker 32609;pid=32609
+[1579695091] wproc: Registry request: name=Core Worker 32613;pid=32613
+[1579695091] wproc: Registry request: name=Core Worker 32608;pid=32608
+[1579695091] wproc: Registry request: name=Core Worker 32610;pid=32610
+[1579695091] wproc: Registry request: name=Core Worker 32622;pid=32622
+[1579695091] wproc: Registry request: name=Core Worker 32614;pid=32614
+[1579695091] wproc: Registry request: name=Core Worker 32611;pid=32611
+[1579695091] wproc: Registry request: name=Core Worker 32617;pid=32617
+[1579695091] wproc: Registry request: name=Core Worker 32616;pid=32616
+[1579695091] wproc: Registry request: name=Core Worker 32615;pid=32615
+[1579695091] wproc: Registry request: name=Core Worker 32629;pid=32629
+[1579695091] wproc: Registry request: name=Core Worker 32619;pid=32619
+[1579695091] wproc: Registry request: name=Core Worker 32612;pid=32612
+[1579695091] wproc: Registry request: name=Core Worker 32618;pid=32618
+[1579695091] wproc: Registry request: name=Core Worker 32620;pid=32620
+[1579695091] wproc: Registry request: name=Core Worker 32623;pid=32623
+[1579695091] wproc: Registry request: name=Core Worker 32628;pid=32628
+[1579695091] wproc: Registry request: name=Core Worker 32621;pid=32621
+[1579695091] wproc: Registry request: name=Core Worker 32624;pid=32624
+[1579695091] wproc: Registry request: name=Core Worker 32625;pid=32625
+[1579695091] wproc: Registry request: name=Core Worker 32627;pid=32627
+[1579695091] wproc: Registry request: name=Core Worker 32631;pid=32631
+[1579695091] wproc: Registry request: name=Core Worker 32630;pid=32630
+[1579695091] wproc: Registry request: name=Core Worker 32626;pid=32626
+[1579695091] Successfully launched command file worker with pid 32632
+[1579695177] Caught SIGTERM, shutting down...
+[1579695177] Caught SIGTERM, shutting down...
+[1579695177] Successfully shutdown... (PID=32606)
+[1579695177] Nagios 4.4.5 starting... (PID=368)
+[1579695177] Local time is Wed Jan 22 04:12:57 PST 2020
+[1579695177] LOG VERSION: 2.0
+[1579695177] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579695177] qh: core query handler registered
+[1579695177] qh: echo service query handler registered
+[1579695177] qh: help for the query handler registered
+[1579695177] wproc: Successfully registered manager as @wproc with query handler
+[1579695177] wproc: Registry request: name=Core Worker 371;pid=371
+[1579695177] wproc: Registry request: name=Core Worker 370;pid=370
+[1579695177] wproc: Registry request: name=Core Worker 372;pid=372
+[1579695177] wproc: Registry request: name=Core Worker 375;pid=375
+[1579695177] wproc: Registry request: name=Core Worker 374;pid=374
+[1579695177] wproc: Registry request: name=Core Worker 378;pid=378
+[1579695177] wproc: Registry request: name=Core Worker 376;pid=376
+[1579695177] wproc: Registry request: name=Core Worker 377;pid=377
+[1579695177] wproc: Registry request: name=Core Worker 373;pid=373
+[1579695177] wproc: Registry request: name=Core Worker 385;pid=385
+[1579695177] wproc: Registry request: name=Core Worker 383;pid=383
+[1579695177] wproc: Registry request: name=Core Worker 384;pid=384
+[1579695177] wproc: Registry request: name=Core Worker 379;pid=379
+[1579695177] wproc: Registry request: name=Core Worker 386;pid=386
+[1579695177] wproc: Registry request: name=Core Worker 380;pid=380
+[1579695177] wproc: Registry request: name=Core Worker 381;pid=381
+[1579695177] wproc: Registry request: name=Core Worker 382;pid=382
+[1579695177] wproc: Registry request: name=Core Worker 387;pid=387
+[1579695177] wproc: Registry request: name=Core Worker 388;pid=388
+[1579695177] wproc: Registry request: name=Core Worker 389;pid=389
+[1579695177] wproc: Registry request: name=Core Worker 390;pid=390
+[1579695177] wproc: Registry request: name=Core Worker 391;pid=391
+[1579695177] wproc: Registry request: name=Core Worker 393;pid=393
+[1579695177] wproc: Registry request: name=Core Worker 392;pid=392
+[1579695177] Successfully launched command file worker with pid 394
+[1579695220] SERVICE NOTIFICATION: nagiosadmin;vdb-102;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 92% capacity! 3.2T of 3.7T
+[1579695220] SERVICE ALERT: vdb-102;/mnt/data01 Partition;WARNING;HARD;4;/mnt/data01 is at 92% capacity! 3.2T of 3.7T
+[1579695237] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-102;/mnt/data01 Partition;1579695238
+[1579695264] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-102;PING;1579695268
+[1579695278] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-102;Root Partition;1579695283
+[1579695283] SERVICE FLAPPING ALERT: vdb-102;Root Partition;STARTED; Service appears to have started flapping (20.0% change >= 20.0% threshold)
+[1579695283] SERVICE ALERT: vdb-102;Root Partition;WARNING;HARD;4;/mnt/data01 is at 92% capacity! 3.2T of 3.7T
+[1579695442] Caught SIGTERM, shutting down...
+[1579695442] Caught SIGTERM, shutting down...
+[1579695442] Successfully shutdown... (PID=368)
+[1579695442] Nagios 4.4.5 starting... (PID=857)
+[1579695442] Local time is Wed Jan 22 04:17:22 PST 2020
+[1579695442] LOG VERSION: 2.0
+[1579695442] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579695442] qh: core query handler registered
+[1579695442] qh: echo service query handler registered
+[1579695442] qh: help for the query handler registered
+[1579695442] wproc: Successfully registered manager as @wproc with query handler
+[1579695442] wproc: Registry request: name=Core Worker 860;pid=860
+[1579695442] wproc: Registry request: name=Core Worker 861;pid=861
+[1579695442] wproc: Registry request: name=Core Worker 862;pid=862
+[1579695442] wproc: Registry request: name=Core Worker 866;pid=866
+[1579695442] wproc: Registry request: name=Core Worker 865;pid=865
+[1579695442] wproc: Registry request: name=Core Worker 869;pid=869
+[1579695442] wproc: Registry request: name=Core Worker 870;pid=870
+[1579695442] wproc: Registry request: name=Core Worker 863;pid=863
+[1579695442] wproc: Registry request: name=Core Worker 882;pid=882
+[1579695442] wproc: Registry request: name=Core Worker 867;pid=867
+[1579695442] wproc: Registry request: name=Core Worker 859;pid=859
+[1579695442] wproc: Registry request: name=Core Worker 864;pid=864
+[1579695442] wproc: Registry request: name=Core Worker 881;pid=881
+[1579695442] wproc: Registry request: name=Core Worker 868;pid=868
+[1579695442] wproc: Registry request: name=Core Worker 876;pid=876
+[1579695442] wproc: Registry request: name=Core Worker 879;pid=879
+[1579695442] wproc: Registry request: name=Core Worker 872;pid=872
+[1579695442] wproc: Registry request: name=Core Worker 871;pid=871
+[1579695442] wproc: Registry request: name=Core Worker 878;pid=878
+[1579695442] wproc: Registry request: name=Core Worker 875;pid=875
+[1579695442] wproc: Registry request: name=Core Worker 873;pid=873
+[1579695442] wproc: Registry request: name=Core Worker 874;pid=874
+[1579695442] wproc: Registry request: name=Core Worker 880;pid=880
+[1579695442] wproc: Registry request: name=Core Worker 877;pid=877
+[1579695442] SERVICE FLAPPING ALERT: vdb-102;Root Partition;STARTED; Service appears to have started flapping (20.0% change >= 20.0% threshold)
+[1579695442] Successfully launched command file worker with pid 883
+[1579695471] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-102;Root Partition;1579695476
+[1579695476] SERVICE ALERT: vdb-102;Root Partition;CRITICAL;HARD;4;NRPE: Command 'check_root_size' not defined
+[1579695538] SERVICE NOTIFICATION: nagiosadmin;vdb-102;/mnt/data01 Partition;CRITICAL;notify-service-by-email;NRPE: Command 'check_mount_size' not defined
+[1579695538] SERVICE ALERT: vdb-102;/mnt/data01 Partition;CRITICAL;HARD;4;NRPE: Command 'check_mount_size' not defined
+[1579695695] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Total Processes;CRITICAL;notify-service-by-email;PROCS CRITICAL: 287 processes
+[1579695831] Caught SIGTERM, shutting down...
+[1579695831] Caught SIGTERM, shutting down...
+[1579695831] Successfully shutdown... (PID=857)
+[1579695831] Nagios 4.4.5 starting... (PID=1723)
+[1579695831] Local time is Wed Jan 22 04:23:51 PST 2020
+[1579695831] LOG VERSION: 2.0
+[1579695831] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579695831] qh: core query handler registered
+[1579695831] qh: echo service query handler registered
+[1579695831] qh: help for the query handler registered
+[1579695831] wproc: Successfully registered manager as @wproc with query handler
+[1579695831] wproc: Registry request: name=Core Worker 1728;pid=1728
+[1579695831] wproc: Registry request: name=Core Worker 1736;pid=1736
+[1579695831] wproc: Registry request: name=Core Worker 1727;pid=1727
+[1579695831] wproc: Registry request: name=Core Worker 1740;pid=1740
+[1579695831] wproc: Registry request: name=Core Worker 1741;pid=1741
+[1579695831] wproc: Registry request: name=Core Worker 1729;pid=1729
+[1579695831] wproc: Registry request: name=Core Worker 1738;pid=1738
+[1579695831] wproc: Registry request: name=Core Worker 1731;pid=1731
+[1579695831] wproc: Registry request: name=Core Worker 1725;pid=1725
+[1579695831] wproc: Registry request: name=Core Worker 1737;pid=1737
+[1579695831] wproc: Registry request: name=Core Worker 1733;pid=1733
+[1579695831] wproc: Registry request: name=Core Worker 1742;pid=1742
+[1579695831] wproc: Registry request: name=Core Worker 1732;pid=1732
+[1579695831] wproc: Registry request: name=Core Worker 1730;pid=1730
+[1579695831] wproc: Registry request: name=Core Worker 1734;pid=1734
+[1579695831] wproc: Registry request: name=Core Worker 1735;pid=1735
+[1579695831] wproc: Registry request: name=Core Worker 1749;pid=1749
+[1579695831] wproc: Registry request: name=Core Worker 1739;pid=1739
+[1579695831] wproc: Registry request: name=Core Worker 1744;pid=1744
+[1579695831] wproc: Registry request: name=Core Worker 1745;pid=1745
+[1579695831] wproc: Registry request: name=Core Worker 1743;pid=1743
+[1579695831] wproc: Registry request: name=Core Worker 1746;pid=1746
+[1579695831] wproc: Registry request: name=Core Worker 1747;pid=1747
+[1579695831] wproc: Registry request: name=Core Worker 1748;pid=1748
+[1579695831] SERVICE FLAPPING ALERT: vdb-102;Root Partition;STARTED; Service appears to have started flapping (25.1% change >= 20.0% threshold)
+[1579695831] Successfully launched command file worker with pid 1750
+[1579695838] SERVICE FLAPPING ALERT: vdb-102;/mnt/data01 Partition;STARTED; Service appears to have started flapping (23.2% change >= 20.0% threshold)
+[1579695838] SERVICE ALERT: vdb-102;/mnt/data01 Partition;WARNING;HARD;4;/mnt/data01 is at 92% capacity! 3.2T of 3.7T
+[1579695857] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;NRPE: Command 'check_swap' not defined
+[1579695937] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-102;PING;1579695943
+[1579695943] SERVICE NOTIFICATION: nagiosadmin;vdb-102;PING;CRITICAL;notify-service-by-email;NRPE: Command 'check_ping' not defined
+[1579695983] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-102;PING;1579695989
+[1579696002] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-102;Root Partition;1579696007
+[1579696007] SERVICE ALERT: vdb-102;Root Partition;WARNING;HARD;4;/mnt/data01 is at 92% capacity! 3.2T of 3.7T
+[1579696243] Caught SIGTERM, shutting down...
+[1579696243] Caught SIGTERM, shutting down...
+[1579696243] Successfully shutdown... (PID=1723)
+[1579696243] Nagios 4.4.5 starting... (PID=2467)
+[1579696243] Local time is Wed Jan 22 04:30:43 PST 2020
+[1579696243] LOG VERSION: 2.0
+[1579696243] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579696243] qh: core query handler registered
+[1579696243] qh: echo service query handler registered
+[1579696243] qh: help for the query handler registered
+[1579696243] wproc: Successfully registered manager as @wproc with query handler
+[1579696243] wproc: Registry request: name=Core Worker 2471;pid=2471
+[1579696243] wproc: Registry request: name=Core Worker 2472;pid=2472
+[1579696243] wproc: Registry request: name=Core Worker 2473;pid=2473
+[1579696243] wproc: Registry request: name=Core Worker 2479;pid=2479
+[1579696243] wproc: Registry request: name=Core Worker 2474;pid=2474
+[1579696243] wproc: Registry request: name=Core Worker 2475;pid=2475
+[1579696243] wproc: Registry request: name=Core Worker 2476;pid=2476
+[1579696243] wproc: Registry request: name=Core Worker 2477;pid=2477
+[1579696243] wproc: Registry request: name=Core Worker 2478;pid=2478
+[1579696243] wproc: Registry request: name=Core Worker 2480;pid=2480
+[1579696243] wproc: Registry request: name=Core Worker 2481;pid=2481
+[1579696243] wproc: Registry request: name=Core Worker 2491;pid=2491
+[1579696243] wproc: Registry request: name=Core Worker 2493;pid=2493
+[1579696243] wproc: Registry request: name=Core Worker 2483;pid=2483
+[1579696243] wproc: Registry request: name=Core Worker 2482;pid=2482
+[1579696243] wproc: Registry request: name=Core Worker 2484;pid=2484
+[1579696243] wproc: Registry request: name=Core Worker 2489;pid=2489
+[1579696243] wproc: Registry request: name=Core Worker 2485;pid=2485
+[1579696243] wproc: Registry request: name=Core Worker 2494;pid=2494
+[1579696243] wproc: Registry request: name=Core Worker 2486;pid=2486
+[1579696243] wproc: Registry request: name=Core Worker 2487;pid=2487
+[1579696243] wproc: Registry request: name=Core Worker 2488;pid=2488
+[1579696243] wproc: Registry request: name=Core Worker 2490;pid=2490
+[1579696243] wproc: Registry request: name=Core Worker 2492;pid=2492
+[1579696243] SERVICE FLAPPING ALERT: vdb-102;/mnt/data01 Partition;STARTED; Service appears to have started flapping (22.6% change >= 20.0% threshold)
+[1579696243] SERVICE FLAPPING ALERT: vdb-102;Root Partition;STARTED; Service appears to have started flapping (30.7% change >= 20.0% threshold)
+[1579696243] Successfully launched command file worker with pid 2495
+[1579696267] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-102;Swap Usage;1579696272
+[1579696289] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-102;Root Partition;1579696294
+[1579696436] Caught SIGTERM, shutting down...
+[1579696436] Caught SIGTERM, shutting down...
+[1579696436] Successfully shutdown... (PID=2467)
+[1579696436] Nagios 4.4.5 starting... (PID=2921)
+[1579696436] Local time is Wed Jan 22 04:33:56 PST 2020
+[1579696436] LOG VERSION: 2.0
+[1579696436] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579696436] qh: core query handler registered
+[1579696436] qh: echo service query handler registered
+[1579696436] qh: help for the query handler registered
+[1579696436] wproc: Successfully registered manager as @wproc with query handler
+[1579696436] wproc: Registry request: name=Core Worker 2923;pid=2923
+[1579696436] wproc: Registry request: name=Core Worker 2926;pid=2926
+[1579696436] wproc: Registry request: name=Core Worker 2925;pid=2925
+[1579696436] wproc: Registry request: name=Core Worker 2924;pid=2924
+[1579696436] wproc: Registry request: name=Core Worker 2938;pid=2938
+[1579696436] wproc: Registry request: name=Core Worker 2930;pid=2930
+[1579696436] wproc: Registry request: name=Core Worker 2939;pid=2939
+[1579696436] wproc: Registry request: name=Core Worker 2929;pid=2929
+[1579696436] wproc: Registry request: name=Core Worker 2932;pid=2932
+[1579696436] wproc: Registry request: name=Core Worker 2928;pid=2928
+[1579696436] wproc: Registry request: name=Core Worker 2927;pid=2927
+[1579696436] wproc: Registry request: name=Core Worker 2931;pid=2931
+[1579696436] wproc: Registry request: name=Core Worker 2933;pid=2933
+[1579696436] wproc: Registry request: name=Core Worker 2934;pid=2934
+[1579696436] wproc: Registry request: name=Core Worker 2937;pid=2937
+[1579696436] wproc: Registry request: name=Core Worker 2940;pid=2940
+[1579696436] wproc: Registry request: name=Core Worker 2942;pid=2942
+[1579696436] wproc: Registry request: name=Core Worker 2944;pid=2944
+[1579696436] wproc: Registry request: name=Core Worker 2945;pid=2945
+[1579696436] wproc: Registry request: name=Core Worker 2946;pid=2946
+[1579696436] wproc: Registry request: name=Core Worker 2936;pid=2936
+[1579696436] wproc: Registry request: name=Core Worker 2943;pid=2943
+[1579696436] wproc: Registry request: name=Core Worker 2941;pid=2941
+[1579696436] wproc: Registry request: name=Core Worker 2935;pid=2935
+[1579696436] SERVICE FLAPPING ALERT: vdb-102;/mnt/data01 Partition;STARTED; Service appears to have started flapping (22.6% change >= 20.0% threshold)
+[1579696436] SERVICE FLAPPING ALERT: vdb-102;Root Partition;STARTED; Service appears to have started flapping (29.9% change >= 20.0% threshold)
+[1579696436] Successfully launched command file worker with pid 2947
+[1579696438] SERVICE ALERT: vdb-102;/mnt/data01 Partition;CRITICAL;HARD;4;NRPE: Command 'check_volume_1' not defined
+[1579696485] EXTERNAL COMMAND: SCHEDULE_FORCED_HOST_SVC_CHECKS;vdb-102;1579696485
+[1579696586] Caught SIGTERM, shutting down...
+[1579696586] Caught SIGTERM, shutting down...
+[1579696586] Successfully shutdown... (PID=2921)
+[1579696586] Nagios 4.4.5 starting... (PID=3205)
+[1579696586] Local time is Wed Jan 22 04:36:26 PST 2020
+[1579696586] LOG VERSION: 2.0
+[1579696586] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579696586] qh: core query handler registered
+[1579696586] qh: echo service query handler registered
+[1579696586] qh: help for the query handler registered
+[1579696586] wproc: Successfully registered manager as @wproc with query handler
+[1579696586] wproc: Registry request: name=Core Worker 3207;pid=3207
+[1579696586] wproc: Registry request: name=Core Worker 3209;pid=3209
+[1579696586] wproc: Registry request: name=Core Worker 3208;pid=3208
+[1579696586] wproc: Registry request: name=Core Worker 3210;pid=3210
+[1579696586] wproc: Registry request: name=Core Worker 3220;pid=3220
+[1579696586] wproc: Registry request: name=Core Worker 3211;pid=3211
+[1579696586] wproc: Registry request: name=Core Worker 3219;pid=3219
+[1579696586] wproc: Registry request: name=Core Worker 3215;pid=3215
+[1579696586] wproc: Registry request: name=Core Worker 3218;pid=3218
+[1579696586] wproc: Registry request: name=Core Worker 3216;pid=3216
+[1579696586] wproc: Registry request: name=Core Worker 3217;pid=3217
+[1579696586] wproc: Registry request: name=Core Worker 3214;pid=3214
+[1579696586] wproc: Registry request: name=Core Worker 3213;pid=3213
+[1579696586] wproc: Registry request: name=Core Worker 3212;pid=3212
+[1579696586] wproc: Registry request: name=Core Worker 3222;pid=3222
+[1579696586] wproc: Registry request: name=Core Worker 3221;pid=3221
+[1579696586] wproc: Registry request: name=Core Worker 3223;pid=3223
+[1579696586] wproc: Registry request: name=Core Worker 3224;pid=3224
+[1579696586] wproc: Registry request: name=Core Worker 3230;pid=3230
+[1579696586] wproc: Registry request: name=Core Worker 3229;pid=3229
+[1579696586] wproc: Registry request: name=Core Worker 3228;pid=3228
+[1579696586] wproc: Registry request: name=Core Worker 3227;pid=3227
+[1579696586] wproc: Registry request: name=Core Worker 3226;pid=3226
+[1579696586] wproc: Registry request: name=Core Worker 3225;pid=3225
+[1579696586] Warning: Duplicate definition found for command 'check_ping' (config file '/usr/local/nagios/etc/objects/commands.cfg', starting on line 198)
+[1579696586] Error: Could not add object property in file '/usr/local/nagios/etc/objects/commands.cfg' on line 200.
+[1579696586] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=3205)
+[1579696924] Nagios 4.4.5 starting... (PID=3989)
+[1579696924] Local time is Wed Jan 22 04:42:04 PST 2020
+[1579696924] LOG VERSION: 2.0
+[1579696924] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579696924] qh: core query handler registered
+[1579696924] qh: echo service query handler registered
+[1579696924] qh: help for the query handler registered
+[1579696924] wproc: Successfully registered manager as @wproc with query handler
+[1579696924] wproc: Registry request: name=Core Worker 3991;pid=3991
+[1579696924] wproc: Registry request: name=Core Worker 3992;pid=3992
+[1579696924] wproc: Registry request: name=Core Worker 3993;pid=3993
+[1579696924] wproc: Registry request: name=Core Worker 3994;pid=3994
+[1579696924] wproc: Registry request: name=Core Worker 4007;pid=4007
+[1579696924] wproc: Registry request: name=Core Worker 3995;pid=3995
+[1579696924] wproc: Registry request: name=Core Worker 4008;pid=4008
+[1579696924] wproc: Registry request: name=Core Worker 3996;pid=3996
+[1579696924] wproc: Registry request: name=Core Worker 3998;pid=3998
+[1579696924] wproc: Registry request: name=Core Worker 3997;pid=3997
+[1579696924] wproc: Registry request: name=Core Worker 4009;pid=4009
+[1579696924] wproc: Registry request: name=Core Worker 3999;pid=3999
+[1579696924] wproc: Registry request: name=Core Worker 4001;pid=4001
+[1579696924] wproc: Registry request: name=Core Worker 4010;pid=4010
+[1579696924] wproc: Registry request: name=Core Worker 4011;pid=4011
+[1579696924] wproc: Registry request: name=Core Worker 4012;pid=4012
+[1579696924] wproc: Registry request: name=Core Worker 4013;pid=4013
+[1579696924] wproc: Registry request: name=Core Worker 4006;pid=4006
+[1579696924] wproc: Registry request: name=Core Worker 4014;pid=4014
+[1579696924] wproc: Registry request: name=Core Worker 4005;pid=4005
+[1579696924] wproc: Registry request: name=Core Worker 4004;pid=4004
+[1579696924] wproc: Registry request: name=Core Worker 4003;pid=4003
+[1579696924] wproc: Registry request: name=Core Worker 4002;pid=4002
+[1579696924] wproc: Registry request: name=Core Worker 4000;pid=4000
+[1579696924] SERVICE FLAPPING ALERT: vdb-102;/mnt/data01 Partition;STARTED; Service appears to have started flapping (27.7% change >= 20.0% threshold)
+[1579696924] SERVICE FLAPPING ALERT: vdb-102;Root Partition;STARTED; Service appears to have started flapping (25.5% change >= 20.0% threshold)
+[1579696924] Successfully launched command file worker with pid 4015
+[1579697095] Caught SIGTERM, shutting down...
+[1579697095] Caught SIGTERM, shutting down...
+[1579697095] Successfully shutdown... (PID=3989)
+[1579697095] Nagios 4.4.5 starting... (PID=4394)
+[1579697095] Local time is Wed Jan 22 04:44:55 PST 2020
+[1579697095] LOG VERSION: 2.0
+[1579697095] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579697095] qh: core query handler registered
+[1579697095] qh: echo service query handler registered
+[1579697095] qh: help for the query handler registered
+[1579697095] wproc: Successfully registered manager as @wproc with query handler
+[1579697095] wproc: Registry request: name=Core Worker 4396;pid=4396
+[1579697095] wproc: Registry request: name=Core Worker 4400;pid=4400
+[1579697095] wproc: Registry request: name=Core Worker 4399;pid=4399
+[1579697095] wproc: Registry request: name=Core Worker 4405;pid=4405
+[1579697095] wproc: Registry request: name=Core Worker 4426;pid=4426
+[1579697095] wproc: Registry request: name=Core Worker 4404;pid=4404
+[1579697095] wproc: Registry request: name=Core Worker 4406;pid=4406
+[1579697095] wproc: Registry request: name=Core Worker 4427;pid=4427
+[1579697095] wproc: Registry request: name=Core Worker 4401;pid=4401
+[1579697095] wproc: Registry request: name=Core Worker 4429;pid=4429
+[1579697095] wproc: Registry request: name=Core Worker 4402;pid=4402
+[1579697095] wproc: Registry request: name=Core Worker 4431;pid=4431
+[1579697095] wproc: Registry request: name=Core Worker 4403;pid=4403
+[1579697095] wproc: Registry request: name=Core Worker 4430;pid=4430
+[1579697095] wproc: Registry request: name=Core Worker 4434;pid=4434
+[1579697095] wproc: Registry request: name=Core Worker 4432;pid=4432
+[1579697095] wproc: Registry request: name=Core Worker 4435;pid=4435
+[1579697095] wproc: Registry request: name=Core Worker 4439;pid=4439
+[1579697095] wproc: Registry request: name=Core Worker 4437;pid=4437
+[1579697095] wproc: Registry request: name=Core Worker 4436;pid=4436
+[1579697095] wproc: Registry request: name=Core Worker 4428;pid=4428
+[1579697095] wproc: Registry request: name=Core Worker 4433;pid=4433
+[1579697095] wproc: Registry request: name=Core Worker 4440;pid=4440
+[1579697095] wproc: Registry request: name=Core Worker 4438;pid=4438
+[1579697095] SERVICE FLAPPING ALERT: vdb-102;/mnt/data01 Partition;STARTED; Service appears to have started flapping (27.0% change >= 20.0% threshold)
+[1579697095] SERVICE FLAPPING ALERT: vdb-102;Root Partition;STARTED; Service appears to have started flapping (25.5% change >= 20.0% threshold)
+[1579697095] Successfully launched command file worker with pid 4441
+[1579697201] Caught SIGTERM, shutting down...
+[1579697201] Caught SIGTERM, shutting down...
+[1579697201] Successfully shutdown... (PID=4394)
+[1579697201] Nagios 4.4.5 starting... (PID=4623)
+[1579697201] Local time is Wed Jan 22 04:46:41 PST 2020
+[1579697201] LOG VERSION: 2.0
+[1579697201] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579697201] qh: core query handler registered
+[1579697201] qh: echo service query handler registered
+[1579697201] qh: help for the query handler registered
+[1579697201] wproc: Successfully registered manager as @wproc with query handler
+[1579697201] wproc: Registry request: name=Core Worker 4625;pid=4625
+[1579697201] wproc: Registry request: name=Core Worker 4627;pid=4627
+[1579697201] wproc: Registry request: name=Core Worker 4629;pid=4629
+[1579697201] wproc: Registry request: name=Core Worker 4626;pid=4626
+[1579697201] wproc: Registry request: name=Core Worker 4633;pid=4633
+[1579697201] wproc: Registry request: name=Core Worker 4630;pid=4630
+[1579697201] wproc: Registry request: name=Core Worker 4628;pid=4628
+[1579697201] wproc: Registry request: name=Core Worker 4632;pid=4632
+[1579697201] wproc: Registry request: name=Core Worker 4639;pid=4639
+[1579697201] wproc: Registry request: name=Core Worker 4634;pid=4634
+[1579697201] wproc: Registry request: name=Core Worker 4631;pid=4631
+[1579697201] wproc: Registry request: name=Core Worker 4638;pid=4638
+[1579697201] wproc: Registry request: name=Core Worker 4640;pid=4640
+[1579697201] wproc: Registry request: name=Core Worker 4646;pid=4646
+[1579697201] wproc: Registry request: name=Core Worker 4635;pid=4635
+[1579697201] wproc: Registry request: name=Core Worker 4637;pid=4637
+[1579697201] wproc: Registry request: name=Core Worker 4641;pid=4641
+[1579697201] wproc: Registry request: name=Core Worker 4636;pid=4636
+[1579697201] wproc: Registry request: name=Core Worker 4647;pid=4647
+[1579697201] wproc: Registry request: name=Core Worker 4642;pid=4642
+[1579697201] wproc: Registry request: name=Core Worker 4643;pid=4643
+[1579697201] wproc: Registry request: name=Core Worker 4644;pid=4644
+[1579697201] wproc: Registry request: name=Core Worker 4648;pid=4648
+[1579697201] wproc: Registry request: name=Core Worker 4645;pid=4645
+[1579697201] SERVICE FLAPPING ALERT: vdb-102;/mnt/data01 Partition;STARTED; Service appears to have started flapping (27.0% change >= 20.0% threshold)
+[1579697201] SERVICE FLAPPING ALERT: vdb-102;Root Partition;STARTED; Service appears to have started flapping (24.8% change >= 20.0% threshold)
+[1579697201] Successfully launched command file worker with pid 4649
+[1579697261] SERVICE ALERT: vdb-102;/mnt/data01 Partition;WARNING;HARD;4;/mnt/data01 is at 92% capacity! 3.2T of 3.7T
+[1579697573] Caught SIGTERM, shutting down...
+[1579697573] Caught SIGTERM, shutting down...
+[1579697573] Successfully shutdown... (PID=4623)
+[1579697573] Nagios 4.4.5 starting... (PID=5551)
+[1579697573] Local time is Wed Jan 22 04:52:53 PST 2020
+[1579697573] LOG VERSION: 2.0
+[1579697573] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579697573] qh: core query handler registered
+[1579697573] qh: echo service query handler registered
+[1579697573] qh: help for the query handler registered
+[1579697573] wproc: Successfully registered manager as @wproc with query handler
+[1579697573] wproc: Registry request: name=Core Worker 5554;pid=5554
+[1579697573] wproc: Registry request: name=Core Worker 5562;pid=5562
+[1579697573] wproc: Registry request: name=Core Worker 5555;pid=5555
+[1579697573] wproc: Registry request: name=Core Worker 5563;pid=5563
+[1579697573] wproc: Registry request: name=Core Worker 5556;pid=5556
+[1579697573] wproc: Registry request: name=Core Worker 5553;pid=5553
+[1579697573] wproc: Registry request: name=Core Worker 5564;pid=5564
+[1579697573] wproc: Registry request: name=Core Worker 5576;pid=5576
+[1579697573] wproc: Registry request: name=Core Worker 5575;pid=5575
+[1579697573] wproc: Registry request: name=Core Worker 5577;pid=5577
+[1579697573] wproc: Registry request: name=Core Worker 5560;pid=5560
+[1579697573] wproc: Registry request: name=Core Worker 5571;pid=5571
+[1579697573] wproc: Registry request: name=Core Worker 5574;pid=5574
+[1579697573] wproc: Registry request: name=Core Worker 5573;pid=5573
+[1579697573] wproc: Registry request: name=Core Worker 5565;pid=5565
+[1579697573] wproc: Registry request: name=Core Worker 5568;pid=5568
+[1579697573] wproc: Registry request: name=Core Worker 5559;pid=5559
+[1579697573] wproc: Registry request: name=Core Worker 5557;pid=5557
+[1579697573] wproc: Registry request: name=Core Worker 5558;pid=5558
+[1579697573] wproc: Registry request: name=Core Worker 5569;pid=5569
+[1579697573] wproc: Registry request: name=Core Worker 5566;pid=5566
+[1579697573] wproc: Registry request: name=Core Worker 5567;pid=5567
+[1579697573] wproc: Registry request: name=Core Worker 5570;pid=5570
+[1579697573] wproc: Registry request: name=Core Worker 5572;pid=5572
+[1579697573] SERVICE FLAPPING ALERT: vdb-102;/mnt/data01 Partition;STARTED; Service appears to have started flapping (31.8% change >= 20.0% threshold)
+[1579697573] Successfully launched command file worker with pid 5578
+[1579699112] Caught SIGTERM, shutting down...
+[1579699112] Caught SIGTERM, shutting down...
+[1579699112] Successfully shutdown... (PID=5551)
+[1579699112] Nagios 4.4.5 starting... (PID=8604)
+[1579699112] Local time is Wed Jan 22 05:18:32 PST 2020
+[1579699112] LOG VERSION: 2.0
+[1579699112] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579699112] qh: core query handler registered
+[1579699112] qh: echo service query handler registered
+[1579699112] qh: help for the query handler registered
+[1579699112] wproc: Successfully registered manager as @wproc with query handler
+[1579699112] wproc: Registry request: name=Core Worker 8606;pid=8606
+[1579699112] wproc: Registry request: name=Core Worker 8607;pid=8607
+[1579699112] wproc: Registry request: name=Core Worker 8608;pid=8608
+[1579699112] wproc: Registry request: name=Core Worker 8612;pid=8612
+[1579699112] wproc: Registry request: name=Core Worker 8609;pid=8609
+[1579699112] wproc: Registry request: name=Core Worker 8613;pid=8613
+[1579699112] wproc: Registry request: name=Core Worker 8631;pid=8631
+[1579699112] wproc: Registry request: name=Core Worker 8616;pid=8616
+[1579699112] wproc: Registry request: name=Core Worker 8614;pid=8614
+[1579699112] wproc: Registry request: name=Core Worker 8615;pid=8615
+[1579699112] wproc: Registry request: name=Core Worker 8617;pid=8617
+[1579699112] wproc: Registry request: name=Core Worker 8629;pid=8629
+[1579699112] wproc: Registry request: name=Core Worker 8628;pid=8628
+[1579699112] wproc: Registry request: name=Core Worker 8630;pid=8630
+[1579699112] wproc: Registry request: name=Core Worker 8610;pid=8610
+[1579699112] wproc: Registry request: name=Core Worker 8611;pid=8611
+[1579699112] wproc: Registry request: name=Core Worker 8620;pid=8620
+[1579699112] wproc: Registry request: name=Core Worker 8622;pid=8622
+[1579699112] wproc: Registry request: name=Core Worker 8621;pid=8621
+[1579699112] wproc: Registry request: name=Core Worker 8627;pid=8627
+[1579699112] wproc: Registry request: name=Core Worker 8623;pid=8623
+[1579699112] wproc: Registry request: name=Core Worker 8625;pid=8625
+[1579699112] wproc: Registry request: name=Core Worker 8626;pid=8626
+[1579699112] wproc: Registry request: name=Core Worker 8624;pid=8624
+[1579699112] SERVICE FLAPPING ALERT: vdb-102;/mnt/data01 Partition;STARTED; Service appears to have started flapping (24.4% change >= 20.0% threshold)
+[1579699112] Successfully launched command file worker with pid 8632
+[1579699149] SERVICE ALERT: vdb-102;Root Partition;WARNING;SOFT;1;/mnt/data01 is at 92% capacity! 3.2T of 3.7T
+[1579699174] SERVICE NOTIFICATION: nagiosadmin;vdb-102;PING;UNKNOWN;notify-service-by-email;(No output returned from plugin)
+[1579699174] SERVICE ALERT: vdb-102;PING;UNKNOWN;HARD;4;(No output returned from plugin)
+[1579699176] EXTERNAL COMMAND: SCHEDULE_HOST_SVC_CHECKS;vdb-102;1579699176
+[1579699176] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Total Processes;UNKNOWN;notify-service-by-email;(No output returned from plugin)
+[1579699176] SERVICE ALERT: vdb-102;Total Processes;UNKNOWN;HARD;4;(No output returned from plugin)
+[1579699176] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Swap Usage;UNKNOWN;notify-service-by-email;(No output returned from plugin)
+[1579699176] SERVICE ALERT: vdb-102;Swap Usage;UNKNOWN;HARD;4;(No output returned from plugin)
+[1579699176] SERVICE ALERT: vdb-102;Current Load;UNKNOWN;SOFT;1;(No output returned from plugin)
+[1579699176] SERVICE ALERT: vdb-102;Root Partition;WARNING;SOFT;2;/mnt/data01 is at 92% capacity! 3.2T of 3.7T
+[1579699236] SERVICE ALERT: vdb-102;Current Load;UNKNOWN;SOFT;2;(No output returned from plugin)
+[1579699236] SERVICE ALERT: vdb-102;Root Partition;WARNING;SOFT;3;/mnt/data01 is at 92% capacity! 3.2T of 3.7T
+[1579699296] SERVICE ALERT: vdb-102;Current Load;UNKNOWN;SOFT;3;(No output returned from plugin)
+[1579699296] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Root Partition;WARNING;notify-service-by-email;/mnt/data01 is at 92% capacity! 3.2T of 3.7T
+[1579699296] SERVICE ALERT: vdb-102;Root Partition;WARNING;HARD;4;/mnt/data01 is at 92% capacity! 3.2T of 3.7T
+[1579699354] Caught SIGTERM, shutting down...
+[1579699354] Caught SIGTERM, shutting down...
+[1579699354] Successfully shutdown... (PID=8604)
+[1579699354] Nagios 4.4.5 starting... (PID=9446)
+[1579699354] Local time is Wed Jan 22 05:22:34 PST 2020
+[1579699354] LOG VERSION: 2.0
+[1579699354] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579699354] qh: core query handler registered
+[1579699354] qh: echo service query handler registered
+[1579699354] qh: help for the query handler registered
+[1579699354] wproc: Successfully registered manager as @wproc with query handler
+[1579699354] wproc: Registry request: name=Core Worker 9449;pid=9449
+[1579699354] wproc: Registry request: name=Core Worker 9450;pid=9450
+[1579699354] wproc: Registry request: name=Core Worker 9451;pid=9451
+[1579699354] wproc: Registry request: name=Core Worker 9448;pid=9448
+[1579699354] wproc: Registry request: name=Core Worker 9461;pid=9461
+[1579699354] wproc: Registry request: name=Core Worker 9452;pid=9452
+[1579699354] wproc: Registry request: name=Core Worker 9456;pid=9456
+[1579699354] wproc: Registry request: name=Core Worker 9453;pid=9453
+[1579699354] wproc: Registry request: name=Core Worker 9458;pid=9458
+[1579699354] wproc: Registry request: name=Core Worker 9460;pid=9460
+[1579699354] wproc: Registry request: name=Core Worker 9469;pid=9469
+[1579699354] wproc: Registry request: name=Core Worker 9463;pid=9463
+[1579699354] wproc: Registry request: name=Core Worker 9462;pid=9462
+[1579699354] wproc: Registry request: name=Core Worker 9465;pid=9465
+[1579699354] wproc: Registry request: name=Core Worker 9471;pid=9471
+[1579699354] wproc: Registry request: name=Core Worker 9467;pid=9467
+[1579699354] wproc: Registry request: name=Core Worker 9466;pid=9466
+[1579699354] wproc: Registry request: name=Core Worker 9464;pid=9464
+[1579699354] wproc: Registry request: name=Core Worker 9470;pid=9470
+[1579699354] wproc: Registry request: name=Core Worker 9459;pid=9459
+[1579699354] wproc: Registry request: name=Core Worker 9455;pid=9455
+[1579699354] wproc: Registry request: name=Core Worker 9468;pid=9468
+[1579699354] wproc: Registry request: name=Core Worker 9454;pid=9454
+[1579699354] wproc: Registry request: name=Core Worker 9457;pid=9457
+[1579699354] SERVICE FLAPPING ALERT: vdb-102;/mnt/data01 Partition;STARTED; Service appears to have started flapping (23.8% change >= 20.0% threshold)
+[1579699354] Successfully launched command file worker with pid 9472
+[1579699356] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Current Load;UNKNOWN;notify-service-by-email;(No output returned from plugin)
+[1579699356] SERVICE ALERT: vdb-102;Current Load;UNKNOWN;HARD;4;(No output returned from plugin)
+[1579699409] EXTERNAL COMMAND: SCHEDULE_FORCED_HOST_SVC_CHECKS;vdb-102;1579699409
+[1579699409] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Root Partition;UNKNOWN;notify-service-by-email;(No output returned from plugin)
+[1579699409] SERVICE ALERT: vdb-102;Root Partition;UNKNOWN;HARD;4;(No output returned from plugin)
+[1579699409] SERVICE ALERT: vdb-102;/mnt/data01 Partition;UNKNOWN;HARD;4;(No output returned from plugin)
+[1579699409] SERVICE ALERT: vdb-102;Current Users;UNKNOWN;SOFT;1;(No output returned from plugin)
+[1579699469] SERVICE ALERT: vdb-102;Current Users;UNKNOWN;SOFT;2;(No output returned from plugin)
+[1579699529] SERVICE ALERT: vdb-102;Current Users;UNKNOWN;SOFT;3;(No output returned from plugin)
+[1579699589] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Current Users;UNKNOWN;notify-service-by-email;(No output returned from plugin)
+[1579699589] SERVICE ALERT: vdb-102;Current Users;UNKNOWN;HARD;4;(No output returned from plugin)
+[1579700177] Caught SIGTERM, shutting down...
+[1579700177] Caught SIGTERM, shutting down...
+[1579700177] Successfully shutdown... (PID=9446)
+[1579700177] Nagios 4.4.5 starting... (PID=11012)
+[1579700177] Local time is Wed Jan 22 05:36:17 PST 2020
+[1579700177] LOG VERSION: 2.0
+[1579700177] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579700177] qh: core query handler registered
+[1579700177] qh: echo service query handler registered
+[1579700177] qh: help for the query handler registered
+[1579700177] wproc: Successfully registered manager as @wproc with query handler
+[1579700177] wproc: Registry request: name=Core Worker 11015;pid=11015
+[1579700177] wproc: Registry request: name=Core Worker 11014;pid=11014
+[1579700177] wproc: Registry request: name=Core Worker 11021;pid=11021
+[1579700177] wproc: Registry request: name=Core Worker 11016;pid=11016
+[1579700177] wproc: Registry request: name=Core Worker 11022;pid=11022
+[1579700177] wproc: Registry request: name=Core Worker 11017;pid=11017
+[1579700177] wproc: Registry request: name=Core Worker 11023;pid=11023
+[1579700177] wproc: Registry request: name=Core Worker 11026;pid=11026
+[1579700177] wproc: Registry request: name=Core Worker 11028;pid=11028
+[1579700177] wproc: Registry request: name=Core Worker 11024;pid=11024
+[1579700177] wproc: Registry request: name=Core Worker 11037;pid=11037
+[1579700177] wproc: Registry request: name=Core Worker 11025;pid=11025
+[1579700177] wproc: Registry request: name=Core Worker 11018;pid=11018
+[1579700177] wproc: Registry request: name=Core Worker 11020;pid=11020
+[1579700177] wproc: Registry request: name=Core Worker 11019;pid=11019
+[1579700177] wproc: Registry request: name=Core Worker 11030;pid=11030
+[1579700177] wproc: Registry request: name=Core Worker 11027;pid=11027
+[1579700177] wproc: Registry request: name=Core Worker 11031;pid=11031
+[1579700177] wproc: Registry request: name=Core Worker 11029;pid=11029
+[1579700177] wproc: Registry request: name=Core Worker 11032;pid=11032
+[1579700177] wproc: Registry request: name=Core Worker 11034;pid=11034
+[1579700177] wproc: Registry request: name=Core Worker 11033;pid=11033
+[1579700177] wproc: Registry request: name=Core Worker 11035;pid=11035
+[1579700177] wproc: Registry request: name=Core Worker 11036;pid=11036
+[1579700177] SERVICE FLAPPING ALERT: vdb-102;/mnt/data01 Partition;STARTED; Service appears to have started flapping (27.8% change >= 20.0% threshold)
+[1579700177] Successfully launched command file worker with pid 11038
+[1579700189] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Current Users;OK;notify-service-by-email;USERS OK - 2 users currently logged in
+[1579700189] SERVICE ALERT: vdb-102;Current Users;OK;HARD;4;USERS OK - 2 users currently logged in
+[1579700203] Caught SIGTERM, shutting down...
+[1579700203] Caught SIGTERM, shutting down...
+[1579700203] Successfully shutdown... (PID=11012)
+[1579700203] Nagios 4.4.5 starting... (PID=11069)
+[1579700203] Local time is Wed Jan 22 05:36:43 PST 2020
+[1579700203] LOG VERSION: 2.0
+[1579700203] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579700203] qh: core query handler registered
+[1579700203] qh: echo service query handler registered
+[1579700203] qh: help for the query handler registered
+[1579700203] wproc: Successfully registered manager as @wproc with query handler
+[1579700203] wproc: Registry request: name=Core Worker 11073;pid=11073
+[1579700203] wproc: Registry request: name=Core Worker 11081;pid=11081
+[1579700203] wproc: Registry request: name=Core Worker 11087;pid=11087
+[1579700203] wproc: Registry request: name=Core Worker 11088;pid=11088
+[1579700203] wproc: Registry request: name=Core Worker 11083;pid=11083
+[1579700203] wproc: Registry request: name=Core Worker 11090;pid=11090
+[1579700203] wproc: Registry request: name=Core Worker 11077;pid=11077
+[1579700203] wproc: Registry request: name=Core Worker 11074;pid=11074
+[1579700203] wproc: Registry request: name=Core Worker 11078;pid=11078
+[1579700203] wproc: Registry request: name=Core Worker 11089;pid=11089
+[1579700203] wproc: Registry request: name=Core Worker 11079;pid=11079
+[1579700203] wproc: Registry request: name=Core Worker 11085;pid=11085
+[1579700203] wproc: Registry request: name=Core Worker 11076;pid=11076
+[1579700203] wproc: Registry request: name=Core Worker 11080;pid=11080
+[1579700203] wproc: Registry request: name=Core Worker 11082;pid=11082
+[1579700203] wproc: Registry request: name=Core Worker 11096;pid=11096
+[1579700203] wproc: Registry request: name=Core Worker 11075;pid=11075
+[1579700203] wproc: Registry request: name=Core Worker 11084;pid=11084
+[1579700203] wproc: Registry request: name=Core Worker 11086;pid=11086
+[1579700203] wproc: Registry request: name=Core Worker 11094;pid=11094
+[1579700203] wproc: Registry request: name=Core Worker 11092;pid=11092
+[1579700203] wproc: Registry request: name=Core Worker 11093;pid=11093
+[1579700203] wproc: Registry request: name=Core Worker 11095;pid=11095
+[1579700203] wproc: Registry request: name=Core Worker 11091;pid=11091
+[1579700203] SERVICE FLAPPING ALERT: vdb-102;/mnt/data01 Partition;STARTED; Service appears to have started flapping (27.8% change >= 20.0% threshold)
+[1579700203] Successfully launched command file worker with pid 11097
+[1579700309] SERVICE NOTIFICATION: nagiosadmin;vdb-102;PING;CRITICAL;notify-service-by-email;NRPE: Command 'check_ping' not defined
+[1579700309] SERVICE ALERT: vdb-102;PING;CRITICAL;HARD;4;NRPE: Command 'check_ping' not defined
+[1579700309] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;NRPE: Command 'check_swap' not defined
+[1579700309] SERVICE ALERT: vdb-102;Swap Usage;CRITICAL;HARD;4;NRPE: Command 'check_swap' not defined
+[1579700309] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Current Load;OK;notify-service-by-email;OK - load average: 0.23, 0.27, 0.56
+[1579700309] SERVICE ALERT: vdb-102;Current Load;OK;HARD;4;OK - load average: 0.23, 0.27, 0.56
+[1579700309] SERVICE ALERT: vdb-102;/mnt/data01 Partition;WARNING;HARD;4;/mnt/data01 is at 92% capacity! 3.2T of 3.7T
+[1579700309] SERVICE NOTIFICATION: nagiosadmin;vdb-102;Total Processes;CRITICAL;notify-service-by-email;PROCS CRITICAL: 286 processes
+[1579700309] SERVICE ALERT: vdb-102;Total Processes;CRITICAL;HARD;4;PROCS CRITICAL: 286 processes
+[1579700703] Caught SIGTERM, shutting down...
+[1579700703] Caught SIGTERM, shutting down...
+[1579700703] Successfully shutdown... (PID=11069)
+[1579700703] Nagios 4.4.5 starting... (PID=12046)
+[1579700703] Local time is Wed Jan 22 05:45:03 PST 2020
+[1579700703] LOG VERSION: 2.0
+[1579700703] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579700703] qh: core query handler registered
+[1579700703] qh: echo service query handler registered
+[1579700703] qh: help for the query handler registered
+[1579700703] wproc: Successfully registered manager as @wproc with query handler
+[1579700703] wproc: Registry request: name=Core Worker 12048;pid=12048
+[1579700703] wproc: Registry request: name=Core Worker 12049;pid=12049
+[1579700703] wproc: Registry request: name=Core Worker 12050;pid=12050
+[1579700703] wproc: Registry request: name=Core Worker 12053;pid=12053
+[1579700703] wproc: Registry request: name=Core Worker 12052;pid=12052
+[1579700703] wproc: Registry request: name=Core Worker 12057;pid=12057
+[1579700703] wproc: Registry request: name=Core Worker 12054;pid=12054
+[1579700703] wproc: Registry request: name=Core Worker 12058;pid=12058
+[1579700703] wproc: Registry request: name=Core Worker 12066;pid=12066
+[1579700703] wproc: Registry request: name=Core Worker 12059;pid=12059
+[1579700703] wproc: Registry request: name=Core Worker 12071;pid=12071
+[1579700703] wproc: Registry request: name=Core Worker 12067;pid=12067
+[1579700703] wproc: Registry request: name=Core Worker 12051;pid=12051
+[1579700703] wproc: Registry request: name=Core Worker 12055;pid=12055
+[1579700703] wproc: Registry request: name=Core Worker 12061;pid=12061
+[1579700703] wproc: Registry request: name=Core Worker 12060;pid=12060
+[1579700703] wproc: Registry request: name=Core Worker 12062;pid=12062
+[1579700703] wproc: Registry request: name=Core Worker 12056;pid=12056
+[1579700703] wproc: Registry request: name=Core Worker 12070;pid=12070
+[1579700703] wproc: Registry request: name=Core Worker 12065;pid=12065
+[1579700703] wproc: Registry request: name=Core Worker 12068;pid=12068
+[1579700703] wproc: Registry request: name=Core Worker 12069;pid=12069
+[1579700703] wproc: Registry request: name=Core Worker 12063;pid=12063
+[1579700703] wproc: Registry request: name=Core Worker 12064;pid=12064
+[1579700703] SERVICE FLAPPING ALERT: vdb-102;/mnt/data01 Partition;STARTED; Service appears to have started flapping (28.7% change >= 20.0% threshold)
+[1579700703] Successfully launched command file worker with pid 12072
+[1579700784] Caught SIGTERM, shutting down...
+[1579700784] Caught SIGTERM, shutting down...
+[1579700784] Successfully shutdown... (PID=12046)
+[1579700784] Nagios 4.4.5 starting... (PID=12238)
+[1579700784] Local time is Wed Jan 22 05:46:24 PST 2020
+[1579700784] LOG VERSION: 2.0
+[1579700784] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579700784] qh: core query handler registered
+[1579700784] qh: echo service query handler registered
+[1579700784] qh: help for the query handler registered
+[1579700784] wproc: Successfully registered manager as @wproc with query handler
+[1579700784] wproc: Registry request: name=Core Worker 12243;pid=12243
+[1579700784] wproc: Registry request: name=Core Worker 12244;pid=12244
+[1579700784] wproc: Registry request: name=Core Worker 12253;pid=12253
+[1579700784] wproc: Registry request: name=Core Worker 12241;pid=12241
+[1579700784] wproc: Registry request: name=Core Worker 12262;pid=12262
+[1579700784] wproc: Registry request: name=Core Worker 12242;pid=12242
+[1579700784] wproc: Registry request: name=Core Worker 12256;pid=12256
+[1579700784] wproc: Registry request: name=Core Worker 12254;pid=12254
+[1579700784] wproc: Registry request: name=Core Worker 12246;pid=12246
+[1579700784] wproc: Registry request: name=Core Worker 12247;pid=12247
+[1579700784] wproc: Registry request: name=Core Worker 12248;pid=12248
+[1579700784] wproc: Registry request: name=Core Worker 12255;pid=12255
+[1579700784] wproc: Registry request: name=Core Worker 12245;pid=12245
+[1579700784] wproc: Registry request: name=Core Worker 12257;pid=12257
+[1579700784] wproc: Registry request: name=Core Worker 12261;pid=12261
+[1579700784] wproc: Registry request: name=Core Worker 12251;pid=12251
+[1579700784] wproc: Registry request: name=Core Worker 12258;pid=12258
+[1579700784] wproc: Registry request: name=Core Worker 12249;pid=12249
+[1579700784] wproc: Registry request: name=Core Worker 12263;pid=12263
+[1579700784] wproc: Registry request: name=Core Worker 12260;pid=12260
+[1579700784] wproc: Registry request: name=Core Worker 12264;pid=12264
+[1579700784] wproc: Registry request: name=Core Worker 12252;pid=12252
+[1579700784] wproc: Registry request: name=Core Worker 12259;pid=12259
+[1579700784] wproc: Registry request: name=Core Worker 12250;pid=12250
+[1579700784] SERVICE FLAPPING ALERT: vdb-102;/mnt/data01 Partition;STARTED; Service appears to have started flapping (28.7% change >= 20.0% threshold)
+[1579700784] Successfully launched command file worker with pid 12265
+[1579700828] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-102;PING;1579700832
+[1579701073] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-102;Total Processes;1579701070
+[1579701194] Caught SIGTERM, shutting down...
+[1579701194] Caught SIGTERM, shutting down...
+[1579701194] Successfully shutdown... (PID=12238)
+[1579701194] Nagios 4.4.5 starting... (PID=13051)
+[1579701194] Local time is Wed Jan 22 05:53:14 PST 2020
+[1579701194] LOG VERSION: 2.0
+[1579701194] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579701194] qh: core query handler registered
+[1579701194] qh: echo service query handler registered
+[1579701194] qh: help for the query handler registered
+[1579701194] wproc: Successfully registered manager as @wproc with query handler
+[1579701194] wproc: Registry request: name=Core Worker 13055;pid=13055
+[1579701194] wproc: Registry request: name=Core Worker 13054;pid=13054
+[1579701194] wproc: Registry request: name=Core Worker 13064;pid=13064
+[1579701194] wproc: Registry request: name=Core Worker 13056;pid=13056
+[1579701194] wproc: Registry request: name=Core Worker 13057;pid=13057
+[1579701194] wproc: Registry request: name=Core Worker 13062;pid=13062
+[1579701194] wproc: Registry request: name=Core Worker 13075;pid=13075
+[1579701194] wproc: Registry request: name=Core Worker 13058;pid=13058
+[1579701194] wproc: Registry request: name=Core Worker 13076;pid=13076
+[1579701194] wproc: Registry request: name=Core Worker 13059;pid=13059
+[1579701194] wproc: Registry request: name=Core Worker 13077;pid=13077
+[1579701194] wproc: Registry request: name=Core Worker 13060;pid=13060
+[1579701194] wproc: Registry request: name=Core Worker 13061;pid=13061
+[1579701194] wproc: Registry request: name=Core Worker 13074;pid=13074
+[1579701194] wproc: Registry request: name=Core Worker 13073;pid=13073
+[1579701194] wproc: Registry request: name=Core Worker 13067;pid=13067
+[1579701194] wproc: Registry request: name=Core Worker 13066;pid=13066
+[1579701194] wproc: Registry request: name=Core Worker 13069;pid=13069
+[1579701194] wproc: Registry request: name=Core Worker 13065;pid=13065
+[1579701194] wproc: Registry request: name=Core Worker 13072;pid=13072
+[1579701194] wproc: Registry request: name=Core Worker 13070;pid=13070
+[1579701194] wproc: Registry request: name=Core Worker 13078;pid=13078
+[1579701194] wproc: Registry request: name=Core Worker 13071;pid=13071
+[1579701194] wproc: Registry request: name=Core Worker 13068;pid=13068
+[1579701194] SERVICE FLAPPING ALERT: vdb-102;/mnt/data01 Partition;STARTED; Service appears to have started flapping (27.9% change >= 20.0% threshold)
+[1579701194] Successfully launched command file worker with pid 13079
+[1579701283] Caught SIGTERM, shutting down...
+[1579701283] Caught SIGTERM, shutting down...
+[1579701283] Successfully shutdown... (PID=13051)
+[1579701283] Nagios 4.4.5 starting... (PID=13203)
+[1579701283] Local time is Wed Jan 22 05:54:43 PST 2020
+[1579701283] LOG VERSION: 2.0
+[1579701283] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579701283] qh: core query handler registered
+[1579701283] qh: echo service query handler registered
+[1579701283] qh: help for the query handler registered
+[1579701283] wproc: Successfully registered manager as @wproc with query handler
+[1579701283] wproc: Registry request: name=Core Worker 13207;pid=13207
+[1579701283] wproc: Registry request: name=Core Worker 13208;pid=13208
+[1579701283] wproc: Registry request: name=Core Worker 13209;pid=13209
+[1579701283] wproc: Registry request: name=Core Worker 13210;pid=13210
+[1579701283] wproc: Registry request: name=Core Worker 13211;pid=13211
+[1579701283] wproc: Registry request: name=Core Worker 13212;pid=13212
+[1579701283] wproc: Registry request: name=Core Worker 13213;pid=13213
+[1579701283] wproc: Registry request: name=Core Worker 13220;pid=13220
+[1579701283] wproc: Registry request: name=Core Worker 13222;pid=13222
+[1579701283] wproc: Registry request: name=Core Worker 13221;pid=13221
+[1579701283] wproc: Registry request: name=Core Worker 13219;pid=13219
+[1579701283] wproc: Registry request: name=Core Worker 13214;pid=13214
+[1579701283] wproc: Registry request: name=Core Worker 13215;pid=13215
+[1579701283] wproc: Registry request: name=Core Worker 13230;pid=13230
+[1579701283] wproc: Registry request: name=Core Worker 13227;pid=13227
+[1579701283] wproc: Registry request: name=Core Worker 13229;pid=13229
+[1579701283] wproc: Registry request: name=Core Worker 13228;pid=13228
+[1579701283] wproc: Registry request: name=Core Worker 13217;pid=13217
+[1579701283] wproc: Registry request: name=Core Worker 13218;pid=13218
+[1579701283] wproc: Registry request: name=Core Worker 13216;pid=13216
+[1579701283] wproc: Registry request: name=Core Worker 13223;pid=13223
+[1579701283] wproc: Registry request: name=Core Worker 13224;pid=13224
+[1579701283] wproc: Registry request: name=Core Worker 13226;pid=13226
+[1579701283] wproc: Registry request: name=Core Worker 13225;pid=13225
+[1579701283] SERVICE FLAPPING ALERT: vdb-102;/mnt/data01 Partition;STARTED; Service appears to have started flapping (23.5% change >= 20.0% threshold)
+[1579701283] Successfully launched command file worker with pid 13231
+[1579701432] SERVICE NOTIFICATION: nagiosadmin;vdb-102;PING;UNKNOWN;notify-service-by-email;check_ping: %s: Warning threshold must be integer or percentage!
+[1579701432] SERVICE ALERT: vdb-102;PING;UNKNOWN;HARD;4;check_ping: %s: Warning threshold must be integer or percentage!
+[1579702619] Caught SIGTERM, shutting down...
+[1579702619] Caught SIGTERM, shutting down...
+[1579702619] Successfully shutdown... (PID=13203)
+[1579702619] Nagios 4.4.5 starting... (PID=15633)
+[1579702619] Local time is Wed Jan 22 06:16:59 PST 2020
+[1579702619] LOG VERSION: 2.0
+[1579702619] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579702619] qh: core query handler registered
+[1579702619] qh: echo service query handler registered
+[1579702619] qh: help for the query handler registered
+[1579702619] wproc: Successfully registered manager as @wproc with query handler
+[1579702619] wproc: Registry request: name=Core Worker 15638;pid=15638
+[1579702619] wproc: Registry request: name=Core Worker 15639;pid=15639
+[1579702619] wproc: Registry request: name=Core Worker 15642;pid=15642
+[1579702619] wproc: Registry request: name=Core Worker 15640;pid=15640
+[1579702619] wproc: Registry request: name=Core Worker 15644;pid=15644
+[1579702619] wproc: Registry request: name=Core Worker 15649;pid=15649
+[1579702619] wproc: Registry request: name=Core Worker 15645;pid=15645
+[1579702619] wproc: Registry request: name=Core Worker 15655;pid=15655
+[1579702619] wproc: Registry request: name=Core Worker 15647;pid=15647
+[1579702619] wproc: Registry request: name=Core Worker 15657;pid=15657
+[1579702619] wproc: Registry request: name=Core Worker 15643;pid=15643
+[1579702619] wproc: Registry request: name=Core Worker 15659;pid=15659
+[1579702619] wproc: Registry request: name=Core Worker 15669;pid=15669
+[1579702619] wproc: Registry request: name=Core Worker 15656;pid=15656
+[1579702619] wproc: Registry request: name=Core Worker 15641;pid=15641
+[1579702619] wproc: Registry request: name=Core Worker 15654;pid=15654
+[1579702619] wproc: Registry request: name=Core Worker 15658;pid=15658
+[1579702619] wproc: Registry request: name=Core Worker 15650;pid=15650
+[1579702619] wproc: Registry request: name=Core Worker 15653;pid=15653
+[1579702619] wproc: Registry request: name=Core Worker 15668;pid=15668
+[1579702619] wproc: Registry request: name=Core Worker 15651;pid=15651
+[1579702619] wproc: Registry request: name=Core Worker 15652;pid=15652
+[1579702619] wproc: Registry request: name=Core Worker 15646;pid=15646
+[1579702619] wproc: Registry request: name=Core Worker 15648;pid=15648
+[1579702619] Successfully launched command file worker with pid 15670
+[1579702632] HOST ALERT: vdb-102;DOWN;SOFT;1;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579702692] HOST ALERT: vdb-102;DOWN;SOFT;2;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579702709] HOST ALERT: vdb-102;DOWN;SOFT;3;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579702769] HOST ALERT: vdb-102;DOWN;SOFT;4;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579702774] HOST ALERT: vonly-backup;DOWN;SOFT;1;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579702784] Caught SIGTERM, shutting down...
+[1579702784] Caught SIGTERM, shutting down...
+[1579702784] Successfully shutdown... (PID=15633)
+[1579702784] Nagios 4.4.5 starting... (PID=16046)
+[1579702784] Local time is Wed Jan 22 06:19:44 PST 2020
+[1579702784] LOG VERSION: 2.0
+[1579702784] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579702784] qh: core query handler registered
+[1579702784] qh: echo service query handler registered
+[1579702784] qh: help for the query handler registered
+[1579702784] wproc: Successfully registered manager as @wproc with query handler
+[1579702784] wproc: Registry request: name=Core Worker 16049;pid=16049
+[1579702784] wproc: Registry request: name=Core Worker 16048;pid=16048
+[1579702784] wproc: Registry request: name=Core Worker 16058;pid=16058
+[1579702784] wproc: Registry request: name=Core Worker 16050;pid=16050
+[1579702784] wproc: Registry request: name=Core Worker 16052;pid=16052
+[1579702784] wproc: Registry request: name=Core Worker 16057;pid=16057
+[1579702784] wproc: Registry request: name=Core Worker 16051;pid=16051
+[1579702784] wproc: Registry request: name=Core Worker 16059;pid=16059
+[1579702784] wproc: Registry request: name=Core Worker 16053;pid=16053
+[1579702784] wproc: Registry request: name=Core Worker 16056;pid=16056
+[1579702784] wproc: Registry request: name=Core Worker 16071;pid=16071
+[1579702784] wproc: Registry request: name=Core Worker 16061;pid=16061
+[1579702784] wproc: Registry request: name=Core Worker 16063;pid=16063
+[1579702784] wproc: Registry request: name=Core Worker 16067;pid=16067
+[1579702784] wproc: Registry request: name=Core Worker 16062;pid=16062
+[1579702784] wproc: Registry request: name=Core Worker 16055;pid=16055
+[1579702784] wproc: Registry request: name=Core Worker 16054;pid=16054
+[1579702784] wproc: Registry request: name=Core Worker 16060;pid=16060
+[1579702784] wproc: Registry request: name=Core Worker 16066;pid=16066
+[1579702784] wproc: Registry request: name=Core Worker 16068;pid=16068
+[1579702784] wproc: Registry request: name=Core Worker 16064;pid=16064
+[1579702784] wproc: Registry request: name=Core Worker 16065;pid=16065
+[1579702784] wproc: Registry request: name=Core Worker 16069;pid=16069
+[1579702784] wproc: Registry request: name=Core Worker 16070;pid=16070
+[1579702784] Successfully launched command file worker with pid 16072
+[1579702814] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-102;Swap Usage;1579702820
+[1579702829] HOST ALERT: vdb-102;DOWN;SOFT;5;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579702830] HOST ALERT: vonly-backup;DOWN;SOFT;2;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579702832] SERVICE ALERT: vonly-backup;PING;UNKNOWN;HARD;1;Usage:
+[1579702867] HOST ALERT: vonly-backup;DOWN;SOFT;3;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579702889] HOST ALERT: vdb-102;DOWN;SOFT;6;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579702905] HOST ALERT: vonly-backup;DOWN;SOFT;4;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579702924] HOST ALERT: vonly-backup;DOWN;SOFT;5;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579702949] HOST ALERT: vdb-102;DOWN;SOFT;7;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579702980] HOST ALERT: vonly-backup;DOWN;SOFT;6;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579703009] HOST ALERT: vdb-102;DOWN;SOFT;8;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579703017] HOST ALERT: vonly-backup;DOWN;SOFT;7;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579703055] HOST ALERT: vonly-backup;DOWN;SOFT;8;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579703069] HOST ALERT: vdb-102;DOWN;SOFT;9;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579703115] HOST ALERT: vonly-backup;DOWN;SOFT;9;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579703129] HOST ALERT: vdb-102;DOWN;HARD;10;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579703130] HOST ALERT: vonly-backup;DOWN;HARD;10;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579705446] Caught SIGTERM, shutting down...
+[1579705446] Caught SIGTERM, shutting down...
+[1579705446] Successfully shutdown... (PID=16046)
+[1579705446] Nagios 4.4.5 starting... (PID=21815)
+[1579705446] Local time is Wed Jan 22 07:04:06 PST 2020
+[1579705446] LOG VERSION: 2.0
+[1579705446] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579705446] qh: core query handler registered
+[1579705446] qh: echo service query handler registered
+[1579705446] qh: help for the query handler registered
+[1579705446] wproc: Successfully registered manager as @wproc with query handler
+[1579705446] wproc: Registry request: name=Core Worker 21817;pid=21817
+[1579705446] wproc: Registry request: name=Core Worker 21818;pid=21818
+[1579705446] wproc: Registry request: name=Core Worker 21819;pid=21819
+[1579705446] wproc: Registry request: name=Core Worker 21827;pid=21827
+[1579705446] wproc: Registry request: name=Core Worker 21820;pid=21820
+[1579705446] wproc: Registry request: name=Core Worker 21828;pid=21828
+[1579705446] wproc: Registry request: name=Core Worker 21829;pid=21829
+[1579705446] wproc: Registry request: name=Core Worker 21821;pid=21821
+[1579705446] wproc: Registry request: name=Core Worker 21832;pid=21832
+[1579705446] wproc: Registry request: name=Core Worker 21833;pid=21833
+[1579705446] wproc: Registry request: name=Core Worker 21823;pid=21823
+[1579705446] wproc: Registry request: name=Core Worker 21834;pid=21834
+[1579705446] wproc: Registry request: name=Core Worker 21825;pid=21825
+[1579705446] wproc: Registry request: name=Core Worker 21838;pid=21838
+[1579705446] wproc: Registry request: name=Core Worker 21835;pid=21835
+[1579705446] wproc: Registry request: name=Core Worker 21831;pid=21831
+[1579705446] wproc: Registry request: name=Core Worker 21830;pid=21830
+[1579705446] wproc: Registry request: name=Core Worker 21837;pid=21837
+[1579705446] wproc: Registry request: name=Core Worker 21822;pid=21822
+[1579705446] wproc: Registry request: name=Core Worker 21826;pid=21826
+[1579705446] wproc: Registry request: name=Core Worker 21824;pid=21824
+[1579705446] wproc: Registry request: name=Core Worker 21840;pid=21840
+[1579705446] wproc: Registry request: name=Core Worker 21839;pid=21839
+[1579705446] wproc: Registry request: name=Core Worker 21836;pid=21836
+[1579705446] Successfully launched command file worker with pid 21841
+[1579705536] SERVICE ALERT: vonly-backup;PING;OK;HARD;4;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1579709045] Auto-save of retention data completed successfully.
+[1579712420] HOST NOTIFICATION: nagiosadmin;vdb-102;DOWN;notify-host-by-email;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579712430] HOST NOTIFICATION: nagiosadmin;vonly-backup;DOWN;notify-host-by-email;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579712646] Auto-save of retention data completed successfully.
+[1579716246] Auto-save of retention data completed successfully.
+[1579719620] HOST NOTIFICATION: nagiosadmin;vdb-102;DOWN;notify-host-by-email;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579719630] HOST NOTIFICATION: nagiosadmin;vonly-backup;DOWN;notify-host-by-email;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579719845] Auto-save of retention data completed successfully.
+[1579723445] Auto-save of retention data completed successfully.
+[1579726820] HOST NOTIFICATION: nagiosadmin;vdb-102;DOWN;notify-host-by-email;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579726830] HOST NOTIFICATION: nagiosadmin;vonly-backup;DOWN;notify-host-by-email;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579727046] Auto-save of retention data completed successfully.
+[1579730645] Auto-save of retention data completed successfully.
+[1579734020] HOST NOTIFICATION: nagiosadmin;vdb-102;DOWN;notify-host-by-email;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579734030] HOST NOTIFICATION: nagiosadmin;vonly-backup;DOWN;notify-host-by-email;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579734245] Auto-save of retention data completed successfully.
+[1579737845] Auto-save of retention data completed successfully.
+[1579741446] Auto-save of retention data completed successfully.
+[1579745046] Auto-save of retention data completed successfully.
+[1579748645] Auto-save of retention data completed successfully.
+[1579752245] Auto-save of retention data completed successfully.
+[1579755845] Auto-save of retention data completed successfully.
+[1579759445] Auto-save of retention data completed successfully.
+[1579763045] Auto-save of retention data completed successfully.
+[1579774857] Caught SIGTERM, shutting down...

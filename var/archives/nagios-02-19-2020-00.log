@@ -1,0 +1,360 @@
+[1582012800] LOG ROTATION: DAILY
+[1582012800] LOG VERSION: 2.0
+[1582012800] CURRENT HOST STATE: vdb-100;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.61 ms
+[1582012800] CURRENT HOST STATE: vdb-101;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1582012800] CURRENT HOST STATE: vdb-103;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.68 ms
+[1582012800] CURRENT HOST STATE: vdb-staging;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1582012800] CURRENT HOST STATE: vonly-backup;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1582012800] CURRENT HOST STATE: vonly-database;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1582012800] CURRENT HOST STATE: vonly-replica;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1582012800] CURRENT SERVICE STATE: vdb-100;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 74% capacity, 2.6T of 3.7T
+[1582012800] CURRENT SERVICE STATE: vdb-100;Current Load;OK;HARD;1;OK - load average: 1.18, 1.20, 1.20
+[1582012800] CURRENT SERVICE STATE: vdb-100;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1582012800] CURRENT SERVICE STATE: vdb-100;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1582012800] CURRENT SERVICE STATE: vdb-100;Root Partition;OK;HARD;1;/ is at 35% capacity, 30G of 91G
+[1582012800] CURRENT SERVICE STATE: vdb-100;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.6 (protocol 2.0)
+[1582012800] CURRENT SERVICE STATE: vdb-100;Swap Usage;OK;HARD;1;SWAP OK - 95% free (20333 MB out of 21455 MB)
+[1582012800] CURRENT SERVICE STATE: vdb-100;Total Processes;OK;HARD;1;PROCS OK: 177 processes with STATE = RSZDT
+[1582012800] CURRENT SERVICE STATE: vdb-101;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 90% capacity, 3.1T of 3.6T
+[1582012800] CURRENT SERVICE STATE: vdb-101;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1582012800] CURRENT SERVICE STATE: vdb-101;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1582012800] CURRENT SERVICE STATE: vdb-101;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1582012800] CURRENT SERVICE STATE: vdb-101;Root Partition;OK;HARD;1;/ is at 25% capacity, 42G of 183G
+[1582012800] CURRENT SERVICE STATE: vdb-101;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.4 (protocol 2.0)
+[1582012800] CURRENT SERVICE STATE: vdb-101;Swap Usage;OK;HARD;1;SWAP OK - 80% free (17030 MB out of 21455 MB)
+[1582012800] CURRENT SERVICE STATE: vdb-101;Total Processes;OK;HARD;1;PROCS OK: 151 processes with STATE = RSZDT
+[1582012800] CURRENT SERVICE STATE: vdb-103;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 65% capacity, 4.5T of 7.3T
+[1582012800] CURRENT SERVICE STATE: vdb-103;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1582012800] CURRENT SERVICE STATE: vdb-103;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1582012800] CURRENT SERVICE STATE: vdb-103;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1582012800] CURRENT SERVICE STATE: vdb-103;Root Partition;OK;HARD;1;/ is at 62% capacity, 265G of 457G
+[1582012800] CURRENT SERVICE STATE: vdb-103;SSH;OK;HARD;1;SSH OK - OpenSSH_7.6p1 Ubuntu-4ubuntu0.2 (protocol 2.0)
+[1582012800] CURRENT SERVICE STATE: vdb-103;Swap Usage;OK;HARD;1;SWAP OK - 93% free (1889 MB out of 2047 MB)
+[1582012800] CURRENT SERVICE STATE: vdb-103;Total Processes;OK;HARD;1;PROCS OK: 180 processes with STATE = RSZDT
+[1582012800] CURRENT SERVICE STATE: vdb-staging;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 79% capacity, 6.8T of 9.1T
+[1582012800] CURRENT SERVICE STATE: vdb-staging;Current Load;OK;HARD;1;OK - load average: 0.00, 0.11, 0.13
+[1582012800] CURRENT SERVICE STATE: vdb-staging;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1582012800] CURRENT SERVICE STATE: vdb-staging;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1582012800] CURRENT SERVICE STATE: vdb-staging;Root Partition;OK;HARD;1;/ is at 6% capacity, 102G of 1.8T
+[1582012800] CURRENT SERVICE STATE: vdb-staging;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.4 (protocol 2.0)
+[1582012800] CURRENT SERVICE STATE: vdb-staging;Swap Usage;OK;HARD;1;SWAP OK - 92% free (94600 MB out of 103375 MB)
+[1582012800] CURRENT SERVICE STATE: vdb-staging;Total Processes;OK;HARD;1;PROCS OK: 145 processes with STATE = RSZDT
+[1582012800] CURRENT SERVICE STATE: vonly-backup;Current Load;OK;HARD;1;OK - load average: 1.34, 1.41, 1.60
+[1582012800] CURRENT SERVICE STATE: vonly-backup;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1582012800] CURRENT SERVICE STATE: vonly-backup;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 11595 bytes in 0.001 second response time
+[1582012800] CURRENT SERVICE STATE: vonly-backup;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1582012800] CURRENT SERVICE STATE: vonly-backup;Root Partition;OK;HARD;1;/ is at 51% capacity, 107G of 220G
+[1582012800] CURRENT SERVICE STATE: vonly-backup;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.8 (protocol 2.0)
+[1582012800] CURRENT SERVICE STATE: vonly-backup;Swap Usage;OK;HARD;1;SWAP OK - 94% free (53489 MB out of 57111 MB)
+[1582012800] CURRENT SERVICE STATE: vonly-backup;Total Processes;OK;HARD;1;PROCS OK: 240 processes with STATE = RSZDT
+[1582012800] CURRENT SERVICE STATE: vonly-database;/media/data Partition;OK;HARD;1;/media/data is at 84% capacity, 2.9T of 3.6T
+[1582012800] CURRENT SERVICE STATE: vonly-database;Current Load;OK;HARD;1;OK - load average: 0.13, 0.05, 0.05
+[1582012800] CURRENT SERVICE STATE: vonly-database;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1582012800] CURRENT SERVICE STATE: vonly-database;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.03 ms
+[1582012800] CURRENT SERVICE STATE: vonly-database;Root Partition;OK;HARD;1;/ is at 67% capacity, 140G of 220G
+[1582012800] CURRENT SERVICE STATE: vonly-database;SSH;OK;HARD;1;SSH OK - OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.8 (protocol 2.0)
+[1582012800] CURRENT SERVICE STATE: vonly-database;Swap Usage;OK;HARD;1;SWAP OK - 96% free (54442 MB out of 57111 MB)
+[1582012800] CURRENT SERVICE STATE: vonly-database;Total Processes;OK;HARD;1;PROCS OK: 201 processes with STATE = RSZDT
+[1582012800] CURRENT SERVICE STATE: vonly-replica;/media/data Partition;OK;HARD;1;/media/data is at 44% capacity, 3.0T of 7.3T
+[1582012800] CURRENT SERVICE STATE: vonly-replica;Current Load;OK;HARD;1;OK - load average: 0.32, 0.30, 0.46
+[1582012800] CURRENT SERVICE STATE: vonly-replica;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1582012800] CURRENT SERVICE STATE: vonly-replica;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1582012800] CURRENT SERVICE STATE: vonly-replica;Root Partition;OK;HARD;1;/ is at 32% capacity, 32G of 108G
+[1582012800] CURRENT SERVICE STATE: vonly-replica;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.2 (protocol 2.0)
+[1582012800] CURRENT SERVICE STATE: vonly-replica;Swap Usage;OK;HARD;1;SWAP OK - 98% free (27188 MB out of 27876 MB)
+[1582012800] CURRENT SERVICE STATE: vonly-replica;Total Processes;OK;HARD;1;PROCS OK: 91 processes with STATE = RSZDT
+[1582013000] Auto-save of retention data completed successfully.
+[1582016163] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;1;WARNING - load average: 6.00, 6.01, 5.14
+[1582016223] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;2;WARNING - load average: 6.04, 6.02, 5.20
+[1582016283] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;3;WARNING - load average: 5.66, 5.96, 5.23
+[1582016343] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.48, 5.86, 5.24
+[1582016343] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.48, 5.86, 5.24
+[1582016343] SERVICE ALERT: vonly-replica;Current Load;WARNING;HARD;4;WARNING - load average: 5.48, 5.86, 5.24
+[1582016600] Auto-save of retention data completed successfully.
+[1582020201] Auto-save of retention data completed successfully.
+[1582023801] Auto-save of retention data completed successfully.
+[1582024143] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 2.58, 3.37, 4.46
+[1582024143] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 2.58, 3.37, 4.46
+[1582024143] SERVICE ALERT: vonly-replica;Current Load;OK;HARD;4;OK - load average: 2.58, 3.37, 4.46
+[1582027400] Auto-save of retention data completed successfully.
+[1582028343] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;1;WARNING - load average: 7.03, 6.41, 5.44
+[1582028403] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;2;WARNING - load average: 6.88, 6.51, 5.54
+[1582028463] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;3;WARNING - load average: 6.94, 6.59, 5.63
+[1582028523] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 6.78, 6.61, 5.70
+[1582028523] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 6.78, 6.61, 5.70
+[1582028523] SERVICE ALERT: vonly-replica;Current Load;WARNING;HARD;4;WARNING - load average: 6.78, 6.61, 5.70
+[1582030675] Caught SIGTERM, shutting down...
+[1582030675] Successfully shutdown... (PID=447)
+[1582030675] Nagios 4.4.5 starting... (PID=9788)
+[1582030675] Local time is Tue Feb 18 04:57:55 PST 2020
+[1582030675] LOG VERSION: 2.0
+[1582030675] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1582030675] qh: core query handler registered
+[1582030675] qh: echo service query handler registered
+[1582030675] qh: help for the query handler registered
+[1582030675] wproc: Successfully registered manager as @wproc with query handler
+[1582030675] wproc: Registry request: name=Core Worker 9791;pid=9791
+[1582030675] wproc: Registry request: name=Core Worker 9792;pid=9792
+[1582030675] wproc: Registry request: name=Core Worker 9804;pid=9804
+[1582030675] wproc: Registry request: name=Core Worker 9805;pid=9805
+[1582030675] wproc: Registry request: name=Core Worker 9795;pid=9795
+[1582030675] wproc: Registry request: name=Core Worker 9803;pid=9803
+[1582030675] wproc: Registry request: name=Core Worker 9793;pid=9793
+[1582030675] wproc: Registry request: name=Core Worker 9802;pid=9802
+[1582030675] wproc: Registry request: name=Core Worker 9797;pid=9797
+[1582030675] wproc: Registry request: name=Core Worker 9800;pid=9800
+[1582030675] wproc: Registry request: name=Core Worker 9796;pid=9796
+[1582030675] wproc: Registry request: name=Core Worker 9794;pid=9794
+[1582030675] wproc: Registry request: name=Core Worker 9806;pid=9806
+[1582030675] wproc: Registry request: name=Core Worker 9799;pid=9799
+[1582030675] wproc: Registry request: name=Core Worker 9801;pid=9801
+[1582030675] wproc: Registry request: name=Core Worker 9807;pid=9807
+[1582030675] wproc: Registry request: name=Core Worker 9809;pid=9809
+[1582030675] wproc: Registry request: name=Core Worker 9808;pid=9808
+[1582030675] wproc: Registry request: name=Core Worker 9810;pid=9810
+[1582030675] wproc: Registry request: name=Core Worker 9812;pid=9812
+[1582030675] wproc: Registry request: name=Core Worker 9813;pid=9813
+[1582030675] wproc: Registry request: name=Core Worker 9811;pid=9811
+[1582030675] wproc: Registry request: name=Core Worker 9814;pid=9814
+[1582030675] wproc: Registry request: name=Core Worker 9815;pid=9815
+[1582030675] Successfully launched command file worker with pid 9816
+[1582030750] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;1;WARNING - load average: 2.05, 6.52, 8.80
+[1582030810] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;2;WARNING - load average: 2.02, 5.69, 8.37
+[1582030844] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vonly-replica;Current Load;1582030850
+[1582030850] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 5.17, 5.70, 6.15
+[1582030850] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 5.17, 5.70, 6.15
+[1582030850] SERVICE ALERT: vonly-replica;Current Load;OK;HARD;4;OK - load average: 5.17, 5.70, 6.15
+[1582030870] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;3;WARNING - load average: 1.50, 4.86, 7.91
+[1582030930] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 1.71, 4.30, 7.53
+[1582030930] SERVICE NOTIFICATION: atul;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 1.71, 4.30, 7.53
+[1582030930] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 1.71, 4.30, 7.53
+[1582030937] SERVICE ALERT: vapps-100;Swap Usage;CRITICAL;SOFT;1;SWAP CRITICAL - 1% free (0 MB out of 974 MB)
+[1582030975] SERVICE ALERT: vapps-100;Total Processes;WARNING;SOFT;1;PROCS WARNING: 1457 processes with STATE = RSZDT
+[1582030997] SERVICE ALERT: vapps-100;Swap Usage;CRITICAL;SOFT;2;SWAP CRITICAL - 1% free (0 MB out of 974 MB)
+[1582031036] SERVICE ALERT: vapps-100;Total Processes;WARNING;SOFT;2;PROCS WARNING: 1457 processes with STATE = RSZDT
+[1582031057] SERVICE ALERT: vapps-100;Swap Usage;CRITICAL;SOFT;3;SWAP CRITICAL - 1% free (0 MB out of 974 MB)
+[1582031096] SERVICE ALERT: vapps-100;Total Processes;OK;SOFT;3;PROCS OK: 1459 processes with STATE = RSZDT
+[1582031117] SERVICE NOTIFICATION: jatin;vapps-100;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (0 MB out of 974 MB)
+[1582031117] SERVICE NOTIFICATION: atul;vapps-100;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (0 MB out of 974 MB)
+[1582031117] SERVICE ALERT: vapps-100;Swap Usage;CRITICAL;HARD;4;SWAP CRITICAL - 1% free (0 MB out of 974 MB)
+[1582031342] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vapps-100;Swap Usage;1582031350
+[1582031350] SERVICE NOTIFICATION: jatin;vapps-100;Swap Usage;OK;notify-service-by-email;SWAP OK - 92% free (10240 MB out of 11214 MB)
+[1582031350] SERVICE NOTIFICATION: atul;vapps-100;Swap Usage;OK;notify-service-by-email;SWAP OK - 92% free (10240 MB out of 11214 MB)
+[1582031350] SERVICE ALERT: vapps-100;Swap Usage;OK;HARD;4;SWAP OK - 92% free (10240 MB out of 11214 MB)
+[1582031456] SERVICE ALERT: vapps-100;Total Processes;WARNING;SOFT;1;PROCS WARNING: 1510 processes with STATE = RSZDT
+[1582031509] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vapps-100;Current Load;1582031514
+[1582031514] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 1.21, 2.21, 4.90
+[1582031514] SERVICE NOTIFICATION: atul;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 1.21, 2.21, 4.90
+[1582031514] SERVICE ALERT: vapps-100;Current Load;OK;HARD;4;OK - load average: 1.21, 2.21, 4.90
+[1582031516] SERVICE ALERT: vapps-100;Total Processes;WARNING;SOFT;2;PROCS WARNING: 1511 processes with STATE = RSZDT
+[1582031577] SERVICE ALERT: vapps-100;Total Processes;OK;SOFT;3;PROCS OK: 1510 processes with STATE = RSZDT
+[1582034274] Auto-save of retention data completed successfully.
+[1582037874] Auto-save of retention data completed successfully.
+[1582041474] Auto-save of retention data completed successfully.
+[1582041537] SERVICE ALERT: vapps-100;Total Processes;WARNING;SOFT;1;PROCS WARNING: 2008 processes with STATE = RSZDT
+[1582041597] SERVICE ALERT: vapps-100;Total Processes;WARNING;SOFT;2;PROCS WARNING: 2008 processes with STATE = RSZDT
+[1582041658] SERVICE ALERT: vapps-100;Total Processes;WARNING;SOFT;3;PROCS WARNING: 2008 processes with STATE = RSZDT
+[1582041718] SERVICE NOTIFICATION: jatin;vapps-100;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 2009 processes with STATE = RSZDT
+[1582041718] SERVICE NOTIFICATION: atul;vapps-100;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 2009 processes with STATE = RSZDT
+[1582041718] SERVICE ALERT: vapps-100;Total Processes;WARNING;HARD;4;PROCS WARNING: 2009 processes with STATE = RSZDT
+[1582043642] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;1;WARNING - load average: 5.55, 5.61, 5.12
+[1582043702] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;2;WARNING - load average: 5.26, 5.53, 5.12
+[1582043762] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;3;WARNING - load average: 5.51, 5.55, 5.16
+[1582043822] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.52, 5.55, 5.18
+[1582043822] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 5.52, 5.55, 5.18
+[1582045074] Auto-save of retention data completed successfully.
+[1582047423] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.22, 5.31, 5.37
+[1582048023] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Current Load;OK;notify-service-by-email;OK - load average: 4.13, 4.59, 4.99
+[1582048023] SERVICE ALERT: vonly-backup;Current Load;OK;HARD;4;OK - load average: 4.13, 4.59, 4.99
+[1582048675] Auto-save of retention data completed successfully.
+[1582052274] Auto-save of retention data completed successfully.
+[1582054923] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;1;WARNING - load average: 7.38, 5.20, 4.66
+[1582054983] SERVICE ALERT: vonly-backup;Current Load;OK;SOFT;2;OK - load average: 6.78, 5.47, 4.79
+[1582055874] Auto-save of retention data completed successfully.
+[1582056118] SERVICE NOTIFICATION: jatin;vapps-100;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 2705 processes with STATE = RSZDT
+[1582056118] SERVICE NOTIFICATION: atul;vapps-100;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 2705 processes with STATE = RSZDT
+[1582059474] Auto-save of retention data completed successfully.
+[1582063075] Auto-save of retention data completed successfully.
+[1582066674] Auto-save of retention data completed successfully.
+[1582067814] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;1;WARNING - load average: 20.03, 12.73, 6.83
+[1582067874] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;2;WARNING - load average: 22.85, 14.65, 7.84
+[1582067934] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;3;WARNING - load average: 25.77, 16.81, 9.00
+[1582067995] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 41.25, 22.68, 11.50
+[1582067995] SERVICE NOTIFICATION: atul;vapps-100;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 41.25, 22.68, 11.50
+[1582067995] SERVICE ALERT: vapps-100;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 41.25, 22.68, 11.50
+[1582068295] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 1.46, 10.36, 9.50
+[1582068295] SERVICE NOTIFICATION: atul;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 1.46, 10.36, 9.50
+[1582068295] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 1.46, 10.36, 9.50
+[1582068595] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 0.49, 4.39, 7.21
+[1582068595] SERVICE NOTIFICATION: atul;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 0.49, 4.39, 7.21
+[1582068595] SERVICE ALERT: vapps-100;Current Load;OK;HARD;4;OK - load average: 0.49, 4.39, 7.21
+[1582070274] Auto-save of retention data completed successfully.
+[1582070518] SERVICE NOTIFICATION: jatin;vapps-100;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 3405 processes with STATE = RSZDT
+[1582070518] SERVICE NOTIFICATION: atul;vapps-100;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 3405 processes with STATE = RSZDT
+[1582072018] SERVICE NOTIFICATION: jatin;vapps-100;Total Processes;OK;notify-service-by-email;PROCS OK: 211 processes with STATE = RSZDT
+[1582072018] SERVICE NOTIFICATION: atul;vapps-100;Total Processes;OK;notify-service-by-email;PROCS OK: 211 processes with STATE = RSZDT
+[1582072018] SERVICE ALERT: vapps-100;Total Processes;OK;HARD;4;PROCS OK: 211 processes with STATE = RSZDT
+[1582073695] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;1;WARNING - load average: 22.96, 16.23, 8.07
+[1582073755] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;2;WARNING - load average: 16.89, 15.71, 8.40
+[1582073815] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;3;WARNING - load average: 17.41, 16.31, 9.08
+[1582073875] Auto-save of retention data completed successfully.
+[1582073875] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 16.34, 16.07, 9.44
+[1582073875] SERVICE NOTIFICATION: atul;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 16.34, 16.07, 9.44
+[1582073875] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 16.34, 16.07, 9.44
+[1582074475] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 37.43, 21.17, 13.84
+[1582074475] SERVICE NOTIFICATION: atul;vapps-100;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 37.43, 21.17, 13.84
+[1582074475] SERVICE ALERT: vapps-100;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 37.43, 21.17, 13.84
+[1582077474] Auto-save of retention data completed successfully.
+[1582078375] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 12.11, 13.37, 18.57
+[1582078375] SERVICE NOTIFICATION: atul;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 12.11, 13.37, 18.57
+[1582078375] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 12.11, 13.37, 18.57
+[1582080475] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 0.28, 1.35, 6.19
+[1582080475] SERVICE NOTIFICATION: atul;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 0.28, 1.35, 6.19
+[1582080475] SERVICE ALERT: vapps-100;Current Load;OK;HARD;4;OK - load average: 0.28, 1.35, 6.19
+[1582081074] Auto-save of retention data completed successfully.
+[1582084675] Auto-save of retention data completed successfully.
+[1582088274] Auto-save of retention data completed successfully.
+[1582091875] Auto-save of retention data completed successfully.
+[1582095474] Auto-save of retention data completed successfully.
+[1582095929] Caught SIGTERM, shutting down...
+[1582095929] Caught SIGTERM, shutting down...
+[1582095929] Successfully shutdown... (PID=9788)
+[1582095929] Nagios 4.4.5 starting... (PID=21614)
+[1582095929] Local time is Tue Feb 18 23:05:29 PST 2020
+[1582095929] LOG VERSION: 2.0
+[1582095929] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1582095929] qh: core query handler registered
+[1582095929] qh: echo service query handler registered
+[1582095929] qh: help for the query handler registered
+[1582095929] wproc: Successfully registered manager as @wproc with query handler
+[1582095929] wproc: Registry request: name=Core Worker 21616;pid=21616
+[1582095929] wproc: Registry request: name=Core Worker 21617;pid=21617
+[1582095929] wproc: Registry request: name=Core Worker 21626;pid=21626
+[1582095929] wproc: Registry request: name=Core Worker 21632;pid=21632
+[1582095929] wproc: Registry request: name=Core Worker 21619;pid=21619
+[1582095929] wproc: Registry request: name=Core Worker 21633;pid=21633
+[1582095929] wproc: Registry request: name=Core Worker 21622;pid=21622
+[1582095929] wproc: Registry request: name=Core Worker 21634;pid=21634
+[1582095929] wproc: Registry request: name=Core Worker 21618;pid=21618
+[1582095929] wproc: Registry request: name=Core Worker 21621;pid=21621
+[1582095929] wproc: Registry request: name=Core Worker 21635;pid=21635
+[1582095929] wproc: Registry request: name=Core Worker 21623;pid=21623
+[1582095929] wproc: Registry request: name=Core Worker 21620;pid=21620
+[1582095929] wproc: Registry request: name=Core Worker 21638;pid=21638
+[1582095929] wproc: Registry request: name=Core Worker 21636;pid=21636
+[1582095929] wproc: Registry request: name=Core Worker 21639;pid=21639
+[1582095929] wproc: Registry request: name=Core Worker 21637;pid=21637
+[1582095929] wproc: Registry request: name=Core Worker 21624;pid=21624
+[1582095929] wproc: Registry request: name=Core Worker 21625;pid=21625
+[1582095929] wproc: Registry request: name=Core Worker 21627;pid=21627
+[1582095929] wproc: Registry request: name=Core Worker 21628;pid=21628
+[1582095929] wproc: Registry request: name=Core Worker 21629;pid=21629
+[1582095929] wproc: Registry request: name=Core Worker 21630;pid=21630
+[1582095929] wproc: Registry request: name=Core Worker 21631;pid=21631
+[1582095929] Successfully launched command file worker with pid 21640
+[1582096079] SERVICE ALERT: vinfra-200;Current Users;CRITICAL;SOFT;1;NRPE: Command 'check_users' not defined
+[1582096139] SERVICE ALERT: vinfra-200;Current Users;CRITICAL;SOFT;2;NRPE: Command 'check_users' not defined
+[1582096199] SERVICE ALERT: vinfra-200;Current Users;CRITICAL;SOFT;3;NRPE: Command 'check_users' not defined
+[1582096259] SERVICE NOTIFICATION: jatin;vinfra-200;Current Users;CRITICAL;notify-service-by-email;NRPE: Command 'check_users' not defined
+[1582096259] SERVICE NOTIFICATION: atul;vinfra-200;Current Users;CRITICAL;notify-service-by-email;NRPE: Command 'check_users' not defined
+[1582096259] SERVICE ALERT: vinfra-200;Current Users;CRITICAL;HARD;4;NRPE: Command 'check_users' not defined
+[1582097131] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vinfra-200;Current Users;1582097137
+[1582097235] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vinfra-200;Current Users;1582097241
+[1582097302] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vinfra-200;Current Users;1582097306
+[1582097306] SERVICE NOTIFICATION: jatin;vinfra-200;Current Users;OK;notify-service-by-email;USERS OK - 2 users currently logged in
+[1582097306] SERVICE NOTIFICATION: atul;vinfra-200;Current Users;OK;notify-service-by-email;USERS OK - 2 users currently logged in
+[1582097306] SERVICE ALERT: vinfra-200;Current Users;OK;HARD;4;USERS OK - 2 users currently logged in
+[1582098169] Caught SIGTERM, shutting down...
+[1582098169] Caught SIGTERM, shutting down...
+[1582098169] Successfully shutdown... (PID=21614)
+[1582098169] Nagios 4.4.5 starting... (PID=27820)
+[1582098169] Local time is Tue Feb 18 23:42:49 PST 2020
+[1582098169] LOG VERSION: 2.0
+[1582098169] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1582098169] qh: core query handler registered
+[1582098169] qh: echo service query handler registered
+[1582098169] qh: help for the query handler registered
+[1582098169] wproc: Successfully registered manager as @wproc with query handler
+[1582098169] wproc: Registry request: name=Core Worker 27823;pid=27823
+[1582098169] wproc: Registry request: name=Core Worker 27822;pid=27822
+[1582098169] wproc: Registry request: name=Core Worker 27824;pid=27824
+[1582098169] wproc: Registry request: name=Core Worker 27825;pid=27825
+[1582098169] wproc: Registry request: name=Core Worker 27827;pid=27827
+[1582098169] wproc: Registry request: name=Core Worker 27836;pid=27836
+[1582098169] wproc: Registry request: name=Core Worker 27833;pid=27833
+[1582098169] wproc: Registry request: name=Core Worker 27841;pid=27841
+[1582098169] wproc: Registry request: name=Core Worker 27840;pid=27840
+[1582098169] wproc: Registry request: name=Core Worker 27839;pid=27839
+[1582098169] wproc: Registry request: name=Core Worker 27837;pid=27837
+[1582098169] wproc: Registry request: name=Core Worker 27842;pid=27842
+[1582098169] wproc: Registry request: name=Core Worker 27844;pid=27844
+[1582098169] wproc: Registry request: name=Core Worker 27838;pid=27838
+[1582098169] wproc: Registry request: name=Core Worker 27826;pid=27826
+[1582098169] wproc: Registry request: name=Core Worker 27828;pid=27828
+[1582098169] wproc: Registry request: name=Core Worker 27829;pid=27829
+[1582098169] wproc: Registry request: name=Core Worker 27830;pid=27830
+[1582098169] wproc: Registry request: name=Core Worker 27831;pid=27831
+[1582098169] wproc: Registry request: name=Core Worker 27832;pid=27832
+[1582098169] wproc: Registry request: name=Core Worker 27835;pid=27835
+[1582098169] wproc: Registry request: name=Core Worker 27834;pid=27834
+[1582098169] wproc: Registry request: name=Core Worker 27845;pid=27845
+[1582098169] wproc: Registry request: name=Core Worker 27843;pid=27843
+[1582098169] Successfully launched command file worker with pid 27847
+[1582098206] SERVICE ALERT: vapps-109;/mnt/data01 Partition;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582098244] SERVICE ALERT: vapps-109;Current Load;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582098266] SERVICE ALERT: vapps-109;/mnt/data01 Partition;CRITICAL;SOFT;2;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582098281] SERVICE ALERT: vapps-109;Current Users;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582098304] SERVICE ALERT: vapps-109;Current Load;CRITICAL;SOFT;2;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582098319] SERVICE ALERT: vapps-109;PING;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582098326] SERVICE ALERT: vapps-109;/mnt/data01 Partition;CRITICAL;SOFT;3;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582098341] SERVICE ALERT: vapps-109;Current Users;CRITICAL;SOFT;2;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582098356] SERVICE ALERT: vapps-109;Root Partition;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582098364] SERVICE ALERT: vapps-109;Current Load;CRITICAL;SOFT;3;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582098379] SERVICE ALERT: vapps-109;PING;CRITICAL;SOFT;2;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582098386] SERVICE NOTIFICATION: jatin;vapps-109;/mnt/data01 Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582098386] SERVICE NOTIFICATION: atul;vapps-109;/mnt/data01 Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582098386] SERVICE ALERT: vapps-109;/mnt/data01 Partition;CRITICAL;HARD;4;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582098401] SERVICE ALERT: vapps-109;Current Users;OK;SOFT;3;USERS OK - 2 users currently logged in
+[1582098411] Caught SIGTERM, shutting down...
+[1582098411] Caught SIGTERM, shutting down...
+[1582098411] Successfully shutdown... (PID=27820)
+[1582098411] Nagios 4.4.5 starting... (PID=28489)
+[1582098411] Local time is Tue Feb 18 23:46:51 PST 2020
+[1582098411] LOG VERSION: 2.0
+[1582098411] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1582098411] qh: core query handler registered
+[1582098411] qh: echo service query handler registered
+[1582098411] qh: help for the query handler registered
+[1582098411] wproc: Successfully registered manager as @wproc with query handler
+[1582098411] wproc: Registry request: name=Core Worker 28492;pid=28492
+[1582098411] wproc: Registry request: name=Core Worker 28493;pid=28493
+[1582098411] wproc: Registry request: name=Core Worker 28495;pid=28495
+[1582098411] wproc: Registry request: name=Core Worker 28496;pid=28496
+[1582098411] wproc: Registry request: name=Core Worker 28509;pid=28509
+[1582098411] wproc: Registry request: name=Core Worker 28494;pid=28494
+[1582098411] wproc: Registry request: name=Core Worker 28504;pid=28504
+[1582098411] wproc: Registry request: name=Core Worker 28506;pid=28506
+[1582098411] wproc: Registry request: name=Core Worker 28507;pid=28507
+[1582098411] wproc: Registry request: name=Core Worker 28508;pid=28508
+[1582098411] wproc: Registry request: name=Core Worker 28497;pid=28497
+[1582098411] wproc: Registry request: name=Core Worker 28498;pid=28498
+[1582098411] wproc: Registry request: name=Core Worker 28500;pid=28500
+[1582098411] wproc: Registry request: name=Core Worker 28513;pid=28513
+[1582098411] wproc: Registry request: name=Core Worker 28499;pid=28499
+[1582098411] wproc: Registry request: name=Core Worker 28501;pid=28501
+[1582098411] wproc: Registry request: name=Core Worker 28505;pid=28505
+[1582098411] wproc: Registry request: name=Core Worker 28502;pid=28502
+[1582098411] wproc: Registry request: name=Core Worker 28503;pid=28503
+[1582098411] wproc: Registry request: name=Core Worker 28515;pid=28515
+[1582098411] wproc: Registry request: name=Core Worker 28512;pid=28512
+[1582098411] wproc: Registry request: name=Core Worker 28510;pid=28510
+[1582098411] wproc: Registry request: name=Core Worker 28511;pid=28511
+[1582098411] wproc: Registry request: name=Core Worker 28514;pid=28514
+[1582098411] Successfully launched command file worker with pid 28516
+[1582098417] SERVICE ALERT: vapps-109;Root Partition;OK;SOFT;2;/ is at 39% capacity, 16G of 43G
+[1582098424] SERVICE ALERT: vapps-109;Current Load;OK;HARD;4;OK - load average: 0.02, 0.04, 0.04
+[1582098439] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vapps-109;/mnt/data01 Partition;1582098444
+[1582098444] SERVICE ALERT: vapps-109;PING;OK;SOFT;3;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1582098444] SERVICE NOTIFICATION: jatin;vapps-109;/mnt/data01 Partition;OK;notify-service-by-email;/mnt/data01 is at 59% capacity, 511G of 917G
+[1582098444] SERVICE NOTIFICATION: atul;vapps-109;/mnt/data01 Partition;OK;notify-service-by-email;/mnt/data01 is at 59% capacity, 511G of 917G
+[1582098444] SERVICE ALERT: vapps-109;/mnt/data01 Partition;OK;HARD;4;/mnt/data01 is at 59% capacity, 511G of 917G

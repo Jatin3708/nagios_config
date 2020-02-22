@@ -1,0 +1,220 @@
+[1579673243] Nagios 4.4.5 starting... (PID=19814)
+[1579673243] Local time is Tue Jan 21 22:07:23 PST 2020
+[1579673243] LOG VERSION: 2.0
+[1579673243] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579673243] qh: core query handler registered
+[1579673243] qh: echo service query handler registered
+[1579673243] qh: help for the query handler registered
+[1579673243] wproc: Successfully registered manager as @wproc with query handler
+[1579673243] wproc: Registry request: name=Core Worker 19817;pid=19817
+[1579673243] wproc: Registry request: name=Core Worker 19821;pid=19821
+[1579673243] wproc: Registry request: name=Core Worker 19818;pid=19818
+[1579673243] wproc: Registry request: name=Core Worker 19816;pid=19816
+[1579673243] wproc: Registry request: name=Core Worker 19837;pid=19837
+[1579673243] wproc: Registry request: name=Core Worker 19819;pid=19819
+[1579673243] wproc: Registry request: name=Core Worker 19836;pid=19836
+[1579673243] wproc: Registry request: name=Core Worker 19823;pid=19823
+[1579673243] wproc: Registry request: name=Core Worker 19820;pid=19820
+[1579673243] wproc: Registry request: name=Core Worker 19839;pid=19839
+[1579673243] wproc: Registry request: name=Core Worker 19822;pid=19822
+[1579673243] wproc: Registry request: name=Core Worker 19838;pid=19838
+[1579673243] wproc: Registry request: name=Core Worker 19828;pid=19828
+[1579673243] wproc: Registry request: name=Core Worker 19831;pid=19831
+[1579673243] wproc: Registry request: name=Core Worker 19833;pid=19833
+[1579673243] wproc: Registry request: name=Core Worker 19834;pid=19834
+[1579673243] wproc: Registry request: name=Core Worker 19835;pid=19835
+[1579673243] wproc: Registry request: name=Core Worker 19824;pid=19824
+[1579673243] wproc: Registry request: name=Core Worker 19825;pid=19825
+[1579673243] wproc: Registry request: name=Core Worker 19827;pid=19827
+[1579673243] wproc: Registry request: name=Core Worker 19826;pid=19826
+[1579673243] wproc: Registry request: name=Core Worker 19832;pid=19832
+[1579673243] wproc: Registry request: name=Core Worker 19829;pid=19829
+[1579673243] wproc: Registry request: name=Core Worker 19830;pid=19830
+[1579673243] Successfully launched command file worker with pid 19840
+[1579673846] Caught SIGTERM, shutting down...
+[1579673846] Caught SIGTERM, shutting down...
+[1579673846] Successfully shutdown... (PID=19814)
+[1579673846] Nagios 4.4.5 starting... (PID=21027)
+[1579673846] Local time is Tue Jan 21 22:17:26 PST 2020
+[1579673846] LOG VERSION: 2.0
+[1579673846] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579673846] qh: core query handler registered
+[1579673846] qh: echo service query handler registered
+[1579673846] qh: help for the query handler registered
+[1579673846] wproc: Successfully registered manager as @wproc with query handler
+[1579673846] wproc: Registry request: name=Core Worker 21032;pid=21032
+[1579673846] wproc: Registry request: name=Core Worker 21035;pid=21035
+[1579673846] wproc: Registry request: name=Core Worker 21036;pid=21036
+[1579673846] wproc: Registry request: name=Core Worker 21038;pid=21038
+[1579673846] wproc: Registry request: name=Core Worker 21033;pid=21033
+[1579673846] wproc: Registry request: name=Core Worker 21041;pid=21041
+[1579673846] wproc: Registry request: name=Core Worker 21037;pid=21037
+[1579673846] wproc: Registry request: name=Core Worker 21042;pid=21042
+[1579673846] wproc: Registry request: name=Core Worker 21044;pid=21044
+[1579673846] wproc: Registry request: name=Core Worker 21040;pid=21040
+[1579673846] wproc: Registry request: name=Core Worker 21043;pid=21043
+[1579673846] wproc: Registry request: name=Core Worker 21046;pid=21046
+[1579673846] wproc: Registry request: name=Core Worker 21039;pid=21039
+[1579673846] wproc: Registry request: name=Core Worker 21034;pid=21034
+[1579673846] wproc: Registry request: name=Core Worker 21049;pid=21049
+[1579673846] wproc: Registry request: name=Core Worker 21048;pid=21048
+[1579673846] wproc: Registry request: name=Core Worker 21047;pid=21047
+[1579673846] wproc: Registry request: name=Core Worker 21050;pid=21050
+[1579673846] wproc: Registry request: name=Core Worker 21052;pid=21052
+[1579673846] wproc: Registry request: name=Core Worker 21051;pid=21051
+[1579673846] wproc: Registry request: name=Core Worker 21054;pid=21054
+[1579673846] wproc: Registry request: name=Core Worker 21053;pid=21053
+[1579673846] wproc: Registry request: name=Core Worker 21055;pid=21055
+[1579673846] wproc: Registry request: name=Core Worker 21045;pid=21045
+[1579673846] Error: Could not find any host matching 'localhost' (config file '/usr/local/nagios/etc/objects/localhost.cfg', starting on line 158)
+[1579673846] Error: Failed to expand host list 'localhost' for service 'HTTP' (/usr/local/nagios/etc/objects/localhost.cfg:158)
+[1579673846] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=21027)
+[1579673888] Nagios 4.4.5 starting... (PID=21094)
+[1579673888] Local time is Tue Jan 21 22:18:08 PST 2020
+[1579673888] LOG VERSION: 2.0
+[1579673888] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579673888] qh: core query handler registered
+[1579673888] qh: echo service query handler registered
+[1579673888] qh: help for the query handler registered
+[1579673888] wproc: Successfully registered manager as @wproc with query handler
+[1579673888] wproc: Registry request: name=Core Worker 21096;pid=21096
+[1579673888] wproc: Registry request: name=Core Worker 21098;pid=21098
+[1579673888] wproc: Registry request: name=Core Worker 21100;pid=21100
+[1579673888] wproc: Registry request: name=Core Worker 21101;pid=21101
+[1579673888] wproc: Registry request: name=Core Worker 21097;pid=21097
+[1579673888] wproc: Registry request: name=Core Worker 21099;pid=21099
+[1579673888] wproc: Registry request: name=Core Worker 21102;pid=21102
+[1579673888] wproc: Registry request: name=Core Worker 21103;pid=21103
+[1579673888] wproc: Registry request: name=Core Worker 21104;pid=21104
+[1579673888] wproc: Registry request: name=Core Worker 21105;pid=21105
+[1579673888] wproc: Registry request: name=Core Worker 21106;pid=21106
+[1579673888] wproc: Registry request: name=Core Worker 21107;pid=21107
+[1579673888] wproc: Registry request: name=Core Worker 21108;pid=21108
+[1579673888] wproc: Registry request: name=Core Worker 21109;pid=21109
+[1579673888] wproc: Registry request: name=Core Worker 21110;pid=21110
+[1579673888] wproc: Registry request: name=Core Worker 21111;pid=21111
+[1579673888] wproc: Registry request: name=Core Worker 21115;pid=21115
+[1579673888] wproc: Registry request: name=Core Worker 21119;pid=21119
+[1579673888] wproc: Registry request: name=Core Worker 21116;pid=21116
+[1579673888] wproc: Registry request: name=Core Worker 21117;pid=21117
+[1579673888] wproc: Registry request: name=Core Worker 21118;pid=21118
+[1579673888] wproc: Registry request: name=Core Worker 21114;pid=21114
+[1579673888] wproc: Registry request: name=Core Worker 21112;pid=21112
+[1579673888] wproc: Registry request: name=Core Worker 21113;pid=21113
+[1579673888] Error: Could not find any host matching 'localhost' (config file '/usr/local/nagios/etc/objects/localhost.cfg', starting on line 158)
+[1579673888] Error: Failed to expand host list 'localhost' for service 'HTTP' (/usr/local/nagios/etc/objects/localhost.cfg:158)
+[1579673888] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=21094)
+[1579674017] Nagios 4.4.5 starting... (PID=21388)
+[1579674017] Local time is Tue Jan 21 22:20:17 PST 2020
+[1579674017] LOG VERSION: 2.0
+[1579674017] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579674017] qh: core query handler registered
+[1579674017] qh: echo service query handler registered
+[1579674017] qh: help for the query handler registered
+[1579674017] wproc: Successfully registered manager as @wproc with query handler
+[1579674017] wproc: Registry request: name=Core Worker 21390;pid=21390
+[1579674017] wproc: Registry request: name=Core Worker 21391;pid=21391
+[1579674017] wproc: Registry request: name=Core Worker 21392;pid=21392
+[1579674017] wproc: Registry request: name=Core Worker 21398;pid=21398
+[1579674017] wproc: Registry request: name=Core Worker 21393;pid=21393
+[1579674017] wproc: Registry request: name=Core Worker 21399;pid=21399
+[1579674017] wproc: Registry request: name=Core Worker 21409;pid=21409
+[1579674017] wproc: Registry request: name=Core Worker 21394;pid=21394
+[1579674017] wproc: Registry request: name=Core Worker 21413;pid=21413
+[1579674017] wproc: Registry request: name=Core Worker 21408;pid=21408
+[1579674017] wproc: Registry request: name=Core Worker 21396;pid=21396
+[1579674017] wproc: Registry request: name=Core Worker 21410;pid=21410
+[1579674017] wproc: Registry request: name=Core Worker 21395;pid=21395
+[1579674017] wproc: Registry request: name=Core Worker 21397;pid=21397
+[1579674017] wproc: Registry request: name=Core Worker 21406;pid=21406
+[1579674017] wproc: Registry request: name=Core Worker 21411;pid=21411
+[1579674017] wproc: Registry request: name=Core Worker 21407;pid=21407
+[1579674017] wproc: Registry request: name=Core Worker 21412;pid=21412
+[1579674017] wproc: Registry request: name=Core Worker 21403;pid=21403
+[1579674017] wproc: Registry request: name=Core Worker 21404;pid=21404
+[1579674017] wproc: Registry request: name=Core Worker 21400;pid=21400
+[1579674017] wproc: Registry request: name=Core Worker 21405;pid=21405
+[1579674017] wproc: Registry request: name=Core Worker 21401;pid=21401
+[1579674017] wproc: Registry request: name=Core Worker 21402;pid=21402
+[1579674017] Successfully launched command file worker with pid 21414
+[1579674050] SERVICE ALERT: vonly-backup;/mnt/data Partition;CRITICAL;SOFT;1;DISK CRITICAL - /mnt/data is not accessible: No such file or directory
+[1579674055] Caught SIGTERM, shutting down...
+[1579674055] Caught SIGTERM, shutting down...
+[1579674055] Successfully shutdown... (PID=21388)
+[1579674055] Nagios 4.4.5 starting... (PID=21526)
+[1579674055] Local time is Tue Jan 21 22:20:55 PST 2020
+[1579674055] LOG VERSION: 2.0
+[1579674055] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579674055] qh: core query handler registered
+[1579674055] qh: echo service query handler registered
+[1579674055] qh: help for the query handler registered
+[1579674055] wproc: Successfully registered manager as @wproc with query handler
+[1579674055] wproc: Registry request: name=Core Worker 21530;pid=21530
+[1579674055] wproc: Registry request: name=Core Worker 21529;pid=21529
+[1579674055] wproc: Registry request: name=Core Worker 21541;pid=21541
+[1579674055] wproc: Registry request: name=Core Worker 21544;pid=21544
+[1579674055] wproc: Registry request: name=Core Worker 21543;pid=21543
+[1579674055] wproc: Registry request: name=Core Worker 21533;pid=21533
+[1579674055] wproc: Registry request: name=Core Worker 21532;pid=21532
+[1579674055] wproc: Registry request: name=Core Worker 21552;pid=21552
+[1579674055] wproc: Registry request: name=Core Worker 21534;pid=21534
+[1579674055] wproc: Registry request: name=Core Worker 21531;pid=21531
+[1579674055] wproc: Registry request: name=Core Worker 21545;pid=21545
+[1579674055] wproc: Registry request: name=Core Worker 21535;pid=21535
+[1579674055] wproc: Registry request: name=Core Worker 21536;pid=21536
+[1579674055] wproc: Registry request: name=Core Worker 21539;pid=21539
+[1579674055] wproc: Registry request: name=Core Worker 21546;pid=21546
+[1579674055] wproc: Registry request: name=Core Worker 21548;pid=21548
+[1579674055] wproc: Registry request: name=Core Worker 21550;pid=21550
+[1579674055] wproc: Registry request: name=Core Worker 21537;pid=21537
+[1579674055] wproc: Registry request: name=Core Worker 21538;pid=21538
+[1579674055] wproc: Registry request: name=Core Worker 21540;pid=21540
+[1579674055] wproc: Registry request: name=Core Worker 21542;pid=21542
+[1579674055] wproc: Registry request: name=Core Worker 21547;pid=21547
+[1579674055] wproc: Registry request: name=Core Worker 21551;pid=21551
+[1579674055] wproc: Registry request: name=Core Worker 21549;pid=21549
+[1579674055] Successfully launched command file worker with pid 21553
+[1579674109] Caught SIGTERM, shutting down...
+[1579674109] Caught SIGTERM, shutting down...
+[1579674109] Successfully shutdown... (PID=21526)
+[1579674109] Nagios 4.4.5 starting... (PID=21661)
+[1579674109] Local time is Tue Jan 21 22:21:49 PST 2020
+[1579674109] LOG VERSION: 2.0
+[1579674109] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579674109] qh: core query handler registered
+[1579674109] qh: echo service query handler registered
+[1579674109] qh: help for the query handler registered
+[1579674109] wproc: Successfully registered manager as @wproc with query handler
+[1579674109] wproc: Registry request: name=Core Worker 21663;pid=21663
+[1579674109] wproc: Registry request: name=Core Worker 21664;pid=21664
+[1579674109] wproc: Registry request: name=Core Worker 21665;pid=21665
+[1579674109] wproc: Registry request: name=Core Worker 21671;pid=21671
+[1579674109] wproc: Registry request: name=Core Worker 21666;pid=21666
+[1579674109] wproc: Registry request: name=Core Worker 21667;pid=21667
+[1579674109] wproc: Registry request: name=Core Worker 21669;pid=21669
+[1579674109] wproc: Registry request: name=Core Worker 21676;pid=21676
+[1579674109] wproc: Registry request: name=Core Worker 21678;pid=21678
+[1579674109] wproc: Registry request: name=Core Worker 21679;pid=21679
+[1579674109] wproc: Registry request: name=Core Worker 21672;pid=21672
+[1579674109] wproc: Registry request: name=Core Worker 21681;pid=21681
+[1579674109] wproc: Registry request: name=Core Worker 21673;pid=21673
+[1579674109] wproc: Registry request: name=Core Worker 21677;pid=21677
+[1579674109] wproc: Registry request: name=Core Worker 21675;pid=21675
+[1579674109] wproc: Registry request: name=Core Worker 21674;pid=21674
+[1579674109] wproc: Registry request: name=Core Worker 21670;pid=21670
+[1579674109] wproc: Registry request: name=Core Worker 21668;pid=21668
+[1579674109] wproc: Registry request: name=Core Worker 21682;pid=21682
+[1579674109] wproc: Registry request: name=Core Worker 21680;pid=21680
+[1579674109] wproc: Registry request: name=Core Worker 21683;pid=21683
+[1579674109] wproc: Registry request: name=Core Worker 21684;pid=21684
+[1579674109] wproc: Registry request: name=Core Worker 21685;pid=21685
+[1579674109] wproc: Registry request: name=Core Worker 21686;pid=21686
+[1579674109] Successfully launched command file worker with pid 21687
+[1579674142] SERVICE ALERT: vonly-backup;/media/data Partition;CRITICAL;SOFT;1;DISK CRITICAL - free space: /media/data 662025 MiB (9.21% inode=98%):
+[1579674202] SERVICE ALERT: vonly-backup;/media/data Partition;CRITICAL;SOFT;2;DISK CRITICAL - free space: /media/data 661946 MiB (9.21% inode=98%):
+[1579674262] SERVICE ALERT: vonly-backup;/media/data Partition;CRITICAL;SOFT;3;DISK CRITICAL - free space: /media/data 661866 MiB (9.20% inode=98%):
+[1579674322] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;/media/data Partition;CRITICAL;notify-service-by-email;DISK CRITICAL - free space: /media/data 661782 MiB (9.20% inode=98%):
+[1579674322] SERVICE ALERT: vonly-backup;/media/data Partition;CRITICAL;HARD;4;DISK CRITICAL - free space: /media/data 661782 MiB (9.20% inode=98%):
+[1579677708] Auto-save of retention data completed successfully.
+[1579677922] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;/media/data Partition;CRITICAL;notify-service-by-email;DISK CRITICAL - free space: /media/data 656673 MiB (9.13% inode=98%):
+[1579681766] Caught SIGTERM, shutting down...

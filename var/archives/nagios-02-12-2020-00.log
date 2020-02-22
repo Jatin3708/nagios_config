@@ -1,0 +1,676 @@
+[1581408000] LOG ROTATION: DAILY
+[1581408000] LOG VERSION: 2.0
+[1581408000] CURRENT HOST STATE: vdb-100;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1581408000] CURRENT HOST STATE: vdb-101;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.24 ms
+[1581408000] CURRENT HOST STATE: vdb-102;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1581408000] CURRENT HOST STATE: vdb-103;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.32 ms
+[1581408000] CURRENT HOST STATE: vonly-backup;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1581408000] CURRENT HOST STATE: vonly-database;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1581408000] CURRENT HOST STATE: vonly-replica;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1581408000] CURRENT SERVICE STATE: vdb-100;/mnt/data01 Partition;WARNING;HARD;4;/mnt/data01 is at 92% capacity! 3.2T of 3.7T
+[1581408000] CURRENT SERVICE STATE: vdb-100;Current Load;OK;HARD;1;OK - load average: 0.41, 0.46, 0.39
+[1581408000] CURRENT SERVICE STATE: vdb-100;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1581408000] CURRENT SERVICE STATE: vdb-100;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1581408000] CURRENT SERVICE STATE: vdb-100;Root Partition;OK;HARD;1;/ is at 12% capacity, 10G of 91G
+[1581408000] CURRENT SERVICE STATE: vdb-100;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.6 (protocol 2.0)
+[1581408000] CURRENT SERVICE STATE: vdb-100;Swap Usage;CRITICAL;HARD;4;SWAP CRITICAL - 7% free (62 MB out of 975 MB)
+[1581408000] CURRENT SERVICE STATE: vdb-100;Total Processes;OK;HARD;1;PROCS OK: 177 processes with STATE = RSZDT
+[1581408000] CURRENT SERVICE STATE: vdb-101;/mnt/data01 Partition;WARNING;HARD;4;/mnt/data01 is at 92% capacity! 3.2T of 3.6T
+[1581408000] CURRENT SERVICE STATE: vdb-101;Current Load;OK;HARD;1;OK - load average: 0.31, 0.70, 0.43
+[1581408000] CURRENT SERVICE STATE: vdb-101;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1581408000] CURRENT SERVICE STATE: vdb-101;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1581408000] CURRENT SERVICE STATE: vdb-101;Root Partition;OK;HARD;1;/ is at 11% capacity, 19G of 183G
+[1581408000] CURRENT SERVICE STATE: vdb-101;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.4 (protocol 2.0)
+[1581408000] CURRENT SERVICE STATE: vdb-101;Swap Usage;CRITICAL;HARD;4;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1581408000] CURRENT SERVICE STATE: vdb-101;Total Processes;OK;HARD;1;PROCS OK: 151 processes with STATE = RSZDT
+[1581408000] CURRENT SERVICE STATE: vdb-102;/mnt/data01 Partition;CRITICAL;HARD;1;(Return code of 255 for service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds)
+[1581408000] CURRENT SERVICE STATE: vdb-102;Current Load;CRITICAL;HARD;1;(Return code of 255 for service 'Current Load' on host 'vdb-102' was out of bounds)
+[1581408000] CURRENT SERVICE STATE: vdb-102;Current Users;CRITICAL;HARD;1;(Return code of 255 for service 'Current Users' on host 'vdb-102' was out of bounds)
+[1581408000] CURRENT SERVICE STATE: vdb-102;PING;CRITICAL;HARD;1;(Return code of 255 for service 'PING' on host 'vdb-102' was out of bounds)
+[1581408000] CURRENT SERVICE STATE: vdb-102;Root Partition;CRITICAL;HARD;1;(Return code of 255 for service 'Root Partition' on host 'vdb-102' was out of bounds)
+[1581408000] CURRENT SERVICE STATE: vdb-102;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.4 (protocol 2.0)
+[1581408000] CURRENT SERVICE STATE: vdb-102;Swap Usage;CRITICAL;HARD;4;(Return code of 255 for service 'Swap Usage' on host 'vdb-102' was out of bounds)
+[1581408000] CURRENT SERVICE STATE: vdb-102;Total Processes;CRITICAL;HARD;4;(Return code of 255 for service 'Total Processes' on host 'vdb-102' was out of bounds)
+[1581408000] CURRENT SERVICE STATE: vdb-103;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 65% capacity, 4.5T of 7.3T
+[1581408000] CURRENT SERVICE STATE: vdb-103;Current Load;OK;HARD;1;OK - load average: 0.54, 0.65, 0.45
+[1581408000] CURRENT SERVICE STATE: vdb-103;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1581408000] CURRENT SERVICE STATE: vdb-103;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1581408000] CURRENT SERVICE STATE: vdb-103;Root Partition;OK;HARD;1;/ is at 52% capacity, 224G of 457G
+[1581408000] CURRENT SERVICE STATE: vdb-103;SSH;OK;HARD;1;SSH OK - OpenSSH_7.6p1 Ubuntu-4ubuntu0.2 (protocol 2.0)
+[1581408000] CURRENT SERVICE STATE: vdb-103;Swap Usage;OK;HARD;1;SWAP OK - 93% free (1889 MB out of 2047 MB)
+[1581408000] CURRENT SERVICE STATE: vdb-103;Total Processes;OK;HARD;1;PROCS OK: 180 processes with STATE = RSZDT
+[1581408000] CURRENT SERVICE STATE: vonly-backup;Current Load;OK;HARD;1;OK - load average: 1.48, 1.32, 1.61
+[1581408000] CURRENT SERVICE STATE: vonly-backup;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1581408000] CURRENT SERVICE STATE: vonly-backup;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 11595 bytes in 0.001 second response time
+[1581408000] CURRENT SERVICE STATE: vonly-backup;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1581408000] CURRENT SERVICE STATE: vonly-backup;Root Partition;OK;HARD;1;/ is at 51% capacity, 107G of 220G
+[1581408000] CURRENT SERVICE STATE: vonly-backup;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.8 (protocol 2.0)
+[1581408000] CURRENT SERVICE STATE: vonly-backup;Swap Usage;OK;HARD;1;SWAP OK - 95% free (53788 MB out of 57111 MB)
+[1581408000] CURRENT SERVICE STATE: vonly-backup;Total Processes;OK;HARD;1;PROCS OK: 240 processes with STATE = RSZDT
+[1581408000] CURRENT SERVICE STATE: vonly-database;/media/data Partition;OK;HARD;1;/media/data is at 84% capacity, 2.9T of 3.6T
+[1581408000] CURRENT SERVICE STATE: vonly-database;Current Load;WARNING;HARD;4;WARNING - load average: 13.29, 15.60, 16.25
+[1581408000] CURRENT SERVICE STATE: vonly-database;Current Users;OK;HARD;1;USERS OK - 2 users currently logged in
+[1581408000] CURRENT SERVICE STATE: vonly-database;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1581408000] CURRENT SERVICE STATE: vonly-database;Root Partition;OK;HARD;1;/ is at 67% capacity, 140G of 220G
+[1581408000] CURRENT SERVICE STATE: vonly-database;SSH;OK;HARD;1;SSH OK - OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.8 (protocol 2.0)
+[1581408000] CURRENT SERVICE STATE: vonly-database;Swap Usage;OK;HARD;1;SWAP OK - 98% free (55717 MB out of 57111 MB)
+[1581408000] CURRENT SERVICE STATE: vonly-database;Total Processes;OK;HARD;1;PROCS OK: 202 processes with STATE = RSZDT
+[1581408000] CURRENT SERVICE STATE: vonly-replica;/media/data Partition;OK;HARD;1;/media/data is at 47% capacity, 3.2T of 7.3T
+[1581408000] CURRENT SERVICE STATE: vonly-replica;Current Load;OK;HARD;1;OK - load average: 0.12, 0.17, 0.13
+[1581408000] CURRENT SERVICE STATE: vonly-replica;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1581408000] CURRENT SERVICE STATE: vonly-replica;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1581408000] CURRENT SERVICE STATE: vonly-replica;Root Partition;OK;HARD;1;/ is at 31% capacity, 32G of 108G
+[1581408000] CURRENT SERVICE STATE: vonly-replica;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.2 (protocol 2.0)
+[1581408000] CURRENT SERVICE STATE: vonly-replica;Swap Usage;OK;HARD;1;SWAP OK - 98% free (27145 MB out of 27876 MB)
+[1581408000] CURRENT SERVICE STATE: vonly-replica;Total Processes;OK;HARD;1;PROCS OK: 89 processes with STATE = RSZDT
+[1581408049] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581408051] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581408089] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581408106] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581408158] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581408236] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581408261] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581408349] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581408351] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581408389] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581408406] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581408458] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581408536] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581408561] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581408649] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581408651] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581408689] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581408706] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581408758] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581408836] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581408861] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581408949] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581408951] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581408989] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581409006] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581409058] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581409136] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581409161] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581409249] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581409251] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581409289] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581409306] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581409358] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581409436] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581409461] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581409549] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581409551] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581409589] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581409606] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581409633] SERVICE NOTIFICATION: jatin;vonly-database;Current Load;OK;notify-service-by-email;OK - load average: 1.00, 1.33, 4.50
+[1581409633] SERVICE NOTIFICATION: atul;vonly-database;Current Load;OK;notify-service-by-email;OK - load average: 1.00, 1.33, 4.50
+[1581409633] SERVICE ALERT: vonly-database;Current Load;OK;HARD;4;OK - load average: 1.00, 1.33, 4.50
+[1581409658] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581409736] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581409761] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581409809] Auto-save of retention data completed successfully.
+[1581409849] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581409851] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581409889] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581409906] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581409958] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581410036] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581410061] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581410149] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581410151] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581410189] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581410206] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581410258] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581410336] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581410361] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581410449] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581410451] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581410489] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581410506] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581410558] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581410636] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581410661] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581410749] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581410751] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581410789] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581410806] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581410858] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581410936] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581410961] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581411049] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581411051] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581411089] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581411106] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581411158] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581411236] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581411261] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581411349] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581411351] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581411389] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581411406] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581411458] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581411536] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581411561] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581411649] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581411651] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581411689] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581411706] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581411758] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581411836] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581411836] SERVICE NOTIFICATION: jatin;vdb-102;Total Processes;CRITICAL;notify-service-by-email;(Return code of 255 for service 'Total Processes' on host 'vdb-102' was out of bounds)
+[1581411836] SERVICE NOTIFICATION: atul;vdb-102;Total Processes;CRITICAL;notify-service-by-email;(Return code of 255 for service 'Total Processes' on host 'vdb-102' was out of bounds)
+[1581411861] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581411861] SERVICE NOTIFICATION: jatin;vdb-102;Current Users;CRITICAL;notify-service-by-email;(Return code of 255 for service 'Current Users' on host 'vdb-102' was out of bounds)
+[1581411861] SERVICE NOTIFICATION: atul;vdb-102;Current Users;CRITICAL;notify-service-by-email;(Return code of 255 for service 'Current Users' on host 'vdb-102' was out of bounds)
+[1581411949] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581411951] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581411951] SERVICE NOTIFICATION: jatin;vdb-102;PING;CRITICAL;notify-service-by-email;(Return code of 255 for service 'PING' on host 'vdb-102' was out of bounds)
+[1581411951] SERVICE NOTIFICATION: atul;vdb-102;PING;CRITICAL;notify-service-by-email;(Return code of 255 for service 'PING' on host 'vdb-102' was out of bounds)
+[1581411989] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581411989] SERVICE NOTIFICATION: jatin;vdb-102;Current Load;CRITICAL;notify-service-by-email;(Return code of 255 for service 'Current Load' on host 'vdb-102' was out of bounds)
+[1581411989] SERVICE NOTIFICATION: atul;vdb-102;Current Load;CRITICAL;notify-service-by-email;(Return code of 255 for service 'Current Load' on host 'vdb-102' was out of bounds)
+[1581412006] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581412006] SERVICE NOTIFICATION: jatin;vdb-102;Root Partition;CRITICAL;notify-service-by-email;(Return code of 255 for service 'Root Partition' on host 'vdb-102' was out of bounds)
+[1581412006] SERVICE NOTIFICATION: atul;vdb-102;Root Partition;CRITICAL;notify-service-by-email;(Return code of 255 for service 'Root Partition' on host 'vdb-102' was out of bounds)
+[1581412058] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581412136] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581412161] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581412249] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581412251] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581412289] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581412306] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581412358] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581412436] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581412461] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581412549] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581412551] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581412589] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581412606] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581412658] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581412736] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581412761] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581412849] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581412851] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581412889] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581412906] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581412958] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581413036] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581413061] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581413149] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581413151] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581413189] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581413206] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581413258] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581413336] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581413361] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581413410] Auto-save of retention data completed successfully.
+[1581413449] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581413451] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581413489] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581413506] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581413558] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581413636] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581413661] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581413749] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581413751] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581413789] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581413806] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581413858] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581413936] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581413961] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581414049] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581414051] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581414089] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581414106] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581414158] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581414236] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581414261] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581414349] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581414351] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581414389] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581414406] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581414458] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581414460] SERVICE NOTIFICATION: jatin;vdb-101;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 92% capacity! 3.2T of 3.6T
+[1581414460] SERVICE NOTIFICATION: atul;vdb-101;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 92% capacity! 3.2T of 3.6T
+[1581414470] SERVICE ALERT: vonly-database;SSH;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1581414473] HOST ALERT: vonly-database;DOWN;SOFT;1;CRITICAL - Host Unreachable (192.168.4.102)
+[1581414497] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581414497] SERVICE ALERT: vonly-database;Swap Usage;CRITICAL;HARD;1;(Return code of 255 for service 'Swap Usage' on host 'vonly-database' was out of bounds)
+[1581414505] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581414505] SERVICE ALERT: vonly-database;Total Processes;CRITICAL;HARD;1;(Return code of 255 for service 'Total Processes' on host 'vonly-database' was out of bounds)
+[1581414533] SERVICE ALERT: vonly-database;SSH;CRITICAL;HARD;4;connect to address 192.168.4.102 and port 22: No route to host
+[1581414536] HOST ALERT: vonly-database;DOWN;SOFT;2;CRITICAL - Host Unreachable (192.168.4.102)
+[1581414536] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581414561] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581414599] HOST ALERT: vonly-database;DOWN;SOFT;3;CRITICAL - Host Unreachable (192.168.4.102)
+[1581414649] Warning: Return code of 255 for check of service '/mnt/data01 Partition' on host 'vdb-102' was out of bounds.
+[1581414650] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581414650] SERVICE ALERT: vonly-database;Current Users;CRITICAL;HARD;1;(Return code of 255 for service 'Current Users' on host 'vonly-database' was out of bounds)
+[1581414651] Warning: Return code of 255 for check of service 'PING' on host 'vdb-102' was out of bounds.
+[1581414661] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581414661] SERVICE ALERT: vonly-database;/media/data Partition;CRITICAL;HARD;1;(Return code of 255 for service '/media/data Partition' on host 'vonly-database' was out of bounds)
+[1581414661] HOST ALERT: vonly-database;DOWN;SOFT;4;CRITICAL - Host Unreachable (192.168.4.102)
+[1581414689] Warning: Return code of 255 for check of service 'Current Load' on host 'vdb-102' was out of bounds.
+[1581414706] Warning: Return code of 255 for check of service 'Root Partition' on host 'vdb-102' was out of bounds.
+[1581414723] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581414723] SERVICE ALERT: vonly-database;Root Partition;CRITICAL;HARD;1;(Return code of 255 for service 'Root Partition' on host 'vonly-database' was out of bounds)
+[1581414723] HOST ALERT: vonly-database;DOWN;SOFT;5;CRITICAL - Host Unreachable (192.168.4.102)
+[1581414734] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581414734] SERVICE ALERT: vonly-database;Current Load;CRITICAL;HARD;1;(Return code of 255 for service 'Current Load' on host 'vonly-database' was out of bounds)
+[1581414734] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581414734] SERVICE ALERT: vonly-database;PING;CRITICAL;HARD;1;(Return code of 255 for service 'PING' on host 'vonly-database' was out of bounds)
+[1581414761] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-102' was out of bounds.
+[1581414773] wproc: Core Worker 22362: job 2261 (pid=3138) timed out. Killing it
+[1581414773] wproc: CHECK job 2261 from worker Core Worker 22362 timed out after 30.03s
+[1581414773] wproc:   host=vdb-102; service=(null);
+[1581414773] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1581414773] Warning: Check of host 'vdb-102' timed out after 30.03 seconds
+[1581414773] HOST ALERT: vdb-102;DOWN;SOFT;1;(Host check timed out after 30.03 seconds)
+[1581414774] wproc: Core Worker 22362: job 2261 (pid=3138): Dormant child reaped
+[1581414787] HOST ALERT: vonly-database;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 199.85 ms
+[1581414794] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581414805] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581414805] SERVICE NOTIFICATION: jatin;vonly-database;Total Processes;CRITICAL;notify-service-by-email;(Return code of 255 for service 'Total Processes' on host 'vonly-database' was out of bounds)
+[1581414805] SERVICE NOTIFICATION: atul;vonly-database;Total Processes;CRITICAL;notify-service-by-email;(Return code of 255 for service 'Total Processes' on host 'vonly-database' was out of bounds)
+[1581414830] SERVICE ALERT: vonly-database;SSH;OK;HARD;4;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.4 (protocol 2.0)
+[1581414836] Warning: Return code of 255 for check of service 'Total Processes' on host 'vdb-102' was out of bounds.
+[1581414836] HOST ALERT: vdb-102;DOWN;SOFT;2;CRITICAL - Host Unreachable (192.168.4.202)
+[1581414864] Warning: Return code of 255 for check of service 'Current Users' on host 'vdb-102' was out of bounds.
+[1581414900] HOST ALERT: vdb-102;UP;SOFT;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1581414944] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 92% capacity! 3.2T of 3.7T
+[1581414944] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 92% capacity! 3.2T of 3.7T
+[1581414947] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581414947] SERVICE NOTIFICATION: jatin;vonly-database;Current Users;CRITICAL;notify-service-by-email;(Return code of 255 for service 'Current Users' on host 'vonly-database' was out of bounds)
+[1581414947] SERVICE NOTIFICATION: atul;vonly-database;Current Users;CRITICAL;notify-service-by-email;(Return code of 255 for service 'Current Users' on host 'vonly-database' was out of bounds)
+[1581414949] SERVICE ALERT: vdb-102;/mnt/data01 Partition;OK;SOFT;1;/media/data is at 84% capacity, 2.9T of 3.6T
+[1581414955] SERVICE ALERT: vdb-102;PING;OK;SOFT;1;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1581414958] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581414958] SERVICE NOTIFICATION: jatin;vonly-database;/media/data Partition;CRITICAL;notify-service-by-email;(Return code of 255 for service '/media/data Partition' on host 'vonly-database' was out of bounds)
+[1581414958] SERVICE NOTIFICATION: atul;vonly-database;/media/data Partition;CRITICAL;notify-service-by-email;(Return code of 255 for service '/media/data Partition' on host 'vonly-database' was out of bounds)
+[1581414989] SERVICE ALERT: vdb-102;Current Load;OK;SOFT;1;OK - load average: 0.00, 0.02, 0.25
+[1581415006] SERVICE ALERT: vdb-102;Root Partition;OK;SOFT;1;/ is at 67% capacity, 140G of 220G
+[1581415020] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581415020] SERVICE NOTIFICATION: jatin;vonly-database;Root Partition;CRITICAL;notify-service-by-email;(Return code of 255 for service 'Root Partition' on host 'vonly-database' was out of bounds)
+[1581415020] SERVICE NOTIFICATION: atul;vonly-database;Root Partition;CRITICAL;notify-service-by-email;(Return code of 255 for service 'Root Partition' on host 'vonly-database' was out of bounds)
+[1581415031] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581415031] SERVICE NOTIFICATION: jatin;vonly-database;PING;CRITICAL;notify-service-by-email;(Return code of 255 for service 'PING' on host 'vonly-database' was out of bounds)
+[1581415031] SERVICE NOTIFICATION: atul;vonly-database;PING;CRITICAL;notify-service-by-email;(Return code of 255 for service 'PING' on host 'vonly-database' was out of bounds)
+[1581415033] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581415033] SERVICE NOTIFICATION: jatin;vonly-database;Current Load;CRITICAL;notify-service-by-email;(Return code of 255 for service 'Current Load' on host 'vonly-database' was out of bounds)
+[1581415033] SERVICE NOTIFICATION: atul;vonly-database;Current Load;CRITICAL;notify-service-by-email;(Return code of 255 for service 'Current Load' on host 'vonly-database' was out of bounds)
+[1581415058] SERVICE ALERT: vdb-102;Swap Usage;OK;HARD;4;SWAP OK - 96% free (54412 MB out of 57111 MB)
+[1581415094] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581415102] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581415136] SERVICE NOTIFICATION: jatin;vdb-102;Total Processes;OK;notify-service-by-email;PROCS OK: 202 processes with STATE = RSZDT
+[1581415136] SERVICE NOTIFICATION: atul;vdb-102;Total Processes;OK;notify-service-by-email;PROCS OK: 202 processes with STATE = RSZDT
+[1581415136] SERVICE ALERT: vdb-102;Total Processes;OK;HARD;4;PROCS OK: 202 processes with STATE = RSZDT
+[1581415161] SERVICE ALERT: vdb-102;Current Users;OK;SOFT;1;USERS OK - 3 users currently logged in
+[1581415247] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581415258] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581415320] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581415331] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581415333] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581415394] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581415402] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581415547] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581415558] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581415620] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581415631] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581415633] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581415694] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581415702] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581415847] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581415858] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581415920] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581415931] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581415933] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581415994] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581416002] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581416147] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581416158] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581416220] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581416231] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581416233] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581416294] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581416302] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581416447] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581416458] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581416520] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581416531] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581416533] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581416594] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581416602] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581416747] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581416758] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581416820] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581416831] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581416833] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581416894] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581416902] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581417009] Auto-save of retention data completed successfully.
+[1581417047] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581417058] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581417120] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581417131] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581417133] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581417194] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581417202] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581417347] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581417358] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581417420] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581417431] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581417433] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581417494] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581417502] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581417647] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581417658] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581417720] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581417731] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581417733] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581417794] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581417802] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581417947] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581417958] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581418020] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581418031] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581418033] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581418094] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581418102] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581418247] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581418258] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581418320] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581418331] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581418333] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581418394] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581418402] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581418547] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581418558] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581418558] SERVICE NOTIFICATION: jatin;vonly-database;/media/data Partition;CRITICAL;notify-service-by-email;(Return code of 255 for service '/media/data Partition' on host 'vonly-database' was out of bounds)
+[1581418558] SERVICE NOTIFICATION: atul;vonly-database;/media/data Partition;CRITICAL;notify-service-by-email;(Return code of 255 for service '/media/data Partition' on host 'vonly-database' was out of bounds)
+[1581418620] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581418631] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581418633] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581418694] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581418702] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581418847] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581418858] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581418920] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581418931] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581418933] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581418994] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581419002] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581419147] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581419158] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581419220] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581419231] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581419233] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581419294] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581419302] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581419447] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581419458] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581419520] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581419531] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581419533] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581419594] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581419602] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581419747] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581419758] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581419820] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581419831] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581419833] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581419894] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581419902] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581420047] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581420058] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581420120] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581420122] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;1;WARNING - load average: 7.63, 4.86, 2.76
+[1581420131] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581420133] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581420182] SERVICE ALERT: vonly-backup;Current Load;OK;SOFT;2;OK - load average: 3.86, 4.29, 2.70
+[1581420194] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581420202] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581420347] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581420358] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581420420] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581420431] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581420433] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581420494] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581420502] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581420609] Auto-save of retention data completed successfully.
+[1581420647] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581420658] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581420720] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581420731] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581420733] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581420782] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;1;WARNING - load average: 8.03, 7.81, 5.94
+[1581420794] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581420802] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581420842] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;2;WARNING - load average: 9.00, 8.06, 6.14
+[1581420902] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;3;WARNING - load average: 8.58, 8.11, 6.28
+[1581420947] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581420958] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581420962] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 8.33, 8.07, 6.38
+[1581420962] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 8.33, 8.07, 6.38
+[1581420962] SERVICE ALERT: vonly-replica;Current Load;WARNING;HARD;4;WARNING - load average: 8.33, 8.07, 6.38
+[1581421020] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581421031] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581421033] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581421094] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581421102] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581421247] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581421258] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581421320] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581421331] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581421333] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581421394] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581421402] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581421547] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581421558] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581421620] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581421631] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581421633] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581421694] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581421702] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581421847] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581421858] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581421920] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581421931] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581421933] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581421994] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581422002] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581422147] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581422158] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581422158] SERVICE NOTIFICATION: jatin;vonly-database;/media/data Partition;CRITICAL;notify-service-by-email;(Return code of 255 for service '/media/data Partition' on host 'vonly-database' was out of bounds)
+[1581422158] SERVICE NOTIFICATION: atul;vonly-database;/media/data Partition;CRITICAL;notify-service-by-email;(Return code of 255 for service '/media/data Partition' on host 'vonly-database' was out of bounds)
+[1581422220] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581422231] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581422233] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581422294] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581422302] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581422447] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581422458] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581422520] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581422531] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581422533] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581422594] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581422602] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581422747] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581422758] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581422820] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581422831] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581422833] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581422894] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581422902] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581423047] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581423058] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581423120] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581423131] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581423133] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581423194] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581423202] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581423347] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581423358] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581423420] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581423431] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581423433] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581423494] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581423502] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581423647] Warning: Return code of 255 for check of service 'Current Users' on host 'vonly-database' was out of bounds.
+[1581423658] Warning: Return code of 255 for check of service '/media/data Partition' on host 'vonly-database' was out of bounds.
+[1581423720] Warning: Return code of 255 for check of service 'Root Partition' on host 'vonly-database' was out of bounds.
+[1581423731] Warning: Return code of 255 for check of service 'PING' on host 'vonly-database' was out of bounds.
+[1581423733] Warning: Return code of 255 for check of service 'Current Load' on host 'vonly-database' was out of bounds.
+[1581423794] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vonly-database' was out of bounds.
+[1581423802] Warning: Return code of 255 for check of service 'Total Processes' on host 'vonly-database' was out of bounds.
+[1581424033] SERVICE ALERT: vonly-database;Current Load;OK;SOFT;1;OK - load average: 0.27, 0.70, 0.77
+[1581424209] Auto-save of retention data completed successfully.
+[1581424247] SERVICE ALERT: vonly-database;Current Users;OK;SOFT;1;USERS OK - 3 users currently logged in
+[1581424320] SERVICE ALERT: vonly-database;Root Partition;OK;SOFT;1;/ is at 6% capacity, 102G of 1.8T
+[1581424336] SERVICE ALERT: vonly-database;PING;OK;SOFT;1;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1581424394] SERVICE ALERT: vonly-database;Swap Usage;OK;SOFT;1;SWAP OK - 91% free (93369 MB out of 103375 MB)
+[1581424402] SERVICE ALERT: vonly-database;Total Processes;OK;SOFT;1;PROCS OK: 149 processes with STATE = RSZDT
+[1581424498] Caught SIGTERM, shutting down...
+[1581424498] Successfully shutdown... (PID=22342)
+[1581424498] Nagios 4.4.5 starting... (PID=28552)
+[1581424498] Local time is Tue Feb 11 04:34:58 PST 2020
+[1581424498] LOG VERSION: 2.0
+[1581424498] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1581424498] qh: core query handler registered
+[1581424498] qh: echo service query handler registered
+[1581424498] qh: help for the query handler registered
+[1581424498] wproc: Successfully registered manager as @wproc with query handler
+[1581424498] wproc: Registry request: name=Core Worker 28554;pid=28554
+[1581424498] wproc: Registry request: name=Core Worker 28555;pid=28555
+[1581424498] wproc: Registry request: name=Core Worker 28556;pid=28556
+[1581424498] wproc: Registry request: name=Core Worker 28557;pid=28557
+[1581424498] wproc: Registry request: name=Core Worker 28559;pid=28559
+[1581424498] wproc: Registry request: name=Core Worker 28561;pid=28561
+[1581424498] wproc: Registry request: name=Core Worker 28563;pid=28563
+[1581424498] wproc: Registry request: name=Core Worker 28569;pid=28569
+[1581424498] wproc: Registry request: name=Core Worker 28571;pid=28571
+[1581424498] wproc: Registry request: name=Core Worker 28573;pid=28573
+[1581424498] wproc: Registry request: name=Core Worker 28578;pid=28578
+[1581424498] wproc: Registry request: name=Core Worker 28570;pid=28570
+[1581424498] wproc: Registry request: name=Core Worker 28572;pid=28572
+[1581424498] wproc: Registry request: name=Core Worker 28574;pid=28574
+[1581424498] wproc: Registry request: name=Core Worker 28575;pid=28575
+[1581424498] wproc: Registry request: name=Core Worker 28558;pid=28558
+[1581424498] wproc: Registry request: name=Core Worker 28564;pid=28564
+[1581424498] wproc: Registry request: name=Core Worker 28566;pid=28566
+[1581424498] wproc: Registry request: name=Core Worker 28576;pid=28576
+[1581424498] wproc: Registry request: name=Core Worker 28567;pid=28567
+[1581424498] wproc: Registry request: name=Core Worker 28562;pid=28562
+[1581424498] wproc: Registry request: name=Core Worker 28560;pid=28560
+[1581424498] wproc: Registry request: name=Core Worker 28565;pid=28565
+[1581424498] wproc: Registry request: name=Core Worker 28568;pid=28568
+[1581424498] Successfully launched command file worker with pid 28580
+[1581424555] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vonly-database;/media/data Partition;1581424559
+[1581424559] SERVICE NOTIFICATION: jatin;vonly-database;/media/data Partition;OK;notify-service-by-email;/media/data is at 84% capacity, 2.9T of 3.6T
+[1581424559] SERVICE NOTIFICATION: atul;vonly-database;/media/data Partition;OK;notify-service-by-email;/media/data is at 84% capacity, 2.9T of 3.6T
+[1581424559] SERVICE ALERT: vonly-database;/media/data Partition;OK;HARD;4;/media/data is at 84% capacity, 2.9T of 3.6T
+[1581425462] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 1.85, 2.62, 4.74
+[1581425462] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 1.85, 2.62, 4.74
+[1581425462] SERVICE ALERT: vonly-replica;Current Load;OK;HARD;4;OK - load average: 1.85, 2.62, 4.74
+[1581425923] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-101;Swap Usage;1581425929
+[1581425929] SERVICE ALERT: vdb-101;Swap Usage;OK;HARD;4;SWAP OK - 96% free (20468 MB out of 21455 MB)
+[1581426131] SERVICE ALERT: vdb-100;Swap Usage;OK;HARD;4;SWAP OK - 96% free (20480 MB out of 21455 MB)
+[1581426201] Caught SIGTERM, shutting down...
+[1581426201] Caught SIGTERM, shutting down...
+[1581426201] Successfully shutdown... (PID=28552)
+[1581426201] Nagios 4.4.5 starting... (PID=447)
+[1581426201] Local time is Tue Feb 11 05:03:21 PST 2020
+[1581426201] LOG VERSION: 2.0
+[1581426201] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1581426201] qh: core query handler registered
+[1581426201] qh: echo service query handler registered
+[1581426201] qh: help for the query handler registered
+[1581426201] wproc: Successfully registered manager as @wproc with query handler
+[1581426201] wproc: Registry request: name=Core Worker 449;pid=449
+[1581426201] wproc: Registry request: name=Core Worker 451;pid=451
+[1581426201] wproc: Registry request: name=Core Worker 450;pid=450
+[1581426201] wproc: Registry request: name=Core Worker 461;pid=461
+[1581426201] wproc: Registry request: name=Core Worker 454;pid=454
+[1581426201] wproc: Registry request: name=Core Worker 462;pid=462
+[1581426201] wproc: Registry request: name=Core Worker 456;pid=456
+[1581426201] wproc: Registry request: name=Core Worker 463;pid=463
+[1581426201] wproc: Registry request: name=Core Worker 464;pid=464
+[1581426201] wproc: Registry request: name=Core Worker 458;pid=458
+[1581426201] wproc: Registry request: name=Core Worker 465;pid=465
+[1581426201] wproc: Registry request: name=Core Worker 466;pid=466
+[1581426201] wproc: Registry request: name=Core Worker 460;pid=460
+[1581426201] wproc: Registry request: name=Core Worker 467;pid=467
+[1581426201] wproc: Registry request: name=Core Worker 468;pid=468
+[1581426201] wproc: Registry request: name=Core Worker 470;pid=470
+[1581426201] wproc: Registry request: name=Core Worker 469;pid=469
+[1581426201] wproc: Registry request: name=Core Worker 472;pid=472
+[1581426201] wproc: Registry request: name=Core Worker 452;pid=452
+[1581426201] wproc: Registry request: name=Core Worker 453;pid=453
+[1581426201] wproc: Registry request: name=Core Worker 455;pid=455
+[1581426201] wproc: Registry request: name=Core Worker 457;pid=457
+[1581426201] wproc: Registry request: name=Core Worker 459;pid=459
+[1581426201] wproc: Registry request: name=Core Worker 471;pid=471
+[1581426201] Successfully launched command file worker with pid 473
+[1581429800] Auto-save of retention data completed successfully.
+[1581430873] SERVICE ALERT: vdb-staging;Current Load;WARNING;SOFT;1;WARNING - load average: 8.27, 7.84, 5.18
+[1581430933] SERVICE ALERT: vdb-staging;Current Load;WARNING;SOFT;2;WARNING - load average: 8.08, 7.85, 5.35
+[1581430993] SERVICE ALERT: vdb-staging;Current Load;WARNING;SOFT;3;WARNING - load average: 7.80, 7.81, 5.50
+[1581431053] SERVICE NOTIFICATION: jatin;vdb-staging;Current Load;WARNING;notify-service-by-email;WARNING - load average: 7.53, 7.76, 5.63
+[1581431053] SERVICE NOTIFICATION: atul;vdb-staging;Current Load;WARNING;notify-service-by-email;WARNING - load average: 7.53, 7.76, 5.63
+[1581431053] SERVICE ALERT: vdb-staging;Current Load;WARNING;HARD;4;WARNING - load average: 7.53, 7.76, 5.63
+[1581431462] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;1;WARNING - load average: 5.72, 5.50, 5.17
+[1581431522] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;2;WARNING - load average: 5.77, 5.52, 5.20
+[1581431582] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;3;WARNING - load average: 6.34, 5.73, 5.29
+[1581431642] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 6.16, 5.79, 5.34
+[1581431642] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 6.16, 5.79, 5.34
+[1581431642] SERVICE ALERT: vonly-replica;Current Load;WARNING;HARD;4;WARNING - load average: 6.16, 5.79, 5.34
+[1581433400] Auto-save of retention data completed successfully.
+[1581433753] SERVICE NOTIFICATION: jatin;vdb-staging;Current Load;OK;notify-service-by-email;OK - load average: 2.80, 3.24, 4.46
+[1581433753] SERVICE NOTIFICATION: atul;vdb-staging;Current Load;OK;notify-service-by-email;OK - load average: 2.80, 3.24, 4.46
+[1581433753] SERVICE ALERT: vdb-staging;Current Load;OK;HARD;4;OK - load average: 2.80, 3.24, 4.46
+[1581435853] SERVICE ALERT: vdb-staging;Current Load;WARNING;SOFT;1;WARNING - load average: 6.10, 6.38, 5.39
+[1581435913] SERVICE ALERT: vdb-staging;Current Load;WARNING;SOFT;2;WARNING - load average: 6.21, 6.39, 5.46
+[1581435973] SERVICE ALERT: vdb-staging;Current Load;WARNING;SOFT;3;WARNING - load average: 5.73, 6.23, 5.46
+[1581436033] SERVICE NOTIFICATION: jatin;vdb-staging;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.63, 6.10, 5.46
+[1581436033] SERVICE NOTIFICATION: atul;vdb-staging;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.63, 6.10, 5.46
+[1581436033] SERVICE ALERT: vdb-staging;Current Load;WARNING;HARD;4;WARNING - load average: 5.63, 6.10, 5.46
+[1581436333] SERVICE FLAPPING ALERT: vdb-staging;Current Load;STARTED; Service appears to have started flapping (21.6% change >= 20.0% threshold)
+[1581436333] SERVICE NOTIFICATION: jatin;vdb-staging;Current Load;FLAPPINGSTART (CRITICAL);notify-service-by-email;CRITICAL - load average: 39.84, 26.44, 14.13
+[1581436333] SERVICE NOTIFICATION: atul;vdb-staging;Current Load;FLAPPINGSTART (CRITICAL);notify-service-by-email;CRITICAL - load average: 39.84, 26.44, 14.13
+[1581436333] SERVICE ALERT: vdb-staging;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 39.84, 26.44, 14.13
+[1581437001] Auto-save of retention data completed successfully.
+[1581440600] Auto-save of retention data completed successfully.
+[1581441542] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 3.49, 4.10, 4.98
+[1581441542] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 3.49, 4.10, 4.98
+[1581441542] SERVICE ALERT: vonly-replica;Current Load;OK;HARD;4;OK - load average: 3.49, 4.10, 4.98
+[1581442033] SERVICE FLAPPING ALERT: vdb-staging;Current Load;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1581442033] SERVICE NOTIFICATION: jatin;vdb-staging;Current Load;FLAPPINGSTOP (CRITICAL);notify-service-by-email;CRITICAL - load average: 39.44, 42.22, 43.14
+[1581442033] SERVICE NOTIFICATION: atul;vdb-staging;Current Load;FLAPPINGSTOP (CRITICAL);notify-service-by-email;CRITICAL - load average: 39.44, 42.22, 43.14
+[1581442033] SERVICE NOTIFICATION: jatin;vdb-staging;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 39.44, 42.22, 43.14
+[1581442033] SERVICE NOTIFICATION: atul;vdb-staging;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 39.44, 42.22, 43.14
+[1581444200] Auto-save of retention data completed successfully.
+[1581447801] Auto-save of retention data completed successfully.
+[1581451400] Auto-save of retention data completed successfully.
+[1581455000] Auto-save of retention data completed successfully.
+[1581456433] SERVICE NOTIFICATION: jatin;vdb-staging;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 42.54, 41.20, 40.06
+[1581456433] SERVICE NOTIFICATION: atul;vdb-staging;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 42.54, 41.20, 40.06
+[1581457660] SERVICE NOTIFICATION: jatin;vdb-101;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 92% capacity! 3.2T of 3.6T
+[1581457660] SERVICE NOTIFICATION: atul;vdb-101;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 92% capacity! 3.2T of 3.6T
+[1581458144] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 92% capacity! 3.2T of 3.7T
+[1581458144] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 92% capacity! 3.2T of 3.7T
+[1581458600] Auto-save of retention data completed successfully.
+[1581462201] Auto-save of retention data completed successfully.
+[1581465800] Auto-save of retention data completed successfully.
+[1581469400] Auto-save of retention data completed successfully.
+[1581470833] SERVICE NOTIFICATION: jatin;vdb-staging;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 34.02, 32.66, 33.70
+[1581470833] SERVICE NOTIFICATION: atul;vdb-staging;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 34.02, 32.66, 33.70
+[1581473000] Auto-save of retention data completed successfully.
+[1581476600] Auto-save of retention data completed successfully.
+[1581480201] Auto-save of retention data completed successfully.
+[1581483800] Auto-save of retention data completed successfully.
+[1581485233] SERVICE NOTIFICATION: jatin;vdb-staging;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 29.64, 30.21, 30.67
+[1581485233] SERVICE NOTIFICATION: atul;vdb-staging;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 29.64, 30.21, 30.67
+[1581487400] Auto-save of retention data completed successfully.
+[1581491001] Auto-save of retention data completed successfully.
+[1581491560] SERVICE NOTIFICATION: jatin;vdb-101;/mnt/data01 Partition;OK;notify-service-by-email;/mnt/data01 is at 90% capacity, 3.1T of 3.6T
+[1581491560] SERVICE NOTIFICATION: atul;vdb-101;/mnt/data01 Partition;OK;notify-service-by-email;/mnt/data01 is at 90% capacity, 3.1T of 3.6T
+[1581491560] SERVICE ALERT: vdb-101;/mnt/data01 Partition;OK;HARD;4;/mnt/data01 is at 90% capacity, 3.1T of 3.6T

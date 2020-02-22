@@ -1,0 +1,281 @@
+[1580976000] LOG ROTATION: DAILY
+[1580976000] LOG VERSION: 2.0
+[1580976000] CURRENT HOST STATE: vdb-100;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.72 ms
+[1580976000] CURRENT HOST STATE: vdb-101;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1580976000] CURRENT HOST STATE: vdb-102;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1580976000] CURRENT HOST STATE: vdb-103;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1580976000] CURRENT HOST STATE: vonly-backup;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1580976000] CURRENT HOST STATE: vonly-database;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1580976000] CURRENT HOST STATE: vonly-replica;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1580976000] CURRENT SERVICE STATE: vdb-100;/mnt/data01 Partition;WARNING;HARD;4;/mnt/data01 is at 92% capacity! 3.2T of 3.7T
+[1580976000] CURRENT SERVICE STATE: vdb-100;Current Load;OK;HARD;1;OK - load average: 0.76, 0.73, 0.75
+[1580976000] CURRENT SERVICE STATE: vdb-100;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1580976000] CURRENT SERVICE STATE: vdb-100;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1580976000] CURRENT SERVICE STATE: vdb-100;Root Partition;OK;HARD;1;/ is at 12% capacity, 10G of 91G
+[1580976000] CURRENT SERVICE STATE: vdb-100;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.6 (protocol 2.0)
+[1580976000] CURRENT SERVICE STATE: vdb-100;Swap Usage;CRITICAL;HARD;4;SWAP CRITICAL - 6% free (58 MB out of 975 MB)
+[1580976000] CURRENT SERVICE STATE: vdb-100;Total Processes;OK;HARD;1;PROCS OK: 177 processes with STATE = RSZDT
+[1580976000] CURRENT SERVICE STATE: vdb-101;/mnt/data01 Partition;WARNING;HARD;4;/mnt/data01 is at 91% capacity! 3.1T of 3.6T
+[1580976000] CURRENT SERVICE STATE: vdb-101;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1580976000] CURRENT SERVICE STATE: vdb-101;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1580976000] CURRENT SERVICE STATE: vdb-101;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1580976000] CURRENT SERVICE STATE: vdb-101;Root Partition;OK;HARD;1;/ is at 11% capacity, 19G of 183G
+[1580976000] CURRENT SERVICE STATE: vdb-101;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.4 (protocol 2.0)
+[1580976000] CURRENT SERVICE STATE: vdb-101;Swap Usage;CRITICAL;HARD;4;SWAP CRITICAL - 3% free (26 MB out of 975 MB)
+[1580976000] CURRENT SERVICE STATE: vdb-101;Total Processes;OK;HARD;1;PROCS OK: 149 processes with STATE = RSZDT
+[1580976000] CURRENT SERVICE STATE: vdb-102;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 88% capacity, 3.1T of 3.7T
+[1580976000] CURRENT SERVICE STATE: vdb-102;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1580976000] CURRENT SERVICE STATE: vdb-102;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1580976000] CURRENT SERVICE STATE: vdb-102;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1580976000] CURRENT SERVICE STATE: vdb-102;Root Partition;OK;HARD;1;/ is at 11% capacity, 9.4G of 91G
+[1580976000] CURRENT SERVICE STATE: vdb-102;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.6 (protocol 2.0)
+[1580976000] CURRENT SERVICE STATE: vdb-102;Swap Usage;CRITICAL;HARD;4;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1580976000] CURRENT SERVICE STATE: vdb-102;Total Processes;OK;HARD;1;PROCS OK: 151 processes with STATE = RSZDT
+[1580976000] CURRENT SERVICE STATE: vdb-103;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 64% capacity, 4.4T of 7.3T
+[1580976000] CURRENT SERVICE STATE: vdb-103;Current Load;OK;HARD;1;OK - load average: 0.04, 0.01, 0.00
+[1580976000] CURRENT SERVICE STATE: vdb-103;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1580976000] CURRENT SERVICE STATE: vdb-103;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1580976000] CURRENT SERVICE STATE: vdb-103;Root Partition;OK;HARD;1;/ is at 46% capacity, 197G of 457G
+[1580976000] CURRENT SERVICE STATE: vdb-103;SSH;OK;HARD;1;SSH OK - OpenSSH_7.6p1 Ubuntu-4ubuntu0.2 (protocol 2.0)
+[1580976000] CURRENT SERVICE STATE: vdb-103;Swap Usage;OK;HARD;1;SWAP OK - 93% free (1892 MB out of 2047 MB)
+[1580976000] CURRENT SERVICE STATE: vdb-103;Total Processes;OK;HARD;1;PROCS OK: 180 processes with STATE = RSZDT
+[1580976000] CURRENT SERVICE STATE: vonly-backup;Current Load;OK;HARD;1;OK - load average: 1.43, 1.44, 1.51
+[1580976000] CURRENT SERVICE STATE: vonly-backup;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1580976000] CURRENT SERVICE STATE: vonly-backup;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 11595 bytes in 0.001 second response time
+[1580976000] CURRENT SERVICE STATE: vonly-backup;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1580976000] CURRENT SERVICE STATE: vonly-backup;Root Partition;OK;HARD;1;/ is at 51% capacity, 107G of 220G
+[1580976000] CURRENT SERVICE STATE: vonly-backup;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.8 (protocol 2.0)
+[1580976000] CURRENT SERVICE STATE: vonly-backup;Swap Usage;OK;HARD;1;SWAP OK - 94% free (53565 MB out of 57111 MB)
+[1580976000] CURRENT SERVICE STATE: vonly-backup;Total Processes;OK;HARD;1;PROCS OK: 236 processes with STATE = RSZDT
+[1580976000] CURRENT SERVICE STATE: vonly-database;/media/data Partition;OK;HARD;1;/media/data is at 83% capacity, 2.9T of 3.6T
+[1580976000] CURRENT SERVICE STATE: vonly-database;Current Load;OK;HARD;1;OK - load average: 1.05, 1.41, 1.65
+[1580976000] CURRENT SERVICE STATE: vonly-database;Current Users;OK;HARD;1;USERS OK - 2 users currently logged in
+[1580976000] CURRENT SERVICE STATE: vonly-database;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1580976000] CURRENT SERVICE STATE: vonly-database;Root Partition;OK;HARD;1;/ is at 66% capacity, 137G of 220G
+[1580976000] CURRENT SERVICE STATE: vonly-database;SSH;OK;HARD;1;SSH OK - OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.8 (protocol 2.0)
+[1580976000] CURRENT SERVICE STATE: vonly-database;Swap Usage;OK;HARD;1;SWAP OK - 89% free (50787 MB out of 57111 MB)
+[1580976000] CURRENT SERVICE STATE: vonly-database;Total Processes;OK;HARD;1;PROCS OK: 202 processes with STATE = RSZDT
+[1580976000] CURRENT SERVICE STATE: vonly-replica;/media/data Partition;OK;HARD;1;/media/data is at 89% capacity, 6.1T of 7.3T
+[1580976000] CURRENT SERVICE STATE: vonly-replica;Current Load;WARNING;HARD;4;WARNING - load average: 6.07, 6.05, 6.12
+[1580976000] CURRENT SERVICE STATE: vonly-replica;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1580976000] CURRENT SERVICE STATE: vonly-replica;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1580976000] CURRENT SERVICE STATE: vonly-replica;Root Partition;OK;HARD;1;/ is at 32% capacity, 33G of 108G
+[1580976000] CURRENT SERVICE STATE: vonly-replica;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.2 (protocol 2.0)
+[1580976000] CURRENT SERVICE STATE: vonly-replica;Swap Usage;OK;HARD;1;SWAP OK - 98% free (27138 MB out of 27876 MB)
+[1580976000] CURRENT SERVICE STATE: vonly-replica;Total Processes;OK;HARD;1;PROCS OK: 95 processes with STATE = RSZDT
+[1580978522] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 10.65, 11.20, 10.36
+[1580978522] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 10.65, 11.20, 10.36
+[1580978650] SERVICE ALERT: vonly-database;Current Load;WARNING;SOFT;1;WARNING - load average: 6.87, 6.76, 5.25
+[1580978710] SERVICE ALERT: vonly-database;Current Load;WARNING;SOFT;2;WARNING - load average: 7.24, 6.88, 5.38
+[1580978770] SERVICE ALERT: vonly-database;Current Load;WARNING;SOFT;3;WARNING - load average: 7.04, 6.84, 5.46
+[1580978830] SERVICE NOTIFICATION: jatin;vonly-database;Current Load;WARNING;notify-service-by-email;WARNING - load average: 7.28, 6.92, 5.57
+[1580978830] SERVICE NOTIFICATION: atul;vonly-database;Current Load;WARNING;notify-service-by-email;WARNING - load average: 7.28, 6.92, 5.57
+[1580978830] SERVICE ALERT: vonly-database;Current Load;WARNING;HARD;4;WARNING - load average: 7.28, 6.92, 5.57
+[1580979181] Auto-save of retention data completed successfully.
+[1580979560] SERVICE ALERT: vonly-replica;/media/data Partition;WARNING;SOFT;1;/media/data is at 91% capacity! 6.2T of 7.3T
+[1580979620] SERVICE ALERT: vonly-replica;/media/data Partition;WARNING;SOFT;2;/media/data is at 91% capacity! 6.2T of 7.3T
+[1580979680] SERVICE ALERT: vonly-replica;/media/data Partition;WARNING;SOFT;3;/media/data is at 91% capacity! 6.2T of 7.3T
+[1580979740] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 91% capacity! 6.2T of 7.3T
+[1580979740] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 91% capacity! 6.2T of 7.3T
+[1580979740] SERVICE ALERT: vonly-replica;/media/data Partition;WARNING;HARD;4;/media/data is at 91% capacity! 6.2T of 7.3T
+[1580981830] SERVICE NOTIFICATION: jatin;vonly-database;Current Load;OK;notify-service-by-email;OK - load average: 1.63, 3.29, 4.52
+[1580981830] SERVICE NOTIFICATION: atul;vonly-database;Current Load;OK;notify-service-by-email;OK - load average: 1.63, 3.29, 4.52
+[1580981830] SERVICE ALERT: vonly-database;Current Load;OK;HARD;4;OK - load average: 1.63, 3.29, 4.52
+[1580982781] Auto-save of retention data completed successfully.
+[1580982944] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 92% capacity! 3.2T of 3.7T
+[1580982944] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 92% capacity! 3.2T of 3.7T
+[1580983340] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 92% capacity! 6.3T of 7.3T
+[1580983340] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 92% capacity! 6.3T of 7.3T
+[1580985398] SERVICE NOTIFICATION: jatin;vdb-101;/mnt/data01 Partition;OK;notify-service-by-email;/mnt/data01 is at 89% capacity, 3.0T of 3.6T
+[1580985398] SERVICE NOTIFICATION: atul;vdb-101;/mnt/data01 Partition;OK;notify-service-by-email;/mnt/data01 is at 89% capacity, 3.0T of 3.6T
+[1580985398] SERVICE ALERT: vdb-101;/mnt/data01 Partition;OK;HARD;4;/mnt/data01 is at 89% capacity, 3.0T of 3.6T
+[1580986381] Auto-save of retention data completed successfully.
+[1580986940] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 94% capacity! 6.4T of 7.3T
+[1580986940] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 94% capacity! 6.4T of 7.3T
+[1580989981] Auto-save of retention data completed successfully.
+[1580990162] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;1;WARNING - load average: 7.47, 5.73, 3.19
+[1580990222] SERVICE ALERT: vonly-backup;Current Load;OK;SOFT;2;OK - load average: 6.68, 5.83, 3.38
+[1580990282] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;1;WARNING - load average: 8.21, 6.42, 3.74
+[1580990342] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;2;WARNING - load average: 7.78, 6.66, 3.99
+[1580990402] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;3;WARNING - load average: 7.54, 6.81, 4.21
+[1580990462] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Current Load;WARNING;notify-service-by-email;WARNING - load average: 7.36, 6.91, 4.41
+[1580990462] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 7.36, 6.91, 4.41
+[1580990540] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 94% capacity! 6.5T of 7.3T
+[1580990540] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 94% capacity! 6.5T of 7.3T
+[1580992922] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 6.00, 6.34, 6.47
+[1580992922] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 6.00, 6.34, 6.47
+[1580993580] Auto-save of retention data completed successfully.
+[1580994062] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 8.27, 8.94, 8.29
+[1580994062] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 8.27, 8.94, 8.29
+[1580994140] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 95% capacity! 6.5T of 7.3T
+[1580994140] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 95% capacity! 6.5T of 7.3T
+[1580997062] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Current Load;WARNING;notify-service-by-email;WARNING - load average: 7.31, 7.47, 7.83
+[1580997062] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 7.31, 7.47, 7.83
+[1580997140] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;OK;notify-service-by-email;/media/data is at 90% capacity, 6.2T of 7.3T
+[1580997140] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;OK;notify-service-by-email;/media/data is at 90% capacity, 6.2T of 7.3T
+[1580997140] SERVICE ALERT: vonly-replica;/media/data Partition;OK;HARD;4;/media/data is at 90% capacity, 6.2T of 7.3T
+[1580997180] Auto-save of retention data completed successfully.
+[1580997362] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 9.99, 9.70, 8.67
+[1580997362] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 9.99, 9.70, 8.67
+[1580997962] SERVICE FLAPPING ALERT: vonly-backup;Current Load;STARTED; Service appears to have started flapping (22.6% change >= 20.0% threshold)
+[1580997962] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Current Load;FLAPPINGSTART (WARNING);notify-service-by-email;WARNING - load average: 6.78, 7.27, 7.80
+[1580997962] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 6.78, 7.27, 7.80
+[1580998262] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 12.63, 8.62, 8.10
+[1580998862] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 7.06, 7.52, 7.93
+[1580999762] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 15.38, 9.88, 8.47
+[1581000662] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 6.61, 7.19, 7.75
+[1581000780] Auto-save of retention data completed successfully.
+[1581001262] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 17.19, 10.06, 8.41
+[1581002462] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 6.94, 7.33, 7.91
+[1581003362] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 13.19, 9.49, 8.21
+[1581003662] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 7.53, 8.05, 7.93
+[1581003962] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 9.07, 8.68, 8.20
+[1581004262] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 7.25, 7.88, 7.98
+[1581004381] Auto-save of retention data completed successfully.
+[1581005462] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 7.66, 8.70, 8.10
+[1581005762] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 6.68, 7.45, 7.72
+[1581007322] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.02, 5.62, 5.67
+[1581007322] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.02, 5.62, 5.67
+[1581007981] Auto-save of retention data completed successfully.
+[1581011462] SERVICE FLAPPING ALERT: vonly-backup;Current Load;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1581011462] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Current Load;FLAPPINGSTOP (WARNING);notify-service-by-email;WARNING - load average: 6.34, 7.06, 7.30
+[1581011462] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Current Load;WARNING;notify-service-by-email;WARNING - load average: 6.34, 7.06, 7.30
+[1581011580] Auto-save of retention data completed successfully.
+[1581013045] SERVICE ALERT: vdb-101;Swap Usage;WARNING;HARD;4;SWAP WARNING - 12% free (112 MB out of 975 MB)
+[1581013345] SERVICE ALERT: vdb-101;Swap Usage;OK;HARD;4;SWAP OK - 18% free (170 MB out of 975 MB)
+[1581014162] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 12.57, 9.77, 7.80
+[1581014162] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 12.57, 9.77, 7.80
+[1581014462] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Current Load;WARNING;notify-service-by-email;WARNING - load average: 7.23, 8.07, 7.59
+[1581014462] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 7.23, 8.07, 7.59
+[1581015181] Auto-save of retention data completed successfully.
+[1581018062] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Current Load;WARNING;notify-service-by-email;WARNING - load average: 4.61, 5.04, 5.55
+[1581018781] Auto-save of retention data completed successfully.
+[1581018962] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 12.17, 8.10, 6.31
+[1581018962] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 12.17, 8.10, 6.31
+[1581019262] SERVICE FLAPPING ALERT: vonly-backup;Current Load;STARTED; Service appears to have started flapping (20.5% change >= 20.0% threshold)
+[1581019262] SERVICE NOTIFICATION: nagiosadmin;vonly-backup;Current Load;FLAPPINGSTART (WARNING);notify-service-by-email;WARNING - load average: 5.28, 6.24, 5.99
+[1581019262] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 5.28, 6.24, 5.99
+[1581020462] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 12.20, 7.98, 6.36
+[1581020762] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 5.10, 6.14, 6.00
+[1581021722] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.74, 6.02, 6.09
+[1581021722] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.74, 6.02, 6.09
+[1581021962] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 14.60, 8.20, 6.36
+[1581022262] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 5.02, 6.12, 5.97
+[1581022381] Auto-save of retention data completed successfully.
+[1581023462] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 12.10, 8.30, 6.53
+[1581023762] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 5.35, 6.42, 6.21
+[1581024962] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 14.36, 8.20, 6.77
+[1581025262] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 5.83, 6.99, 6.68
+[1581025981] Auto-save of retention data completed successfully.
+[1581026144] SERVICE NOTIFICATION: jatin;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 92% capacity! 3.2T of 3.7T
+[1581026144] SERVICE NOTIFICATION: atul;vdb-100;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 92% capacity! 3.2T of 3.7T
+[1581028562] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 11.92, 8.49, 6.57
+[1581028862] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 6.60, 7.51, 6.69
+[1581029580] Auto-save of retention data completed successfully.
+[1581029762] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 10.22, 8.14, 7.02
+[1581030062] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 5.23, 6.20, 6.48
+[1581033062] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 10.71, 8.73, 7.22
+[1581033181] Auto-save of retention data completed successfully.
+[1581033362] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 5.88, 7.27, 7.02
+[1581035462] SERVICE ALERT: vonly-backup;Current Load;OK;HARD;4;OK - load average: 3.95, 4.04, 4.82
+[1581036062] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;1;WARNING - load average: 4.35, 5.97, 5.52
+[1581036122] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 10.78, 8.67, 6.78
+[1581036122] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 10.78, 8.67, 6.78
+[1581036122] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;2;WARNING - load average: 4.18, 5.64, 5.43
+[1581036182] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;3;WARNING - load average: 4.16, 5.36, 5.34
+[1581036242] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 4.09, 5.11, 5.26
+[1581036542] SERVICE ALERT: vonly-backup;Current Load;OK;HARD;4;OK - load average: 3.84, 4.34, 4.87
+[1581036781] Auto-save of retention data completed successfully.
+[1581037742] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;1;WARNING - load average: 4.61, 6.03, 5.28
+[1581037802] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;2;WARNING - load average: 4.25, 5.67, 5.21
+[1581037862] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;3;WARNING - load average: 4.22, 5.41, 5.14
+[1581037922] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 4.18, 5.18, 5.08
+[1581038222] SERVICE ALERT: vonly-backup;Current Load;OK;HARD;4;OK - load average: 3.67, 4.36, 4.75
+[1581039122] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;1;WARNING - load average: 8.57, 7.12, 5.56
+[1581039182] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;2;WARNING - load average: 5.89, 6.61, 5.48
+[1581039242] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;3;WARNING - load average: 4.76, 6.15, 5.39
+[1581039302] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 4.14, 5.74, 5.30
+[1581039602] SERVICE ALERT: vonly-backup;Current Load;OK;HARD;4;OK - load average: 3.85, 4.59, 4.91
+[1581040380] Auto-save of retention data completed successfully.
+[1581040802] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;1;WARNING - load average: 5.89, 6.44, 5.34
+[1581040862] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;2;WARNING - load average: 5.48, 6.21, 5.33
+[1581040922] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;3;WARNING - load average: 4.40, 5.77, 5.24
+[1581040982] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 4.04, 5.42, 5.15
+[1581041882] SERVICE ALERT: vonly-backup;Current Load;OK;HARD;4;OK - load average: 3.81, 4.03, 4.72
+[1581042782] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;1;WARNING - load average: 9.91, 7.11, 5.46
+[1581042842] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;2;WARNING - load average: 6.22, 6.56, 5.37
+[1581042902] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;3;WARNING - load average: 4.98, 6.15, 5.30
+[1581042962] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 4.44, 5.78, 5.23
+[1581043262] SERVICE ALERT: vonly-backup;Current Load;OK;HARD;4;OK - load average: 3.98, 4.58, 4.85
+[1581043980] Auto-save of retention data completed successfully.
+[1581044462] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;1;WARNING - load average: 4.36, 5.55, 5.03
+[1581044522] SERVICE ALERT: vonly-backup;Current Load;OK;SOFT;2;OK - load average: 3.97, 5.22, 4.95
+[1581045782] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;SOFT;1;CRITICAL - load average: 10.51, 7.38, 5.51
+[1581045842] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;2;WARNING - load average: 6.47, 6.81, 5.43
+[1581045902] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;3;WARNING - load average: 5.09, 6.36, 5.36
+[1581045962] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 4.45, 5.95, 5.28
+[1581046262] SERVICE ALERT: vonly-backup;Current Load;OK;HARD;4;OK - load average: 3.91, 4.58, 4.86
+[1581047462] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;1;WARNING - load average: 4.42, 5.83, 5.23
+[1581047522] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;2;WARNING - load average: 4.16, 5.51, 5.16
+[1581047580] Auto-save of retention data completed successfully.
+[1581047582] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;3;WARNING - load average: 4.03, 5.23, 5.08
+[1581047642] SERVICE ALERT: vonly-backup;Current Load;OK;HARD;4;OK - load average: 3.76, 4.95, 4.99
+[1581048842] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;1;WARNING - load average: 5.71, 6.56, 5.45
+[1581048902] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;2;WARNING - load average: 4.75, 6.11, 5.36
+[1581048962] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;3;WARNING - load average: 4.14, 5.73, 5.28
+[1581049022] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 4.05, 5.42, 5.19
+[1581049322] SERVICE ALERT: vonly-backup;Current Load;OK;HARD;4;OK - load average: 3.97, 4.44, 4.82
+[1581050222] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;SOFT;1;CRITICAL - load average: 13.12, 7.06, 5.37
+[1581050282] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;2;WARNING - load average: 8.30, 6.81, 5.39
+[1581050342] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;3;WARNING - load average: 6.74, 6.54, 5.38
+[1581050402] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 7.76, 7.04, 5.64
+[1581050522] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 7.09, 6.91, 6.86
+[1581050522] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 7.09, 6.91, 6.86
+[1581051181] Auto-save of retention data completed successfully.
+[1581052202] SERVICE ALERT: vonly-backup;Current Load;OK;HARD;4;OK - load average: 4.23, 4.51, 4.86
+[1581052802] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;1;WARNING - load average: 6.13, 6.84, 5.85
+[1581052862] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;2;WARNING - load average: 5.55, 6.52, 5.81
+[1581052922] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;3;WARNING - load average: 5.21, 6.29, 5.77
+[1581052982] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 4.99, 6.11, 5.75
+[1581053882] SERVICE ALERT: vonly-backup;Current Load;OK;HARD;4;OK - load average: 3.93, 4.41, 4.93
+[1581054482] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;SOFT;1;CRITICAL - load average: 13.10, 7.37, 5.79
+[1581054542] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;SOFT;2;CRITICAL - load average: 11.50, 8.06, 6.13
+[1581054602] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;SOFT;3;CRITICAL - load average: 11.70, 8.56, 6.41
+[1581054662] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 10.99, 9.04, 6.72
+[1581054780] Auto-save of retention data completed successfully.
+[1581054962] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 4.83, 6.43, 6.23
+[1581055862] SERVICE ALERT: vonly-backup;Current Load;OK;HARD;4;OK - load average: 3.85, 4.19, 4.88
+[1581056462] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;1;WARNING - load average: 6.89, 6.85, 5.74
+[1581056522] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;2;WARNING - load average: 4.89, 6.29, 5.61
+[1581056582] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;3;WARNING - load average: 4.36, 5.89, 5.52
+[1581056642] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 4.11, 5.54, 5.42
+[1581057242] SERVICE ALERT: vonly-backup;Current Load;OK;HARD;4;OK - load average: 3.01, 4.04, 4.77
+[1581057842] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;SOFT;1;CRITICAL - load average: 11.50, 5.39, 4.66
+[1581057902] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;SOFT;2;CRITICAL - load average: 10.31, 6.35, 5.05
+[1581057962] SERVICE ALERT: vonly-backup;Current Load;OK;SOFT;3;OK - load average: 6.17, 5.88, 4.96
+[1581058381] Auto-save of retention data completed successfully.
+[1581059215] SERVICE ALERT: vonly-database;/media/data Partition;WARNING;SOFT;1;/media/data is at 91% capacity! 3.1T of 3.6T
+[1581059245] SERVICE ALERT: vdb-101;Swap Usage;CRITICAL;SOFT;1;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1581059275] SERVICE ALERT: vonly-database;/media/data Partition;WARNING;SOFT;2;/media/data is at 91% capacity! 3.1T of 3.6T
+[1581059305] SERVICE ALERT: vdb-101;Swap Usage;CRITICAL;SOFT;2;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1581059335] SERVICE ALERT: vonly-database;/media/data Partition;WARNING;SOFT;3;/media/data is at 91% capacity! 3.1T of 3.6T
+[1581059365] SERVICE ALERT: vdb-101;Swap Usage;CRITICAL;SOFT;3;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1581059395] SERVICE NOTIFICATION: jatin;vonly-database;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 91% capacity! 3.1T of 3.6T
+[1581059395] SERVICE NOTIFICATION: atul;vonly-database;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 91% capacity! 3.1T of 3.6T
+[1581059395] SERVICE ALERT: vonly-database;/media/data Partition;WARNING;HARD;4;/media/data is at 91% capacity! 3.1T of 3.6T
+[1581059425] SERVICE ALERT: vdb-101;Swap Usage;CRITICAL;HARD;4;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1581059530] SERVICE ALERT: vonly-database;Current Load;WARNING;SOFT;1;WARNING - load average: 5.52, 6.47, 5.22
+[1581059590] SERVICE ALERT: vonly-database;Current Load;WARNING;SOFT;2;WARNING - load average: 5.36, 6.22, 5.21
+[1581059650] SERVICE ALERT: vonly-database;Current Load;WARNING;SOFT;3;WARNING - load average: 5.80, 6.21, 5.27
+[1581059710] SERVICE NOTIFICATION: jatin;vonly-database;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.29, 5.98, 5.25
+[1581059710] SERVICE NOTIFICATION: atul;vonly-database;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.29, 5.98, 5.25
+[1581059710] SERVICE ALERT: vonly-database;Current Load;WARNING;HARD;4;WARNING - load average: 5.29, 5.98, 5.25
+[1581060122] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;1;WARNING - load average: 6.90, 6.03, 4.35
+[1581060182] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;SOFT;2;CRITICAL - load average: 13.40, 8.01, 5.13
+[1581060242] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;SOFT;3;CRITICAL - load average: 10.42, 8.31, 5.43
+[1581060302] SERVICE ALERT: vonly-backup;Current Load;WARNING;HARD;4;WARNING - load average: 6.41, 7.53, 5.34
+[1581060310] SERVICE NOTIFICATION: jatin;vonly-database;Current Load;OK;notify-service-by-email;OK - load average: 3.42, 4.20, 4.73
+[1581060310] SERVICE NOTIFICATION: atul;vonly-database;Current Load;OK;notify-service-by-email;OK - load average: 3.42, 4.20, 4.73
+[1581060310] SERVICE ALERT: vonly-database;Current Load;OK;HARD;4;OK - load average: 3.42, 4.20, 4.73
+[1581060602] SERVICE ALERT: vonly-backup;Current Load;OK;HARD;4;OK - load average: 3.33, 4.91, 4.79
+[1581061981] Auto-save of retention data completed successfully.

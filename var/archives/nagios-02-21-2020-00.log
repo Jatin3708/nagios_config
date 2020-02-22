@@ -1,0 +1,954 @@
+[1582185600] LOG ROTATION: DAILY
+[1582185600] LOG VERSION: 2.0
+[1582185600] CURRENT HOST STATE: vapps-100;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1582185600] CURRENT HOST STATE: vapps-109;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1582185600] CURRENT HOST STATE: vdb-100;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.56 ms
+[1582185600] CURRENT HOST STATE: vdb-101;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1582185600] CURRENT HOST STATE: vdb-103;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.71 ms
+[1582185600] CURRENT HOST STATE: vdb-staging;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1582185600] CURRENT HOST STATE: vinfra-200;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1582185600] CURRENT HOST STATE: vonly-backup;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1582185600] CURRENT HOST STATE: vonly-database;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1582185600] CURRENT HOST STATE: vonly-replica;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1582185600] CURRENT SERVICE STATE: vapps-100;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 31% capacity, 161G of 551G
+[1582185600] CURRENT SERVICE STATE: vapps-100;Current Load;OK;HARD;1;OK - load average: 2.28, 2.94, 2.89
+[1582185600] CURRENT SERVICE STATE: vapps-100;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1582185600] CURRENT SERVICE STATE: vapps-100;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1582185600] CURRENT SERVICE STATE: vapps-100;Root Partition;OK;HARD;1;/ is at 11% capacity, 54G of 550G
+[1582185600] CURRENT SERVICE STATE: vapps-100;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.6 (protocol 2.0)
+[1582185600] CURRENT SERVICE STATE: vapps-100;Swap Usage;OK;HARD;1;SWAP OK - 86% free (9634 MB out of 11214 MB)
+[1582185600] CURRENT SERVICE STATE: vapps-100;Total Processes;OK;HARD;1;PROCS OK: 1667 processes with STATE = RSZDT
+[1582185600] CURRENT SERVICE STATE: vapps-109;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 61% capacity, 524G of 917G
+[1582185600] CURRENT SERVICE STATE: vapps-109;Current Load;OK;HARD;1;OK - load average: 0.00, 0.01, 0.00
+[1582185600] CURRENT SERVICE STATE: vapps-109;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1582185600] CURRENT SERVICE STATE: vapps-109;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1582185600] CURRENT SERVICE STATE: vapps-109;Root Partition;OK;HARD;1;/ is at 39% capacity, 16G of 43G
+[1582185600] CURRENT SERVICE STATE: vapps-109;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.8 (protocol 2.0)
+[1582185600] CURRENT SERVICE STATE: vapps-109;Swap Usage;OK;HARD;1;SWAP OK - 100% free (24373 MB out of 24567 MB)
+[1582185600] CURRENT SERVICE STATE: vapps-109;Total Processes;OK;HARD;1;PROCS OK: 181 processes with STATE = RSZDT
+[1582185600] CURRENT SERVICE STATE: vdb-100;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 74% capacity, 2.6T of 3.7T
+[1582185600] CURRENT SERVICE STATE: vdb-100;Current Load;OK;HARD;1;OK - load average: 1.06, 0.69, 0.67
+[1582185600] CURRENT SERVICE STATE: vdb-100;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1582185600] CURRENT SERVICE STATE: vdb-100;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1582185600] CURRENT SERVICE STATE: vdb-100;Root Partition;OK;HARD;1;/ is at 35% capacity, 30G of 91G
+[1582185600] CURRENT SERVICE STATE: vdb-100;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.6 (protocol 2.0)
+[1582185600] CURRENT SERVICE STATE: vdb-100;Swap Usage;OK;HARD;1;SWAP OK - 95% free (20299 MB out of 21455 MB)
+[1582185600] CURRENT SERVICE STATE: vdb-100;Total Processes;OK;HARD;1;PROCS OK: 177 processes with STATE = RSZDT
+[1582185600] CURRENT SERVICE STATE: vdb-101;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 90% capacity, 3.1T of 3.6T
+[1582185600] CURRENT SERVICE STATE: vdb-101;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1582185600] CURRENT SERVICE STATE: vdb-101;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1582185600] CURRENT SERVICE STATE: vdb-101;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1582185600] CURRENT SERVICE STATE: vdb-101;Root Partition;OK;HARD;1;/ is at 25% capacity, 42G of 183G
+[1582185600] CURRENT SERVICE STATE: vdb-101;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.4 (protocol 2.0)
+[1582185600] CURRENT SERVICE STATE: vdb-101;Swap Usage;OK;HARD;1;SWAP OK - 80% free (16980 MB out of 21455 MB)
+[1582185600] CURRENT SERVICE STATE: vdb-101;Total Processes;OK;HARD;1;PROCS OK: 150 processes with STATE = RSZDT
+[1582185600] CURRENT SERVICE STATE: vdb-103;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 65% capacity, 4.5T of 7.3T
+[1582185600] CURRENT SERVICE STATE: vdb-103;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1582185600] CURRENT SERVICE STATE: vdb-103;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1582185600] CURRENT SERVICE STATE: vdb-103;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1582185600] CURRENT SERVICE STATE: vdb-103;Root Partition;OK;HARD;1;/ is at 64% capacity, 277G of 457G
+[1582185600] CURRENT SERVICE STATE: vdb-103;SSH;OK;HARD;1;SSH OK - OpenSSH_7.6p1 Ubuntu-4ubuntu0.2 (protocol 2.0)
+[1582185600] CURRENT SERVICE STATE: vdb-103;Swap Usage;OK;HARD;1;SWAP OK - 93% free (1888 MB out of 2047 MB)
+[1582185600] CURRENT SERVICE STATE: vdb-103;Total Processes;OK;HARD;1;PROCS OK: 180 processes with STATE = RSZDT
+[1582185600] CURRENT SERVICE STATE: vdb-staging;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 79% capacity, 6.8T of 9.1T
+[1582185600] CURRENT SERVICE STATE: vdb-staging;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1582185600] CURRENT SERVICE STATE: vdb-staging;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1582185600] CURRENT SERVICE STATE: vdb-staging;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1582185600] CURRENT SERVICE STATE: vdb-staging;Root Partition;OK;HARD;1;/ is at 6% capacity, 102G of 1.8T
+[1582185600] CURRENT SERVICE STATE: vdb-staging;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.4 (protocol 2.0)
+[1582185600] CURRENT SERVICE STATE: vdb-staging;Swap Usage;OK;HARD;1;SWAP OK - 87% free (89152 MB out of 103375 MB)
+[1582185600] CURRENT SERVICE STATE: vdb-staging;Total Processes;OK;HARD;1;PROCS OK: 146 processes with STATE = RSZDT
+[1582185600] CURRENT SERVICE STATE: vinfra-200;/mnt/data01 Partition;OK;HARD;1;/mnt/data is at 5% capacity, 39G of 917G
+[1582185600] CURRENT SERVICE STATE: vinfra-200;Current Load;OK;HARD;1;OK - load average: 3.52, 2.08, 1.83
+[1582185600] CURRENT SERVICE STATE: vinfra-200;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1582185600] CURRENT SERVICE STATE: vinfra-200;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1582185600] CURRENT SERVICE STATE: vinfra-200;Root Partition;OK;HARD;1;/ is at 39% capacity, 67G of 182G
+[1582185600] CURRENT SERVICE STATE: vinfra-200;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.6 (protocol 2.0)
+[1582185600] CURRENT SERVICE STATE: vinfra-200;Swap Usage;OK;HARD;1;SWAP OK - 50% free (481 MB out of 975 MB)
+[1582185600] CURRENT SERVICE STATE: vinfra-200;Total Processes;OK;HARD;1;PROCS OK: 156 processes with STATE = RSZDT
+[1582185600] CURRENT SERVICE STATE: vonly-backup;Current Load;OK;HARD;1;OK - load average: 1.33, 1.38, 1.46
+[1582185600] CURRENT SERVICE STATE: vonly-backup;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1582185600] CURRENT SERVICE STATE: vonly-backup;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 11595 bytes in 0.001 second response time
+[1582185600] CURRENT SERVICE STATE: vonly-backup;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1582185600] CURRENT SERVICE STATE: vonly-backup;Root Partition;OK;HARD;1;/ is at 51% capacity, 107G of 220G
+[1582185600] CURRENT SERVICE STATE: vonly-backup;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.8 (protocol 2.0)
+[1582185600] CURRENT SERVICE STATE: vonly-backup;Swap Usage;OK;HARD;1;SWAP OK - 95% free (54018 MB out of 57111 MB)
+[1582185600] CURRENT SERVICE STATE: vonly-backup;Total Processes;OK;HARD;1;PROCS OK: 241 processes with STATE = RSZDT
+[1582185600] CURRENT SERVICE STATE: vonly-database;/media/data Partition;OK;HARD;1;/media/data is at 84% capacity, 2.9T of 3.6T
+[1582185600] CURRENT SERVICE STATE: vonly-database;Current Load;OK;HARD;1;OK - load average: 0.07, 0.06, 0.05
+[1582185600] CURRENT SERVICE STATE: vonly-database;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1582185600] CURRENT SERVICE STATE: vonly-database;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1582185600] CURRENT SERVICE STATE: vonly-database;Root Partition;OK;HARD;1;/ is at 67% capacity, 140G of 220G
+[1582185600] CURRENT SERVICE STATE: vonly-database;SSH;OK;HARD;1;SSH OK - OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.8 (protocol 2.0)
+[1582185600] CURRENT SERVICE STATE: vonly-database;Swap Usage;OK;HARD;1;SWAP OK - 96% free (54442 MB out of 57111 MB)
+[1582185600] CURRENT SERVICE STATE: vonly-database;Total Processes;OK;HARD;1;PROCS OK: 201 processes with STATE = RSZDT
+[1582185600] CURRENT SERVICE STATE: vonly-replica;/media/data Partition;OK;HARD;1;/media/data is at 45% capacity, 3.1T of 7.3T
+[1582185600] CURRENT SERVICE STATE: vonly-replica;Current Load;OK;HARD;1;OK - load average: 2.62, 2.57, 2.99
+[1582185600] CURRENT SERVICE STATE: vonly-replica;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1582185600] CURRENT SERVICE STATE: vonly-replica;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1582185600] CURRENT SERVICE STATE: vonly-replica;Root Partition;OK;HARD;1;/ is at 32% capacity, 32G of 108G
+[1582185600] CURRENT SERVICE STATE: vonly-replica;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.2 (protocol 2.0)
+[1582185600] CURRENT SERVICE STATE: vonly-replica;Swap Usage;OK;HARD;1;SWAP OK - 98% free (27230 MB out of 27876 MB)
+[1582185600] CURRENT SERVICE STATE: vonly-replica;Total Processes;OK;HARD;1;PROCS OK: 91 processes with STATE = RSZDT
+[1582186015] SERVICE ALERT: vapps-100;Current Load;CRITICAL;SOFT;1;CRITICAL - load average: 53.95, 16.88, 7.45
+[1582186075] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;2;WARNING - load average: 28.63, 16.28, 7.83
+[1582186135] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;3;WARNING - load average: 20.40, 16.13, 8.31
+[1582186195] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 17.31, 16.01, 8.76
+[1582186195] SERVICE NOTIFICATION: atul;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 17.31, 16.01, 8.76
+[1582186195] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 17.31, 16.01, 8.76
+[1582186495] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 37.69, 30.84, 17.20
+[1582186495] SERVICE NOTIFICATION: atul;vapps-100;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 37.69, 30.84, 17.20
+[1582186495] SERVICE ALERT: vapps-100;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 37.69, 30.84, 17.20
+[1582188261] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;1;WARNING - load average: 5.58, 5.55, 5.10
+[1582188321] SERVICE ALERT: vinfra-200;Current Load;OK;SOFT;2;OK - load average: 4.12, 5.15, 4.99
+[1582188381] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;1;WARNING - load average: 5.08, 5.45, 5.12
+[1582188411] Auto-save of retention data completed successfully.
+[1582188441] SERVICE ALERT: vinfra-200;Current Load;OK;SOFT;2;OK - load average: 3.88, 5.03, 4.99
+[1582188801] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;1;WARNING - load average: 5.82, 6.08, 5.55
+[1582188861] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;2;WARNING - load average: 11.68, 7.80, 6.18
+[1582188921] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;3;WARNING - load average: 11.13, 8.21, 6.41
+[1582188981] SERVICE NOTIFICATION: jatin;vinfra-200;Current Load;WARNING;notify-service-by-email;WARNING - load average: 12.12, 9.11, 6.84
+[1582188981] SERVICE NOTIFICATION: atul;vinfra-200;Current Load;WARNING;notify-service-by-email;WARNING - load average: 12.12, 9.11, 6.84
+[1582188981] SERVICE ALERT: vinfra-200;Current Load;WARNING;HARD;4;WARNING - load average: 12.12, 9.11, 6.84
+[1582189582] SERVICE NOTIFICATION: jatin;vinfra-200;Current Load;OK;notify-service-by-email;OK - load average: 1.66, 2.43, 4.27
+[1582189582] SERVICE NOTIFICATION: atul;vinfra-200;Current Load;OK;notify-service-by-email;OK - load average: 1.66, 2.43, 4.27
+[1582189582] SERVICE ALERT: vinfra-200;Current Load;OK;HARD;4;OK - load average: 1.66, 2.43, 4.27
+[1582189795] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 0.02, 3.85, 15.50
+[1582189795] SERVICE NOTIFICATION: atul;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 0.02, 3.85, 15.50
+[1582189795] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 0.02, 3.85, 15.50
+[1582191650] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;1;WARNING - load average: 14.31, 13.69, 10.69
+[1582191710] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;2;WARNING - load average: 13.57, 13.61, 10.86
+[1582191770] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;3;WARNING - load average: 12.08, 13.19, 10.89
+[1582191830] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 11.58, 12.85, 10.92
+[1582191830] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 11.58, 12.85, 10.92
+[1582191830] SERVICE ALERT: vonly-replica;Current Load;WARNING;HARD;4;WARNING - load average: 11.58, 12.85, 10.92
+[1582192010] Auto-save of retention data completed successfully.
+[1582192495] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 1.52, 3.32, 7.10
+[1582192495] SERVICE NOTIFICATION: atul;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 1.52, 3.32, 7.10
+[1582192495] SERVICE ALERT: vapps-100;Current Load;OK;HARD;4;OK - load average: 1.52, 3.32, 7.10
+[1582193030] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 1.35, 4.35, 7.75
+[1582193030] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 1.35, 4.35, 7.75
+[1582193030] SERVICE ALERT: vonly-replica;Current Load;OK;HARD;4;OK - load average: 1.35, 4.35, 7.75
+[1582195611] Auto-save of retention data completed successfully.
+[1582198412] Caught SIGTERM, shutting down...
+[1582198412] Successfully shutdown... (PID=28489)
+[1582198412] Nagios 4.4.5 starting... (PID=12936)
+[1582198412] Local time is Thu Feb 20 03:33:32 PST 2020
+[1582198412] LOG VERSION: 2.0
+[1582198412] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1582198412] qh: core query handler registered
+[1582198412] qh: echo service query handler registered
+[1582198412] qh: help for the query handler registered
+[1582198412] wproc: Successfully registered manager as @wproc with query handler
+[1582198412] wproc: Registry request: name=Core Worker 12939;pid=12939
+[1582198412] wproc: Registry request: name=Core Worker 12940;pid=12940
+[1582198412] wproc: Registry request: name=Core Worker 12948;pid=12948
+[1582198412] wproc: Registry request: name=Core Worker 12950;pid=12950
+[1582198412] wproc: Registry request: name=Core Worker 12941;pid=12941
+[1582198412] wproc: Registry request: name=Core Worker 12943;pid=12943
+[1582198412] wproc: Registry request: name=Core Worker 12962;pid=12962
+[1582198412] wproc: Registry request: name=Core Worker 12942;pid=12942
+[1582198412] wproc: Registry request: name=Core Worker 12944;pid=12944
+[1582198412] wproc: Registry request: name=Core Worker 12952;pid=12952
+[1582198412] wproc: Registry request: name=Core Worker 12945;pid=12945
+[1582198412] wproc: Registry request: name=Core Worker 12961;pid=12961
+[1582198412] wproc: Registry request: name=Core Worker 12949;pid=12949
+[1582198412] wproc: Registry request: name=Core Worker 12953;pid=12953
+[1582198412] wproc: Registry request: name=Core Worker 12955;pid=12955
+[1582198412] wproc: Registry request: name=Core Worker 12946;pid=12946
+[1582198412] wproc: Registry request: name=Core Worker 12951;pid=12951
+[1582198412] wproc: Registry request: name=Core Worker 12947;pid=12947
+[1582198412] wproc: Registry request: name=Core Worker 12954;pid=12954
+[1582198412] wproc: Registry request: name=Core Worker 12960;pid=12960
+[1582198412] wproc: Registry request: name=Core Worker 12957;pid=12957
+[1582198412] wproc: Registry request: name=Core Worker 12959;pid=12959
+[1582198412] wproc: Registry request: name=Core Worker 12958;pid=12958
+[1582198412] wproc: Registry request: name=Core Worker 12956;pid=12956
+[1582198412] Error: Could not find any host matching 'winserver' (config file '/usr/local/nagios/etc/objects/servers/windows.cfg', starting on line 136)
+[1582198412] Error: Failed to expand host list 'winserver' for service 'Explorer' (/usr/local/nagios/etc/objects/servers/windows.cfg:136)
+[1582198412] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=12936)
+[1582198644] Nagios 4.4.5 starting... (PID=13549)
+[1582198644] Local time is Thu Feb 20 03:37:24 PST 2020
+[1582198644] LOG VERSION: 2.0
+[1582198644] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1582198644] qh: core query handler registered
+[1582198644] qh: echo service query handler registered
+[1582198644] qh: help for the query handler registered
+[1582198644] wproc: Successfully registered manager as @wproc with query handler
+[1582198644] wproc: Registry request: name=Core Worker 13551;pid=13551
+[1582198644] wproc: Registry request: name=Core Worker 13559;pid=13559
+[1582198644] wproc: Registry request: name=Core Worker 13552;pid=13552
+[1582198644] wproc: Registry request: name=Core Worker 13553;pid=13553
+[1582198644] wproc: Registry request: name=Core Worker 13554;pid=13554
+[1582198644] wproc: Registry request: name=Core Worker 13556;pid=13556
+[1582198644] wproc: Registry request: name=Core Worker 13555;pid=13555
+[1582198644] wproc: Registry request: name=Core Worker 13558;pid=13558
+[1582198644] wproc: Registry request: name=Core Worker 13560;pid=13560
+[1582198644] wproc: Registry request: name=Core Worker 13557;pid=13557
+[1582198644] wproc: Registry request: name=Core Worker 13561;pid=13561
+[1582198644] wproc: Registry request: name=Core Worker 13562;pid=13562
+[1582198644] wproc: Registry request: name=Core Worker 13567;pid=13567
+[1582198644] wproc: Registry request: name=Core Worker 13563;pid=13563
+[1582198644] wproc: Registry request: name=Core Worker 13573;pid=13573
+[1582198644] wproc: Registry request: name=Core Worker 13571;pid=13571
+[1582198644] wproc: Registry request: name=Core Worker 13564;pid=13564
+[1582198644] wproc: Registry request: name=Core Worker 13566;pid=13566
+[1582198644] wproc: Registry request: name=Core Worker 13565;pid=13565
+[1582198644] wproc: Registry request: name=Core Worker 13574;pid=13574
+[1582198644] wproc: Registry request: name=Core Worker 13568;pid=13568
+[1582198644] wproc: Registry request: name=Core Worker 13569;pid=13569
+[1582198644] wproc: Registry request: name=Core Worker 13570;pid=13570
+[1582198644] wproc: Registry request: name=Core Worker 13572;pid=13572
+[1582198644] Successfully launched command file worker with pid 13575
+[1582198684] SERVICE ALERT: WINV-108;C:\ Drive Space;UNKNOWN;SOFT;1;Server port must be an integer
+[1582198698] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;WINV-108;NSClient++ Version;1582198705
+[1582198705] SERVICE ALERT: WINV-108;NSClient++ Version;UNKNOWN;SOFT;1;Server port must be an integer
+[1582198725] SERVICE ALERT: WINV-108;CPU Load;UNKNOWN;SOFT;1;Server port must be an integer
+[1582198766] SERVICE ALERT: WINV-108;Explorer;UNKNOWN;SOFT;1;Server port must be an integer
+[1582198789] Caught SIGTERM, shutting down...
+[1582198789] Caught SIGTERM, shutting down...
+[1582198789] Successfully shutdown... (PID=13549)
+[1582198789] Nagios 4.4.5 starting... (PID=14102)
+[1582198789] Local time is Thu Feb 20 03:39:49 PST 2020
+[1582198789] LOG VERSION: 2.0
+[1582198789] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1582198789] qh: core query handler registered
+[1582198789] qh: echo service query handler registered
+[1582198789] qh: help for the query handler registered
+[1582198789] wproc: Successfully registered manager as @wproc with query handler
+[1582198789] wproc: Registry request: name=Core Worker 14104;pid=14104
+[1582198789] wproc: Registry request: name=Core Worker 14106;pid=14106
+[1582198789] wproc: Registry request: name=Core Worker 14105;pid=14105
+[1582198789] wproc: Registry request: name=Core Worker 14107;pid=14107
+[1582198789] wproc: Registry request: name=Core Worker 14108;pid=14108
+[1582198789] wproc: Registry request: name=Core Worker 14109;pid=14109
+[1582198789] wproc: Registry request: name=Core Worker 14124;pid=14124
+[1582198789] wproc: Registry request: name=Core Worker 14121;pid=14121
+[1582198789] wproc: Registry request: name=Core Worker 14113;pid=14113
+[1582198789] wproc: Registry request: name=Core Worker 14125;pid=14125
+[1582198789] wproc: Registry request: name=Core Worker 14120;pid=14120
+[1582198789] wproc: Registry request: name=Core Worker 14126;pid=14126
+[1582198789] wproc: Registry request: name=Core Worker 14122;pid=14122
+[1582198789] wproc: Registry request: name=Core Worker 14115;pid=14115
+[1582198789] wproc: Registry request: name=Core Worker 14110;pid=14110
+[1582198789] wproc: Registry request: name=Core Worker 14127;pid=14127
+[1582198789] wproc: Registry request: name=Core Worker 14123;pid=14123
+[1582198789] wproc: Registry request: name=Core Worker 14119;pid=14119
+[1582198789] wproc: Registry request: name=Core Worker 14116;pid=14116
+[1582198789] wproc: Registry request: name=Core Worker 14111;pid=14111
+[1582198789] wproc: Registry request: name=Core Worker 14112;pid=14112
+[1582198789] wproc: Registry request: name=Core Worker 14117;pid=14117
+[1582198789] wproc: Registry request: name=Core Worker 14118;pid=14118
+[1582198789] wproc: Registry request: name=Core Worker 14114;pid=14114
+[1582198789] Successfully launched command file worker with pid 14128
+[1582198804] SERVICE ALERT: WINV-108;C:\ Drive Space;UNKNOWN;SOFT;2;NSClient - ERROR: Invalid password.
+[1582198807] SERVICE ALERT: WINV-108;Memory Usage;UNKNOWN;SOFT;1;NSClient - ERROR: Invalid password.
+[1582198810] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;WINV-108;C:\ Drive Space;1582198815
+[1582198815] SERVICE NOTIFICATION: nagiosadmin;WINV-108;C:\ Drive Space;UNKNOWN;notify-service-by-email;NSClient - ERROR: Invalid password.
+[1582198815] SERVICE ALERT: WINV-108;C:\ Drive Space;UNKNOWN;HARD;3;NSClient - ERROR: Invalid password.
+[1582198825] SERVICE ALERT: WINV-108;NSClient++ Version;UNKNOWN;SOFT;2;NSClient - ERROR: Invalid password.
+[1582198845] SERVICE ALERT: WINV-108;CPU Load;UNKNOWN;SOFT;2;NSClient - ERROR: Invalid password.
+[1582198886] SERVICE ALERT: WINV-108;Explorer;UNKNOWN;SOFT;2;NSClient - ERROR: Invalid password.
+[1582198889] SERVICE ALERT: WINV-108;Uptime;UNKNOWN;SOFT;1;NSClient - ERROR: Invalid password.
+[1582198906] Caught SIGTERM, shutting down...
+[1582198906] Caught SIGTERM, shutting down...
+[1582198906] Successfully shutdown... (PID=14102)
+[1582198906] Nagios 4.4.5 starting... (PID=14459)
+[1582198906] Local time is Thu Feb 20 03:41:46 PST 2020
+[1582198906] LOG VERSION: 2.0
+[1582198906] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1582198906] qh: core query handler registered
+[1582198906] qh: echo service query handler registered
+[1582198906] qh: help for the query handler registered
+[1582198906] wproc: Successfully registered manager as @wproc with query handler
+[1582198906] wproc: Registry request: name=Core Worker 14461;pid=14461
+[1582198906] wproc: Registry request: name=Core Worker 14473;pid=14473
+[1582198906] wproc: Registry request: name=Core Worker 14470;pid=14470
+[1582198906] wproc: Registry request: name=Core Worker 14462;pid=14462
+[1582198906] wproc: Registry request: name=Core Worker 14472;pid=14472
+[1582198906] wproc: Registry request: name=Core Worker 14471;pid=14471
+[1582198906] wproc: Registry request: name=Core Worker 14474;pid=14474
+[1582198906] wproc: Registry request: name=Core Worker 14475;pid=14475
+[1582198906] wproc: Registry request: name=Core Worker 14463;pid=14463
+[1582198906] wproc: Registry request: name=Core Worker 14478;pid=14478
+[1582198906] wproc: Registry request: name=Core Worker 14477;pid=14477
+[1582198906] wproc: Registry request: name=Core Worker 14482;pid=14482
+[1582198906] wproc: Registry request: name=Core Worker 14476;pid=14476
+[1582198906] wproc: Registry request: name=Core Worker 14469;pid=14469
+[1582198906] wproc: Registry request: name=Core Worker 14480;pid=14480
+[1582198906] wproc: Registry request: name=Core Worker 14479;pid=14479
+[1582198906] wproc: Registry request: name=Core Worker 14468;pid=14468
+[1582198906] wproc: Registry request: name=Core Worker 14465;pid=14465
+[1582198906] wproc: Registry request: name=Core Worker 14464;pid=14464
+[1582198906] wproc: Registry request: name=Core Worker 14483;pid=14483
+[1582198906] wproc: Registry request: name=Core Worker 14481;pid=14481
+[1582198906] wproc: Registry request: name=Core Worker 14466;pid=14466
+[1582198906] wproc: Registry request: name=Core Worker 14484;pid=14484
+[1582198906] wproc: Registry request: name=Core Worker 14467;pid=14467
+[1582198906] Successfully launched command file worker with pid 14485
+[1582198926] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;WINV-108;C:\ Drive Space;1582198930
+[1582198927] SERVICE ALERT: WINV-108;Memory Usage;UNKNOWN;SOFT;2;NSClient - ERROR: No performance data from command: check_memory
+[1582198930] SERVICE ALERT: WINV-108;W3SVC;UNKNOWN;SOFT;1;Unknown command(s): check_service
+[1582198945] SERVICE ALERT: WINV-108;NSClient++ Version;OK;HARD;3;NSClient++ 0.5.2.35 2018-01-28
+[1582198965] SERVICE NOTIFICATION: nagiosadmin;WINV-108;CPU Load;UNKNOWN;notify-service-by-email;NSClient - ERROR: No performance data from command: check_cpu
+[1582198965] SERVICE ALERT: WINV-108;CPU Load;UNKNOWN;HARD;3;NSClient - ERROR: No performance data from command: check_cpu
+[1582199006] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Explorer;UNKNOWN;notify-service-by-email;Unknown command(s): check_process
+[1582199006] SERVICE ALERT: WINV-108;Explorer;UNKNOWN;HARD;3;Unknown command(s): check_process
+[1582199009] SERVICE ALERT: WINV-108;Uptime;UNKNOWN;SOFT;2;NSClient - ERROR: No performance data from command: check_uptime
+[1582199047] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Memory Usage;UNKNOWN;notify-service-by-email;NSClient - ERROR: No performance data from command: check_memory
+[1582199047] SERVICE ALERT: WINV-108;Memory Usage;UNKNOWN;HARD;3;NSClient - ERROR: No performance data from command: check_memory
+[1582199050] SERVICE ALERT: WINV-108;W3SVC;UNKNOWN;SOFT;2;Unknown command(s): check_service
+[1582199129] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Uptime;UNKNOWN;notify-service-by-email;NSClient - ERROR: No performance data from command: check_uptime
+[1582199129] SERVICE ALERT: WINV-108;Uptime;UNKNOWN;HARD;3;NSClient - ERROR: No performance data from command: check_uptime
+[1582199170] SERVICE NOTIFICATION: nagiosadmin;WINV-108;W3SVC;UNKNOWN;notify-service-by-email;Unknown command(s): check_service
+[1582199170] SERVICE ALERT: WINV-108;W3SVC;UNKNOWN;HARD;3;Unknown command(s): check_service
+[1582199362] Caught SIGTERM, shutting down...
+[1582199362] Caught SIGTERM, shutting down...
+[1582199362] Successfully shutdown... (PID=14459)
+[1582199362] Nagios 4.4.5 starting... (PID=15812)
+[1582199362] Local time is Thu Feb 20 03:49:22 PST 2020
+[1582199362] LOG VERSION: 2.0
+[1582199362] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1582199362] qh: core query handler registered
+[1582199362] qh: echo service query handler registered
+[1582199362] qh: help for the query handler registered
+[1582199362] wproc: Successfully registered manager as @wproc with query handler
+[1582199362] wproc: Registry request: name=Core Worker 15816;pid=15816
+[1582199362] wproc: Registry request: name=Core Worker 15815;pid=15815
+[1582199362] wproc: Registry request: name=Core Worker 15819;pid=15819
+[1582199362] wproc: Registry request: name=Core Worker 15822;pid=15822
+[1582199362] wproc: Registry request: name=Core Worker 15823;pid=15823
+[1582199362] wproc: Registry request: name=Core Worker 15818;pid=15818
+[1582199362] wproc: Registry request: name=Core Worker 15817;pid=15817
+[1582199362] wproc: Registry request: name=Core Worker 15825;pid=15825
+[1582199362] wproc: Registry request: name=Core Worker 15820;pid=15820
+[1582199363] wproc: Registry request: name=Core Worker 15821;pid=15821
+[1582199363] wproc: Registry request: name=Core Worker 15824;pid=15824
+[1582199363] wproc: Registry request: name=Core Worker 15828;pid=15828
+[1582199363] wproc: Registry request: name=Core Worker 15826;pid=15826
+[1582199363] wproc: Registry request: name=Core Worker 15834;pid=15834
+[1582199363] wproc: Registry request: name=Core Worker 15827;pid=15827
+[1582199363] wproc: Registry request: name=Core Worker 15830;pid=15830
+[1582199363] wproc: Registry request: name=Core Worker 15836;pid=15836
+[1582199363] wproc: Registry request: name=Core Worker 15833;pid=15833
+[1582199363] wproc: Registry request: name=Core Worker 15831;pid=15831
+[1582199363] wproc: Registry request: name=Core Worker 15832;pid=15832
+[1582199363] wproc: Registry request: name=Core Worker 15838;pid=15838
+[1582199363] wproc: Registry request: name=Core Worker 15829;pid=15829
+[1582199363] wproc: Registry request: name=Core Worker 15837;pid=15837
+[1582199363] wproc: Registry request: name=Core Worker 15835;pid=15835
+[1582199363] Successfully launched command file worker with pid 15839
+[1582199545] SERVICE ALERT: WINV-108;NSClient++ Version;UNKNOWN;SOFT;1;NSClient - ERROR: Invalid password.
+[1582199665] SERVICE ALERT: WINV-108;NSClient++ Version;UNKNOWN;SOFT;2;NSClient - ERROR: Invalid password.
+[1582199729] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;SOFT;1;CRITICAL - load average: 12.22, 5.10, 2.91
+[1582199785] SERVICE NOTIFICATION: nagiosadmin;WINV-108;NSClient++ Version;UNKNOWN;notify-service-by-email;NSClient - ERROR: Invalid password.
+[1582199785] SERVICE ALERT: WINV-108;NSClient++ Version;UNKNOWN;HARD;3;NSClient - ERROR: Invalid password.
+[1582199789] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;SOFT;2;CRITICAL - load average: 11.76, 6.38, 3.50
+[1582199849] SERVICE ALERT: vonly-backup;Current Load;OK;SOFT;3;OK - load average: 6.23, 5.77, 3.47
+[1582200112] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;WINV-108;C:\ Drive Space;1582200118
+[1582200128] SERVICE NOTIFICATION: nagiosadmin;WINV-108;C:\ Drive Space;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1582200128] SERVICE ALERT: WINV-108;C:\ Drive Space;CRITICAL;HARD;3;CRITICAL - Socket timeout
+[1582200175] SERVICE NOTIFICATION: nagiosadmin;WINV-108;CPU Load;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1582200175] SERVICE ALERT: WINV-108;CPU Load;CRITICAL;HARD;3;CRITICAL - Socket timeout
+[1582200216] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Explorer;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1582200216] SERVICE ALERT: WINV-108;Explorer;CRITICAL;HARD;3;CRITICAL - Socket timeout
+[1582200257] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Memory Usage;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1582200257] SERVICE ALERT: WINV-108;Memory Usage;CRITICAL;HARD;3;CRITICAL - Socket timeout
+[1582200339] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Uptime;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1582200339] SERVICE ALERT: WINV-108;Uptime;CRITICAL;HARD;3;CRITICAL - Socket timeout
+[1582200380] SERVICE NOTIFICATION: nagiosadmin;WINV-108;W3SVC;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1582200380] SERVICE ALERT: WINV-108;W3SVC;CRITICAL;HARD;3;CRITICAL - Socket timeout
+[1582200395] SERVICE NOTIFICATION: nagiosadmin;WINV-108;NSClient++ Version;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1582200395] SERVICE ALERT: WINV-108;NSClient++ Version;CRITICAL;HARD;3;CRITICAL - Socket timeout
+[1582201432] Caught SIGTERM, shutting down...
+[1582201432] Caught SIGTERM, shutting down...
+[1582201432] Successfully shutdown... (PID=15812)
+[1582201432] Nagios 4.4.5 starting... (PID=22192)
+[1582201432] Local time is Thu Feb 20 04:23:52 PST 2020
+[1582201432] LOG VERSION: 2.0
+[1582201432] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1582201432] qh: core query handler registered
+[1582201432] qh: echo service query handler registered
+[1582201432] qh: help for the query handler registered
+[1582201432] wproc: Successfully registered manager as @wproc with query handler
+[1582201432] wproc: Registry request: name=Core Worker 22195;pid=22195
+[1582201432] wproc: Registry request: name=Core Worker 22194;pid=22194
+[1582201432] wproc: Registry request: name=Core Worker 22197;pid=22197
+[1582201432] wproc: Registry request: name=Core Worker 22198;pid=22198
+[1582201432] wproc: Registry request: name=Core Worker 22196;pid=22196
+[1582201432] wproc: Registry request: name=Core Worker 22204;pid=22204
+[1582201432] wproc: Registry request: name=Core Worker 22202;pid=22202
+[1582201432] wproc: Registry request: name=Core Worker 22201;pid=22201
+[1582201432] wproc: Registry request: name=Core Worker 22200;pid=22200
+[1582201432] wproc: Registry request: name=Core Worker 22203;pid=22203
+[1582201432] wproc: Registry request: name=Core Worker 22213;pid=22213
+[1582201432] wproc: Registry request: name=Core Worker 22215;pid=22215
+[1582201432] wproc: Registry request: name=Core Worker 22199;pid=22199
+[1582201432] wproc: Registry request: name=Core Worker 22211;pid=22211
+[1582201432] wproc: Registry request: name=Core Worker 22214;pid=22214
+[1582201432] wproc: Registry request: name=Core Worker 22212;pid=22212
+[1582201432] wproc: Registry request: name=Core Worker 22217;pid=22217
+[1582201432] wproc: Registry request: name=Core Worker 22208;pid=22208
+[1582201432] wproc: Registry request: name=Core Worker 22207;pid=22207
+[1582201432] wproc: Registry request: name=Core Worker 22216;pid=22216
+[1582201432] wproc: Registry request: name=Core Worker 22206;pid=22206
+[1582201432] wproc: Registry request: name=Core Worker 22205;pid=22205
+[1582201432] wproc: Registry request: name=Core Worker 22210;pid=22210
+[1582201432] wproc: Registry request: name=Core Worker 22209;pid=22209
+[1582201432] Successfully launched command file worker with pid 22218
+[1582203229] SERVICE ALERT: vapps-100;Current Users;WARNING;SOFT;1;USERS WARNING - 6 users currently logged in
+[1582203289] SERVICE ALERT: vapps-100;Current Users;WARNING;SOFT;2;USERS WARNING - 6 users currently logged in
+[1582203349] SERVICE ALERT: vapps-100;Current Users;WARNING;SOFT;3;USERS WARNING - 6 users currently logged in
+[1582203409] SERVICE NOTIFICATION: jatin;vapps-100;Current Users;WARNING;notify-service-by-email;USERS WARNING - 6 users currently logged in
+[1582203409] SERVICE NOTIFICATION: atul;vapps-100;Current Users;WARNING;notify-service-by-email;USERS WARNING - 6 users currently logged in
+[1582203409] SERVICE ALERT: vapps-100;Current Users;WARNING;HARD;4;USERS WARNING - 6 users currently logged in
+[1582203738] SERVICE NOTIFICATION: nagiosadmin;WINV-108;C:\ Drive Space;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1582203785] SERVICE NOTIFICATION: nagiosadmin;WINV-108;CPU Load;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1582203826] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Explorer;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1582203867] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Memory Usage;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1582203949] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Uptime;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1582203990] SERVICE NOTIFICATION: nagiosadmin;WINV-108;W3SVC;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1582204005] SERVICE NOTIFICATION: nagiosadmin;WINV-108;NSClient++ Version;CRITICAL;notify-service-by-email;CRITICAL - Socket timeout
+[1582205031] Auto-save of retention data completed successfully.
+[1582206339] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Uptime;OK;notify-service-by-email;System Uptime - 449 day(s) 21 hour(s) 54 minute(s)
+[1582206339] SERVICE ALERT: WINV-108;Uptime;OK;HARD;3;System Uptime - 449 day(s) 21 hour(s) 54 minute(s)
+[1582206380] SERVICE NOTIFICATION: nagiosadmin;WINV-108;W3SVC;UNKNOWN;notify-service-by-email;Failed to open service W3SVC: 1060: The specified service does not exist as an installed service.
+[1582206380] SERVICE ALERT: WINV-108;W3SVC;UNKNOWN;HARD;3;Failed to open service W3SVC: 1060: The specified service does not exist as an installed service.
+[1582206395] SERVICE NOTIFICATION: nagiosadmin;WINV-108;NSClient++ Version;OK;notify-service-by-email;NSClient++ 0.4.4.23 2016-04-05
+[1582206395] SERVICE ALERT: WINV-108;NSClient++ Version;OK;HARD;3;NSClient++ 0.4.4.23 2016-04-05
+[1582206547] Caught SIGTERM, shutting down...
+[1582206547] Caught SIGTERM, shutting down...
+[1582206547] Successfully shutdown... (PID=22192)
+[1582206547] Nagios 4.4.5 starting... (PID=3583)
+[1582206547] Local time is Thu Feb 20 05:49:07 PST 2020
+[1582206547] LOG VERSION: 2.0
+[1582206547] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1582206547] qh: core query handler registered
+[1582206547] qh: echo service query handler registered
+[1582206547] qh: help for the query handler registered
+[1582206547] wproc: Successfully registered manager as @wproc with query handler
+[1582206547] wproc: Registry request: name=Core Worker 3586;pid=3586
+[1582206547] wproc: Registry request: name=Core Worker 3585;pid=3585
+[1582206547] wproc: Registry request: name=Core Worker 3587;pid=3587
+[1582206547] wproc: Registry request: name=Core Worker 3595;pid=3595
+[1582206547] wproc: Registry request: name=Core Worker 3596;pid=3596
+[1582206547] wproc: Registry request: name=Core Worker 3591;pid=3591
+[1582206547] wproc: Registry request: name=Core Worker 3588;pid=3588
+[1582206547] wproc: Registry request: name=Core Worker 3592;pid=3592
+[1582206547] wproc: Registry request: name=Core Worker 3589;pid=3589
+[1582206547] wproc: Registry request: name=Core Worker 3594;pid=3594
+[1582206547] wproc: Registry request: name=Core Worker 3590;pid=3590
+[1582206547] wproc: Registry request: name=Core Worker 3593;pid=3593
+[1582206547] wproc: Registry request: name=Core Worker 3598;pid=3598
+[1582206547] wproc: Registry request: name=Core Worker 3597;pid=3597
+[1582206547] wproc: Registry request: name=Core Worker 3603;pid=3603
+[1582206547] wproc: Registry request: name=Core Worker 3606;pid=3606
+[1582206547] wproc: Registry request: name=Core Worker 3602;pid=3602
+[1582206547] wproc: Registry request: name=Core Worker 3601;pid=3601
+[1582206547] wproc: Registry request: name=Core Worker 3599;pid=3599
+[1582206547] wproc: Registry request: name=Core Worker 3600;pid=3600
+[1582206547] wproc: Registry request: name=Core Worker 3605;pid=3605
+[1582206547] wproc: Registry request: name=Core Worker 3604;pid=3604
+[1582206547] wproc: Registry request: name=Core Worker 3608;pid=3608
+[1582206547] wproc: Registry request: name=Core Worker 3607;pid=3607
+[1582206547] Error: Unexpected token or statement in file '/usr/local/nagios/etc/objects/servers/windows.cfg' on line 129.
+[1582206547] Error: Invalid max_check_attempts value for host 'WINV-108'
+[1582206547] Error: Could not register host (config file '/usr/local/nagios/etc/objects/servers/windows.cfg', starting on line 21)
+[1582206547] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=3583)
+[1582206702] Nagios 4.4.5 starting... (PID=3969)
+[1582206702] Local time is Thu Feb 20 05:51:42 PST 2020
+[1582206702] LOG VERSION: 2.0
+[1582206702] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1582206702] qh: core query handler registered
+[1582206702] qh: echo service query handler registered
+[1582206702] qh: help for the query handler registered
+[1582206702] wproc: Successfully registered manager as @wproc with query handler
+[1582206702] wproc: Registry request: name=Core Worker 3971;pid=3971
+[1582206702] wproc: Registry request: name=Core Worker 3973;pid=3973
+[1582206702] wproc: Registry request: name=Core Worker 3982;pid=3982
+[1582206702] wproc: Registry request: name=Core Worker 3981;pid=3981
+[1582206702] wproc: Registry request: name=Core Worker 3974;pid=3974
+[1582206702] wproc: Registry request: name=Core Worker 3975;pid=3975
+[1582206702] wproc: Registry request: name=Core Worker 3991;pid=3991
+[1582206702] wproc: Registry request: name=Core Worker 3988;pid=3988
+[1582206702] wproc: Registry request: name=Core Worker 3976;pid=3976
+[1582206702] wproc: Registry request: name=Core Worker 3992;pid=3992
+[1582206702] wproc: Registry request: name=Core Worker 3977;pid=3977
+[1582206702] wproc: Registry request: name=Core Worker 3979;pid=3979
+[1582206702] wproc: Registry request: name=Core Worker 3978;pid=3978
+[1582206702] wproc: Registry request: name=Core Worker 3980;pid=3980
+[1582206702] wproc: Registry request: name=Core Worker 3993;pid=3993
+[1582206702] wproc: Registry request: name=Core Worker 3986;pid=3986
+[1582206702] wproc: Registry request: name=Core Worker 3994;pid=3994
+[1582206702] wproc: Registry request: name=Core Worker 3984;pid=3984
+[1582206702] wproc: Registry request: name=Core Worker 3983;pid=3983
+[1582206702] wproc: Registry request: name=Core Worker 3987;pid=3987
+[1582206702] wproc: Registry request: name=Core Worker 3972;pid=3972
+[1582206702] wproc: Registry request: name=Core Worker 3985;pid=3985
+[1582206702] wproc: Registry request: name=Core Worker 3990;pid=3990
+[1582206702] wproc: Registry request: name=Core Worker 3989;pid=3989
+[1582206702] Successfully launched command file worker with pid 3995
+[1582206728] SERVICE NOTIFICATION: nagiosadmin;WINV-108;C:\ Drive Space;WARNING;notify-service-by-email;c:\ - total: 67.89 Gb - used: 54.96 Gb (81%) - free 12.93 Gb (19%)
+[1582206728] SERVICE ALERT: WINV-108;C:\ Drive Space;WARNING;HARD;3;c:\ - total: 67.89 Gb - used: 54.96 Gb (81%) - free 12.93 Gb (19%)
+[1582206730] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;WINV-108;C:\ Drive Space;1582206736
+[1582206747] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;WINV-108;CPU Load;1582206751
+[1582206751] SERVICE NOTIFICATION: nagiosadmin;WINV-108;CPU Load;OK;notify-service-by-email;CPU Load 12% (5 min average)
+[1582206751] SERVICE ALERT: WINV-108;CPU Load;OK;HARD;3;CPU Load 12% (5 min average)
+[1582206788] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;WINV-108;Explorer;1582206794
+[1582206803] EXTERNAL COMMAND: SCHEDULE_FORCED_HOST_CHECK;WINV-108;1582206809
+[1582206851] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;WINV-108;Memory Usage;1582206857
+[1582206857] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Memory Usage;OK;notify-service-by-email;Memory usage: total:160950.28 MB - used: 41646.32 MB (26%) - free: 119303.95 MB (74%)
+[1582206857] SERVICE ALERT: WINV-108;Memory Usage;OK;HARD;3;Memory usage: total:160950.28 MB - used: 41646.32 MB (26%) - free: 119303.95 MB (74%)
+[1582206866] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;WINV-108;Explorer;1582206872
+[1582207309] SERVICE NOTIFICATION: jatin;vapps-100;Current Users;OK;notify-service-by-email;USERS OK - 5 users currently logged in
+[1582207309] SERVICE NOTIFICATION: atul;vapps-100;Current Users;OK;notify-service-by-email;USERS OK - 5 users currently logged in
+[1582207309] SERVICE ALERT: vapps-100;Current Users;OK;HARD;4;USERS OK - 5 users currently logged in
+[1582207472] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1582210301] Auto-save of retention data completed successfully.
+[1582210336] SERVICE NOTIFICATION: nagiosadmin;WINV-108;C:\ Drive Space;WARNING;notify-service-by-email;c:\ - total: 67.89 Gb - used: 54.96 Gb (81%) - free 12.93 Gb (19%)
+[1582210709] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;SOFT;1;CRITICAL - load average: 10.85, 3.73, 1.84
+[1582210769] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;SOFT;2;CRITICAL - load average: 13.41, 5.79, 2.67
+[1582210829] SERVICE ALERT: vonly-backup;Current Load;WARNING;SOFT;3;WARNING - load average: 8.51, 5.89, 2.91
+[1582210889] SERVICE ALERT: vonly-backup;Current Load;OK;HARD;4;OK - load average: 3.61, 4.96, 2.78
+[1582210995] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;1;WARNING - load average: 21.46, 14.57, 11.59
+[1582211055] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;2;WARNING - load average: 22.30, 16.05, 12.28
+[1582211072] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1582211115] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;3;WARNING - load average: 21.53, 17.02, 12.86
+[1582211175] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 20.67, 17.58, 13.31
+[1582211175] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 20.67, 17.58, 13.31
+[1582211175] SERVICE ALERT: vonly-replica;Current Load;WARNING;HARD;4;WARNING - load average: 20.67, 17.58, 13.31
+[1582212075] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 5.30, 6.56, 9.84
+[1582212075] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 5.30, 6.56, 9.84
+[1582212075] SERVICE ALERT: vonly-replica;Current Load;OK;HARD;4;OK - load average: 5.30, 6.56, 9.84
+[1582213902] Auto-save of retention data completed successfully.
+[1582213936] SERVICE NOTIFICATION: nagiosadmin;WINV-108;C:\ Drive Space;WARNING;notify-service-by-email;c:\ - total: 67.89 Gb - used: 54.96 Gb (81%) - free 12.93 Gb (19%)
+[1582214672] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1582215389] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;SOFT;1;CRITICAL - load average: 10.04, 3.20, 1.53
+[1582215449] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;SOFT;2;CRITICAL - load average: 12.70, 5.27, 2.35
+[1582215509] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;SOFT;3;CRITICAL - load average: 10.50, 6.11, 2.83
+[1582215569] SERVICE ALERT: vonly-backup;Current Load;OK;HARD;4;OK - load average: 4.78, 5.28, 2.75
+[1582217502] Auto-save of retention data completed successfully.
+[1582217536] SERVICE NOTIFICATION: nagiosadmin;WINV-108;C:\ Drive Space;WARNING;notify-service-by-email;c:\ - total: 67.89 Gb - used: 54.96 Gb (81%) - free 12.93 Gb (19%)
+[1582218272] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1582221102] Auto-save of retention data completed successfully.
+[1582221136] SERVICE NOTIFICATION: nagiosadmin;WINV-108;C:\ Drive Space;WARNING;notify-service-by-email;c:\ - total: 67.89 Gb - used: 54.96 Gb (81%) - free 12.93 Gb (19%)
+[1582221872] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1582224701] Auto-save of retention data completed successfully.
+[1582224736] SERVICE NOTIFICATION: nagiosadmin;WINV-108;C:\ Drive Space;WARNING;notify-service-by-email;c:\ - total: 67.89 Gb - used: 54.97 Gb (81%) - free 12.92 Gb (19%)
+[1582225472] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1582227788] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;1;WARNING - load average: 18.75, 9.34, 6.92
+[1582227848] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;2;WARNING - load average: 21.42, 11.68, 7.87
+[1582227908] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;3;WARNING - load average: 12.74, 11.07, 7.91
+[1582227968] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 8.60, 10.15, 7.79
+[1582227968] SERVICE NOTIFICATION: atul;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 8.60, 10.15, 7.79
+[1582227968] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 8.60, 10.15, 7.79
+[1582228268] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 5.19, 7.26, 7.22
+[1582228268] SERVICE NOTIFICATION: atul;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 5.19, 7.26, 7.22
+[1582228268] SERVICE ALERT: vapps-100;Current Load;OK;HARD;4;OK - load average: 5.19, 7.26, 7.22
+[1582228301] Auto-save of retention data completed successfully.
+[1582228336] SERVICE NOTIFICATION: nagiosadmin;WINV-108;C:\ Drive Space;WARNING;notify-service-by-email;c:\ - total: 67.89 Gb - used: 54.97 Gb (81%) - free 12.92 Gb (19%)
+[1582228868] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;1;WARNING - load average: 17.83, 11.55, 8.75
+[1582228928] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;2;WARNING - load average: 9.86, 10.39, 8.52
+[1582228988] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;3;WARNING - load average: 8.02, 9.75, 8.42
+[1582228991] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;1;WARNING - load average: 4.24, 5.60, 5.04
+[1582229048] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 8.85, 9.64, 8.46
+[1582229048] SERVICE NOTIFICATION: atul;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 8.85, 9.64, 8.46
+[1582229048] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 8.85, 9.64, 8.46
+[1582229051] SERVICE ALERT: vinfra-200;Current Load;OK;SOFT;2;OK - load average: 3.90, 5.32, 4.98
+[1582229072] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1582229111] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;1;WARNING - load average: 5.67, 5.72, 5.15
+[1582229171] SERVICE ALERT: vinfra-200;Current Load;OK;SOFT;2;OK - load average: 3.56, 5.16, 4.99
+[1582229648] SERVICE FLAPPING ALERT: vapps-100;Current Load;STARTED; Service appears to have started flapping (23.6% change >= 20.0% threshold)
+[1582229648] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;FLAPPINGSTART (OK);notify-service-by-email;OK - load average: 3.55, 5.26, 6.88
+[1582229648] SERVICE NOTIFICATION: atul;vapps-100;Current Load;FLAPPINGSTART (OK);notify-service-by-email;OK - load average: 3.55, 5.26, 6.88
+[1582229648] SERVICE ALERT: vapps-100;Current Load;OK;HARD;4;OK - load average: 3.55, 5.26, 6.88
+[1582229948] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;1;WARNING - load average: 7.77, 10.29, 8.93
+[1582230008] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;2;WARNING - load average: 4.88, 9.01, 8.57
+[1582230068] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;3;WARNING - load average: 4.94, 8.32, 8.36
+[1582230128] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 5.98, 8.05, 8.27
+[1582231028] SERVICE ALERT: vapps-100;Current Load;OK;HARD;4;OK - load average: 3.40, 6.17, 7.36
+[1582231901] Auto-save of retention data completed successfully.
+[1582231936] SERVICE NOTIFICATION: nagiosadmin;WINV-108;C:\ Drive Space;WARNING;notify-service-by-email;c:\ - total: 67.89 Gb - used: 54.97 Gb (81%) - free 12.92 Gb (19%)
+[1582232672] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1582234628] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;1;WARNING - load average: 18.51, 11.43, 8.21
+[1582234688] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;2;WARNING - load average: 10.32, 10.39, 8.06
+[1582234748] SERVICE ALERT: vapps-100;Current Load;OK;SOFT;3;OK - load average: 7.13, 9.49, 7.89
+[1582234808] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;1;WARNING - load average: 8.18, 9.54, 8.02
+[1582234868] SERVICE ALERT: vapps-100;Current Load;OK;SOFT;2;OK - load average: 6.17, 8.79, 7.86
+[1582235501] Auto-save of retention data completed successfully.
+[1582235536] SERVICE NOTIFICATION: nagiosadmin;WINV-108;C:\ Drive Space;WARNING;notify-service-by-email;c:\ - total: 67.89 Gb - used: 54.97 Gb (81%) - free 12.92 Gb (19%)
+[1582235828] SERVICE FLAPPING ALERT: vapps-100;Current Load;STOPPED; Service appears to have stopped flapping (4.0% change < 5.0% threshold)
+[1582235828] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;FLAPPINGSTOP (OK);notify-service-by-email;OK - load average: 4.67, 6.61, 7.34
+[1582235828] SERVICE NOTIFICATION: atul;vapps-100;Current Load;FLAPPINGSTOP (OK);notify-service-by-email;OK - load average: 4.67, 6.61, 7.34
+[1582236272] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1582237628] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;1;WARNING - load average: 9.69, 11.35, 8.84
+[1582237688] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;2;WARNING - load average: 6.83, 10.28, 8.63
+[1582237748] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;3;WARNING - load average: 6.35, 9.59, 8.50
+[1582237808] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 4.91, 8.63, 8.24
+[1582237808] SERVICE NOTIFICATION: atul;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 4.91, 8.63, 8.24
+[1582237808] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 4.91, 8.63, 8.24
+[1582238108] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 7.60, 7.52, 7.83
+[1582238108] SERVICE NOTIFICATION: atul;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 7.60, 7.52, 7.83
+[1582238108] SERVICE ALERT: vapps-100;Current Load;OK;HARD;4;OK - load average: 7.60, 7.52, 7.83
+[1582239102] Auto-save of retention data completed successfully.
+[1582239136] SERVICE NOTIFICATION: nagiosadmin;WINV-108;C:\ Drive Space;WARNING;notify-service-by-email;c:\ - total: 67.89 Gb - used: 54.97 Gb (81%) - free 12.92 Gb (19%)
+[1582239608] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;1;WARNING - load average: 7.80, 10.94, 9.06
+[1582239668] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;2;WARNING - load average: 5.88, 9.85, 8.80
+[1582239728] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;3;WARNING - load average: 4.99, 8.88, 8.53
+[1582239788] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 4.90, 8.16, 8.31
+[1582239788] SERVICE NOTIFICATION: atul;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 4.90, 8.16, 8.31
+[1582239788] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 4.90, 8.16, 8.31
+[1582239872] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1582240688] SERVICE FLAPPING ALERT: vapps-100;Current Load;STARTED; Service appears to have started flapping (22.4% change >= 20.0% threshold)
+[1582240688] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;FLAPPINGSTART (OK);notify-service-by-email;OK - load average: 3.74, 5.83, 7.30
+[1582240688] SERVICE NOTIFICATION: atul;vapps-100;Current Load;FLAPPINGSTART (OK);notify-service-by-email;OK - load average: 3.74, 5.83, 7.30
+[1582240688] SERVICE ALERT: vapps-100;Current Load;OK;HARD;4;OK - load average: 3.74, 5.83, 7.30
+[1582240931] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;1;WARNING - load average: 8.54, 5.62, 5.07
+[1582240991] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;2;WARNING - load average: 5.80, 5.42, 5.03
+[1582241051] SERVICE ALERT: vinfra-200;Current Load;OK;SOFT;3;OK - load average: 3.92, 4.94, 4.89
+[1582242701] Auto-save of retention data completed successfully.
+[1582242736] SERVICE NOTIFICATION: nagiosadmin;WINV-108;C:\ Drive Space;WARNING;notify-service-by-email;c:\ - total: 67.89 Gb - used: 54.97 Gb (81%) - free 12.92 Gb (19%)
+[1582243473] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1582245788] SERVICE FLAPPING ALERT: vapps-100;Current Load;STOPPED; Service appears to have stopped flapping (4.0% change < 5.0% threshold)
+[1582245788] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;FLAPPINGSTOP (OK);notify-service-by-email;OK - load average: 0.19, 1.00, 2.78
+[1582245788] SERVICE NOTIFICATION: atul;vapps-100;Current Load;FLAPPINGSTOP (OK);notify-service-by-email;OK - load average: 0.19, 1.00, 2.78
+[1582246301] Auto-save of retention data completed successfully.
+[1582246334] SERVICE ALERT: vapps-100;Total Processes;WARNING;SOFT;1;PROCS WARNING: 2013 processes with STATE = RSZDT
+[1582246336] SERVICE NOTIFICATION: nagiosadmin;WINV-108;C:\ Drive Space;WARNING;notify-service-by-email;c:\ - total: 67.89 Gb - used: 54.97 Gb (81%) - free 12.92 Gb (19%)
+[1582246394] SERVICE ALERT: vapps-100;Total Processes;WARNING;SOFT;2;PROCS WARNING: 2013 processes with STATE = RSZDT
+[1582246455] SERVICE ALERT: vapps-100;Total Processes;WARNING;SOFT;3;PROCS WARNING: 2013 processes with STATE = RSZDT
+[1582246515] SERVICE NOTIFICATION: jatin;vapps-100;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 2012 processes with STATE = RSZDT
+[1582246515] SERVICE NOTIFICATION: atul;vapps-100;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 2012 processes with STATE = RSZDT
+[1582246515] SERVICE ALERT: vapps-100;Total Processes;WARNING;HARD;4;PROCS WARNING: 2012 processes with STATE = RSZDT
+[1582246575] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;1;WARNING - load average: 15.64, 13.70, 10.39
+[1582246635] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;2;WARNING - load average: 15.21, 13.91, 10.67
+[1582246695] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;3;WARNING - load average: 14.62, 13.94, 10.88
+[1582246755] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 14.23, 13.97, 11.09
+[1582246755] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 14.23, 13.97, 11.09
+[1582246755] SERVICE ALERT: vonly-replica;Current Load;WARNING;HARD;4;WARNING - load average: 14.23, 13.97, 11.09
+[1582247672] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1582248311] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;1;WARNING - load average: 6.02, 5.33, 5.05
+[1582248371] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;2;WARNING - load average: 5.08, 5.19, 5.02
+[1582248431] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;3;WARNING - load average: 4.91, 5.23, 5.05
+[1582248491] SERVICE ALERT: vinfra-200;Current Load;OK;HARD;4;OK - load average: 4.13, 4.93, 4.96
+[1582248791] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;1;WARNING - load average: 4.48, 5.00, 5.01
+[1582248851] SERVICE ALERT: vinfra-200;Current Load;OK;SOFT;2;OK - load average: 4.31, 4.84, 4.95
+[1582248911] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;1;WARNING - load average: 5.49, 5.10, 5.03
+[1582248971] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;2;WARNING - load average: 11.01, 6.59, 5.54
+[1582249031] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;3;WARNING - load average: 6.34, 6.17, 5.46
+[1582249091] SERVICE NOTIFICATION: jatin;vinfra-200;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.46, 5.99, 5.45
+[1582249091] SERVICE NOTIFICATION: atul;vinfra-200;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.46, 5.99, 5.45
+[1582249091] SERVICE ALERT: vinfra-200;Current Load;WARNING;HARD;4;WARNING - load average: 5.46, 5.99, 5.45
+[1582249901] Auto-save of retention data completed successfully.
+[1582249936] SERVICE NOTIFICATION: nagiosadmin;WINV-108;C:\ Drive Space;WARNING;notify-service-by-email;c:\ - total: 67.89 Gb - used: 54.97 Gb (81%) - free 12.92 Gb (19%)
+[1582251272] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1582251491] SERVICE NOTIFICATION: jatin;vinfra-200;Current Load;OK;notify-service-by-email;OK - load average: 4.34, 4.42, 4.89
+[1582251491] SERVICE NOTIFICATION: atul;vinfra-200;Current Load;OK;notify-service-by-email;OK - load average: 4.34, 4.42, 4.89
+[1582251491] SERVICE ALERT: vinfra-200;Current Load;OK;HARD;4;OK - load average: 4.34, 4.42, 4.89
+[1582251788] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;1;WARNING - load average: 22.64, 12.65, 8.55
+[1582251848] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;2;WARNING - load average: 13.76, 12.19, 8.67
+[1582251909] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;3;WARNING - load average: 9.14, 11.12, 8.52
+[1582251969] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 8.47, 10.46, 8.45
+[1582251969] SERVICE NOTIFICATION: atul;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 8.47, 10.46, 8.45
+[1582251969] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 8.47, 10.46, 8.45
+[1582252269] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 5.74, 7.29, 7.61
+[1582252269] SERVICE NOTIFICATION: atul;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 5.74, 7.29, 7.61
+[1582252269] SERVICE ALERT: vapps-100;Current Load;OK;HARD;4;OK - load average: 5.74, 7.29, 7.61
+[1582252691] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;1;WARNING - load average: 6.79, 5.27, 5.04
+[1582252751] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;2;WARNING - load average: 8.19, 5.82, 5.24
+[1582252811] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;3;WARNING - load average: 9.14, 6.44, 5.48
+[1582252869] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;1;WARNING - load average: 12.31, 12.41, 9.68
+[1582252871] SERVICE NOTIFICATION: jatin;vinfra-200;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.72, 6.04, 5.41
+[1582252871] SERVICE NOTIFICATION: atul;vinfra-200;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.72, 6.04, 5.41
+[1582252871] SERVICE ALERT: vinfra-200;Current Load;WARNING;HARD;4;WARNING - load average: 5.72, 6.04, 5.41
+[1582252929] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;2;WARNING - load average: 8.77, 11.39, 9.50
+[1582252989] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;3;WARNING - load average: 6.80, 10.39, 9.27
+[1582253049] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.87, 9.46, 9.02
+[1582253049] SERVICE NOTIFICATION: atul;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.87, 9.46, 9.02
+[1582253049] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 5.87, 9.46, 9.02
+[1582253501] Auto-save of retention data completed successfully.
+[1582253536] SERVICE NOTIFICATION: nagiosadmin;WINV-108;C:\ Drive Space;WARNING;notify-service-by-email;c:\ - total: 67.89 Gb - used: 54.97 Gb (81%) - free 12.92 Gb (19%)
+[1582254371] SERVICE FLAPPING ALERT: vinfra-200;Current Load;STARTED; Service appears to have started flapping (20.9% change >= 20.0% threshold)
+[1582254371] SERVICE NOTIFICATION: jatin;vinfra-200;Current Load;FLAPPINGSTART (OK);notify-service-by-email;OK - load average: 3.88, 4.47, 4.87
+[1582254371] SERVICE NOTIFICATION: atul;vinfra-200;Current Load;FLAPPINGSTART (OK);notify-service-by-email;OK - load average: 3.88, 4.47, 4.87
+[1582254371] SERVICE ALERT: vinfra-200;Current Load;OK;HARD;4;OK - load average: 3.88, 4.47, 4.87
+[1582254549] SERVICE FLAPPING ALERT: vapps-100;Current Load;STARTED; Service appears to have started flapping (22.4% change >= 20.0% threshold)
+[1582254549] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;FLAPPINGSTART (OK);notify-service-by-email;OK - load average: 6.00, 6.22, 7.57
+[1582254549] SERVICE NOTIFICATION: atul;vapps-100;Current Load;FLAPPINGSTART (OK);notify-service-by-email;OK - load average: 6.00, 6.22, 7.57
+[1582254549] SERVICE ALERT: vapps-100;Current Load;OK;HARD;4;OK - load average: 6.00, 6.22, 7.57
+[1582254555] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 5.15, 7.52, 9.55
+[1582254555] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 5.15, 7.52, 9.55
+[1582254555] SERVICE ALERT: vonly-replica;Current Load;OK;HARD;4;OK - load average: 5.15, 7.52, 9.55
+[1582254671] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;1;WARNING - load average: 6.36, 5.23, 5.03
+[1582254731] SERVICE ALERT: vinfra-200;Current Load;OK;SOFT;2;OK - load average: 4.91, 5.00, 4.96
+[1582254872] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1582255749] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;1;WARNING - load average: 15.77, 12.75, 9.25
+[1582255809] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;2;WARNING - load average: 10.73, 11.84, 9.16
+[1582255869] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;3;WARNING - load average: 8.68, 11.00, 9.03
+[1582255929] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 8.39, 10.45, 8.96
+[1582256891] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;1;WARNING - load average: 5.44, 5.55, 5.20
+[1582256951] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;2;WARNING - load average: 3.98, 5.11, 5.07
+[1582257011] SERVICE ALERT: vinfra-200;Current Load;OK;SOFT;3;OK - load average: 3.08, 4.66, 4.91
+[1582257102] Auto-save of retention data completed successfully.
+[1582257129] SERVICE ALERT: vapps-100;Current Load;OK;HARD;4;OK - load average: 4.63, 5.57, 7.10
+[1582257136] SERVICE NOTIFICATION: nagiosadmin;WINV-108;C:\ Drive Space;WARNING;notify-service-by-email;c:\ - total: 67.89 Gb - used: 54.97 Gb (81%) - free 12.92 Gb (19%)
+[1582257729] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;1;WARNING - load average: 11.53, 11.26, 8.96
+[1582257789] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;2;WARNING - load average: 10.37, 11.00, 9.02
+[1582257849] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;3;WARNING - load average: 8.40, 10.22, 8.87
+[1582257909] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 8.37, 9.94, 8.86
+[1582258472] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1582258571] SERVICE FLAPPING ALERT: vinfra-200;Current Load;STOPPED; Service appears to have stopped flapping (4.3% change < 5.0% threshold)
+[1582258571] SERVICE NOTIFICATION: jatin;vinfra-200;Current Load;FLAPPINGSTOP (OK);notify-service-by-email;OK - load average: 2.93, 3.95, 4.26
+[1582258571] SERVICE NOTIFICATION: atul;vinfra-200;Current Load;FLAPPINGSTOP (OK);notify-service-by-email;OK - load average: 2.93, 3.95, 4.26
+[1582259109] SERVICE ALERT: vapps-100;Current Load;OK;HARD;4;OK - load average: 2.73, 5.19, 7.28
+[1582259709] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;1;WARNING - load average: 9.22, 10.47, 8.80
+[1582259769] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;2;WARNING - load average: 9.39, 10.28, 8.84
+[1582259829] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;3;WARNING - load average: 7.36, 9.54, 8.67
+[1582259889] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 8.40, 9.54, 8.73
+[1582260701] Auto-save of retention data completed successfully.
+[1582260736] SERVICE NOTIFICATION: nagiosadmin;WINV-108;C:\ Drive Space;WARNING;notify-service-by-email;c:\ - total: 67.89 Gb - used: 54.97 Gb (81%) - free 12.92 Gb (19%)
+[1582260916] SERVICE NOTIFICATION: jatin;vapps-100;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 2665 processes with STATE = RSZDT
+[1582260916] SERVICE NOTIFICATION: atul;vapps-100;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 2665 processes with STATE = RSZDT
+[1582262072] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1582263189] SERVICE ALERT: vapps-100;Current Load;OK;HARD;4;OK - load average: 4.11, 4.84, 7.08
+[1582263489] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;1;WARNING - load average: 12.39, 11.34, 9.27
+[1582263549] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;2;WARNING - load average: 9.15, 10.63, 9.15
+[1582263609] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;3;WARNING - load average: 8.25, 10.02, 9.03
+[1582263669] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 7.48, 9.42, 8.88
+[1582264301] Auto-save of retention data completed successfully.
+[1582264336] SERVICE NOTIFICATION: nagiosadmin;WINV-108;C:\ Drive Space;WARNING;notify-service-by-email;c:\ - total: 67.89 Gb - used: 55.16 Gb (81%) - free 12.73 Gb (19%)
+[1582264569] SERVICE ALERT: vapps-100;Current Load;OK;HARD;4;OK - load average: 4.57, 6.75, 7.68
+[1582265469] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;1;WARNING - load average: 17.12, 14.47, 10.20
+[1582265529] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;2;WARNING - load average: 17.18, 14.96, 10.63
+[1582265589] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;3;WARNING - load average: 19.14, 15.95, 11.25
+[1582265649] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 21.78, 17.14, 11.94
+[1582265672] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1582266549] SERVICE ALERT: vapps-100;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 30.89, 29.09, 21.50
+[1582267571] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;1;WARNING - load average: 4.20, 5.42, 5.01
+[1582267631] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;2;WARNING - load average: 6.55, 5.79, 5.16
+[1582267691] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;3;WARNING - load average: 4.63, 5.34, 5.04
+[1582267751] SERVICE ALERT: vinfra-200;Current Load;OK;HARD;4;OK - load average: 3.21, 4.78, 4.86
+[1582267902] Auto-save of retention data completed successfully.
+[1582267936] SERVICE NOTIFICATION: nagiosadmin;WINV-108;C:\ Drive Space;WARNING;notify-service-by-email;c:\ - total: 67.89 Gb - used: 55.14 Gb (81%) - free 12.74 Gb (19%)
+[1582268649] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 0.32, 6.48, 16.04
+[1582269273] SERVICE NOTIFICATION: nagiosadmin;WINV-108;Explorer;CRITICAL;notify-service-by-email;Explorer.exe: not running
+[1582269549] SERVICE ALERT: vapps-100;Current Load;OK;HARD;4;OK - load average: 0.06, 0.45, 6.19
+[1582269899] Caught SIGTERM, shutting down...
+[1582269899] Caught SIGTERM, shutting down...
+[1582269899] Successfully shutdown... (PID=3969)
+[1582269899] Nagios 4.4.5 starting... (PID=18675)
+[1582269899] Local time is Thu Feb 20 23:24:59 PST 2020
+[1582269899] LOG VERSION: 2.0
+[1582269899] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1582269899] qh: core query handler registered
+[1582269899] qh: echo service query handler registered
+[1582269899] qh: help for the query handler registered
+[1582269899] wproc: Successfully registered manager as @wproc with query handler
+[1582269899] wproc: Registry request: name=Core Worker 18678;pid=18678
+[1582269899] wproc: Registry request: name=Core Worker 18685;pid=18685
+[1582269899] wproc: Registry request: name=Core Worker 18686;pid=18686
+[1582269899] wproc: Registry request: name=Core Worker 18679;pid=18679
+[1582269899] wproc: Registry request: name=Core Worker 18684;pid=18684
+[1582269899] wproc: Registry request: name=Core Worker 18680;pid=18680
+[1582269899] wproc: Registry request: name=Core Worker 18682;pid=18682
+[1582269899] wproc: Registry request: name=Core Worker 18683;pid=18683
+[1582269899] wproc: Registry request: name=Core Worker 18681;pid=18681
+[1582269899] wproc: Registry request: name=Core Worker 18688;pid=18688
+[1582269899] wproc: Registry request: name=Core Worker 18687;pid=18687
+[1582269899] wproc: Registry request: name=Core Worker 18689;pid=18689
+[1582269899] wproc: Registry request: name=Core Worker 18690;pid=18690
+[1582269899] wproc: Registry request: name=Core Worker 18691;pid=18691
+[1582269899] wproc: Registry request: name=Core Worker 18692;pid=18692
+[1582269899] wproc: Registry request: name=Core Worker 18693;pid=18693
+[1582269899] wproc: Registry request: name=Core Worker 18695;pid=18695
+[1582269899] wproc: Registry request: name=Core Worker 18694;pid=18694
+[1582269899] wproc: Registry request: name=Core Worker 18696;pid=18696
+[1582269899] wproc: Registry request: name=Core Worker 18700;pid=18700
+[1582269899] wproc: Registry request: name=Core Worker 18699;pid=18699
+[1582269899] wproc: Registry request: name=Core Worker 18701;pid=18701
+[1582269899] wproc: Registry request: name=Core Worker 18698;pid=18698
+[1582269899] wproc: Registry request: name=Core Worker 18697;pid=18697
+[1582269899] SERVICE FLAPPING ALERT: vapps-100;Current Load;STARTED; Service appears to have started flapping (25.1% change >= 20.0% threshold)
+[1582269899] Successfully launched command file worker with pid 18703
+[1582270243] Caught SIGTERM, shutting down...
+[1582270243] Caught SIGTERM, shutting down...
+[1582270243] Successfully shutdown... (PID=18675)
+[1582270243] Nagios 4.4.5 starting... (PID=19798)
+[1582270243] Local time is Thu Feb 20 23:30:43 PST 2020
+[1582270243] LOG VERSION: 2.0
+[1582270243] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1582270243] qh: core query handler registered
+[1582270243] qh: echo service query handler registered
+[1582270243] qh: help for the query handler registered
+[1582270243] wproc: Successfully registered manager as @wproc with query handler
+[1582270243] wproc: Registry request: name=Core Worker 19800;pid=19800
+[1582270243] wproc: Registry request: name=Core Worker 19802;pid=19802
+[1582270243] wproc: Registry request: name=Core Worker 19809;pid=19809
+[1582270243] wproc: Registry request: name=Core Worker 19812;pid=19812
+[1582270243] wproc: Registry request: name=Core Worker 19806;pid=19806
+[1582270243] wproc: Registry request: name=Core Worker 19803;pid=19803
+[1582270243] wproc: Registry request: name=Core Worker 19811;pid=19811
+[1582270243] wproc: Registry request: name=Core Worker 19801;pid=19801
+[1582270243] wproc: Registry request: name=Core Worker 19805;pid=19805
+[1582270243] wproc: Registry request: name=Core Worker 19804;pid=19804
+[1582270243] wproc: Registry request: name=Core Worker 19815;pid=19815
+[1582270243] wproc: Registry request: name=Core Worker 19807;pid=19807
+[1582270243] wproc: Registry request: name=Core Worker 19810;pid=19810
+[1582270243] wproc: Registry request: name=Core Worker 19813;pid=19813
+[1582270243] wproc: Registry request: name=Core Worker 19818;pid=19818
+[1582270243] wproc: Registry request: name=Core Worker 19821;pid=19821
+[1582270243] wproc: Registry request: name=Core Worker 19823;pid=19823
+[1582270243] wproc: Registry request: name=Core Worker 19808;pid=19808
+[1582270243] wproc: Registry request: name=Core Worker 19814;pid=19814
+[1582270243] wproc: Registry request: name=Core Worker 19816;pid=19816
+[1582270243] wproc: Registry request: name=Core Worker 19817;pid=19817
+[1582270243] wproc: Registry request: name=Core Worker 19819;pid=19819
+[1582270243] wproc: Registry request: name=Core Worker 19820;pid=19820
+[1582270243] wproc: Registry request: name=Core Worker 19822;pid=19822
+[1582270243] SERVICE FLAPPING ALERT: vapps-100;Current Load;STARTED; Service appears to have started flapping (24.4% change >= 20.0% threshold)
+[1582270243] Successfully launched command file worker with pid 19824
+[1582270255] SERVICE ALERT: vonly-backup;Total Processes;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270270] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vonly-backup;/media/data Partition;1582270275
+[1582270275] SERVICE ALERT: vonly-backup;/media/data Partition;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270312] SERVICE ALERT: vonly-backup;PING;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270315] SERVICE ALERT: vonly-backup;Total Processes;CRITICAL;SOFT;2;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270335] SERVICE ALERT: vonly-backup;/media/data Partition;CRITICAL;SOFT;2;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270344] SERVICE ALERT: vonly-backup;Root Partition;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270372] SERVICE ALERT: vonly-backup;PING;CRITICAL;SOFT;2;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270375] SERVICE ALERT: vonly-backup;Total Processes;CRITICAL;SOFT;3;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270395] SERVICE ALERT: vonly-backup;/media/data Partition;CRITICAL;SOFT;3;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270404] SERVICE ALERT: vonly-backup;Root Partition;CRITICAL;SOFT;2;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270411] SERVICE ALERT: vonly-backup;Swap Usage;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270432] SERVICE ALERT: vonly-backup;PING;CRITICAL;SOFT;3;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270435] SERVICE NOTIFICATION: jatin;vonly-backup;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270435] SERVICE NOTIFICATION: atul;vonly-backup;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270435] SERVICE ALERT: vonly-backup;Total Processes;CRITICAL;HARD;4;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270455] SERVICE NOTIFICATION: jatin;vonly-backup;/media/data Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270455] SERVICE NOTIFICATION: atul;vonly-backup;/media/data Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270455] SERVICE ALERT: vonly-backup;/media/data Partition;CRITICAL;HARD;4;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270464] SERVICE ALERT: vonly-backup;Root Partition;CRITICAL;SOFT;3;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270469] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270471] SERVICE ALERT: vonly-backup;Swap Usage;CRITICAL;SOFT;2;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270473] SERVICE ALERT: vonly-backup;Current Users;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270492] SERVICE NOTIFICATION: jatin;vonly-backup;PING;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270492] SERVICE NOTIFICATION: atul;vonly-backup;PING;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270492] SERVICE ALERT: vonly-backup;PING;CRITICAL;HARD;4;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270524] SERVICE NOTIFICATION: jatin;vonly-backup;Root Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270524] SERVICE NOTIFICATION: atul;vonly-backup;Root Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270524] SERVICE ALERT: vonly-backup;Root Partition;CRITICAL;HARD;4;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270529] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;SOFT;2;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270531] SERVICE ALERT: vonly-backup;Swap Usage;CRITICAL;SOFT;3;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270533] SERVICE ALERT: vonly-backup;Current Users;CRITICAL;SOFT;2;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270589] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;SOFT;3;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270591] SERVICE NOTIFICATION: jatin;vonly-backup;Swap Usage;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270591] SERVICE NOTIFICATION: atul;vonly-backup;Swap Usage;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270591] SERVICE ALERT: vonly-backup;Swap Usage;CRITICAL;HARD;4;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270593] SERVICE ALERT: vonly-backup;Current Users;CRITICAL;SOFT;3;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270649] SERVICE NOTIFICATION: jatin;vonly-backup;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270649] SERVICE NOTIFICATION: atul;vonly-backup;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270649] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;HARD;4;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270653] SERVICE NOTIFICATION: jatin;vonly-backup;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270653] SERVICE NOTIFICATION: atul;vonly-backup;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270653] SERVICE ALERT: vonly-backup;Current Users;CRITICAL;HARD;4;CHECK_NRPE: Error - Could not complete SSL handshake.
+[1582270733] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vonly-backup;/media/data Partition;1582270723
+[1582270767] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vonly-backup;/media/data Partition;1582270772
+[1582271081] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vonly-backup;/media/data Partition;1582271087
+[1582271136] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vonly-backup;/media/data Partition;1582271140
+[1582271175] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vonly-backup;/media/data Partition;1582271180
+[1582271205] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vonly-backup;/media/data Partition;1582271215
+[1582271329] Caught SIGTERM, shutting down...
+[1582271329] Caught SIGTERM, shutting down...
+[1582271329] Successfully shutdown... (PID=19798)
+[1582271329] Nagios 4.4.5 starting... (PID=30984)
+[1582271329] Local time is Thu Feb 20 23:48:49 PST 2020
+[1582271329] LOG VERSION: 2.0
+[1582271329] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1582271329] qh: core query handler registered
+[1582271329] qh: echo service query handler registered
+[1582271329] qh: help for the query handler registered
+[1582271329] wproc: Successfully registered manager as @wproc with query handler
+[1582271329] wproc: Registry request: name=Core Worker 30986;pid=30986
+[1582271329] wproc: Registry request: name=Core Worker 30987;pid=30987
+[1582271329] wproc: Registry request: name=Core Worker 30988;pid=30988
+[1582271329] wproc: Registry request: name=Core Worker 30991;pid=30991
+[1582271329] wproc: Registry request: name=Core Worker 30989;pid=30989
+[1582271329] wproc: Registry request: name=Core Worker 30990;pid=30990
+[1582271329] wproc: Registry request: name=Core Worker 30993;pid=30993
+[1582271329] wproc: Registry request: name=Core Worker 30997;pid=30997
+[1582271329] wproc: Registry request: name=Core Worker 30994;pid=30994
+[1582271329] wproc: Registry request: name=Core Worker 31000;pid=31000
+[1582271329] wproc: Registry request: name=Core Worker 31007;pid=31007
+[1582271329] wproc: Registry request: name=Core Worker 31009;pid=31009
+[1582271329] wproc: Registry request: name=Core Worker 31003;pid=31003
+[1582271329] wproc: Registry request: name=Core Worker 31005;pid=31005
+[1582271329] wproc: Registry request: name=Core Worker 31010;pid=31010
+[1582271329] wproc: Registry request: name=Core Worker 30992;pid=30992
+[1582271329] wproc: Registry request: name=Core Worker 30995;pid=30995
+[1582271329] wproc: Registry request: name=Core Worker 30996;pid=30996
+[1582271329] wproc: Registry request: name=Core Worker 31008;pid=31008
+[1582271329] wproc: Registry request: name=Core Worker 31006;pid=31006
+[1582271329] wproc: Registry request: name=Core Worker 31001;pid=31001
+[1582271329] wproc: Registry request: name=Core Worker 31004;pid=31004
+[1582271329] wproc: Registry request: name=Core Worker 31002;pid=31002
+[1582271329] wproc: Registry request: name=Core Worker 30998;pid=30998
+[1582271329] Successfully launched command file worker with pid 31012
+[1582271392] SERVICE NOTIFICATION: jatin;vonly-backup;PING;UNKNOWN;notify-service-by-email;NRPE: Command 'check_ping' not defined
+[1582271392] SERVICE NOTIFICATION: atul;vonly-backup;PING;UNKNOWN;notify-service-by-email;NRPE: Command 'check_ping' not defined
+[1582271392] SERVICE ALERT: vonly-backup;PING;UNKNOWN;HARD;4;NRPE: Command 'check_ping' not defined
+[1582271421] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vonly-backup;Current Users;1582271426
+[1582271424] SERVICE NOTIFICATION: jatin;vonly-backup;Root Partition;UNKNOWN;notify-service-by-email;NRPE: Command 'check_disk' not defined
+[1582271424] SERVICE NOTIFICATION: atul;vonly-backup;Root Partition;UNKNOWN;notify-service-by-email;NRPE: Command 'check_disk' not defined
+[1582271424] SERVICE ALERT: vonly-backup;Root Partition;UNKNOWN;HARD;4;NRPE: Command 'check_disk' not defined
+[1582271426] SERVICE NOTIFICATION: jatin;vonly-backup;Current Users;OK;notify-service-by-email;USERS OK - 1 users currently logged in
+[1582271426] SERVICE NOTIFICATION: atul;vonly-backup;Current Users;OK;notify-service-by-email;USERS OK - 1 users currently logged in
+[1582271426] SERVICE ALERT: vonly-backup;Current Users;OK;HARD;4;USERS OK - 1 users currently logged in
+[1582271491] SERVICE NOTIFICATION: jatin;vonly-backup;Swap Usage;UNKNOWN;notify-service-by-email;NRPE: Command 'check_swap' not defined
+[1582271491] SERVICE NOTIFICATION: atul;vonly-backup;Swap Usage;UNKNOWN;notify-service-by-email;NRPE: Command 'check_swap' not defined
+[1582271491] SERVICE ALERT: vonly-backup;Swap Usage;UNKNOWN;HARD;4;NRPE: Command 'check_swap' not defined
+[1582271515] SERVICE NOTIFICATION: jatin;vonly-backup;/media/data Partition;UNKNOWN;notify-service-by-email;NRPE: Command 'check_volume' not defined
+[1582271515] SERVICE NOTIFICATION: atul;vonly-backup;/media/data Partition;UNKNOWN;notify-service-by-email;NRPE: Command 'check_volume' not defined
+[1582271515] SERVICE ALERT: vonly-backup;/media/data Partition;UNKNOWN;HARD;4;NRPE: Command 'check_volume' not defined
+[1582271527] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vonly-backup;/media/data Partition;1582271533
+[1582271536] SERVICE NOTIFICATION: nagiosadmin;WINV-108;C:\ Drive Space;WARNING;notify-service-by-email;c:\ - total: 67.89 Gb - used: 55.07 Gb (81%) - free 12.81 Gb (19%)
+[1582271541] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vonly-backup;Current Load;1582271547
+[1582271547] SERVICE NOTIFICATION: jatin;vonly-backup;Current Load;OK;notify-service-by-email;OK - load average per CPU: 0.02, 0.04, 0.04
+[1582271547] SERVICE NOTIFICATION: atul;vonly-backup;Current Load;OK;notify-service-by-email;OK - load average per CPU: 0.02, 0.04, 0.04
+[1582271547] SERVICE ALERT: vonly-backup;Current Load;OK;HARD;4;OK - load average per CPU: 0.02, 0.04, 0.04
+[1582271950] Caught SIGTERM, shutting down...
+[1582271950] Caught SIGTERM, shutting down...
+[1582271950] Successfully shutdown... (PID=30984)
+[1582271950] Nagios 4.4.5 starting... (PID=548)
+[1582271950] Local time is Thu Feb 20 23:59:10 PST 2020
+[1582271950] LOG VERSION: 2.0
+[1582271950] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1582271950] qh: core query handler registered
+[1582271950] qh: echo service query handler registered
+[1582271950] qh: help for the query handler registered
+[1582271950] wproc: Successfully registered manager as @wproc with query handler
+[1582271950] wproc: Registry request: name=Core Worker 550;pid=550
+[1582271950] wproc: Registry request: name=Core Worker 553;pid=553
+[1582271950] wproc: Registry request: name=Core Worker 554;pid=554
+[1582271950] wproc: Registry request: name=Core Worker 551;pid=551
+[1582271950] wproc: Registry request: name=Core Worker 555;pid=555
+[1582271950] wproc: Registry request: name=Core Worker 568;pid=568
+[1582271950] wproc: Registry request: name=Core Worker 567;pid=567
+[1582271950] wproc: Registry request: name=Core Worker 566;pid=566
+[1582271950] wproc: Registry request: name=Core Worker 557;pid=557
+[1582271950] wproc: Registry request: name=Core Worker 569;pid=569
+[1582271950] wproc: Registry request: name=Core Worker 552;pid=552
+[1582271950] wproc: Registry request: name=Core Worker 558;pid=558
+[1582271950] wproc: Registry request: name=Core Worker 556;pid=556
+[1582271950] wproc: Registry request: name=Core Worker 571;pid=571
+[1582271950] wproc: Registry request: name=Core Worker 572;pid=572
+[1582271950] wproc: Registry request: name=Core Worker 563;pid=563
+[1582271950] wproc: Registry request: name=Core Worker 565;pid=565
+[1582271950] wproc: Registry request: name=Core Worker 570;pid=570
+[1582271950] wproc: Registry request: name=Core Worker 573;pid=573
+[1582271950] wproc: Registry request: name=Core Worker 564;pid=564
+[1582271950] wproc: Registry request: name=Core Worker 560;pid=560
+[1582271950] wproc: Registry request: name=Core Worker 559;pid=559
+[1582271950] wproc: Registry request: name=Core Worker 562;pid=562
+[1582271950] wproc: Registry request: name=Core Worker 561;pid=561
+[1582271950] Successfully launched command file worker with pid 574
+[1582271975] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vonly-backup;/media/data Partition;1582271978
+[1582272679] Caught SIGTERM, shutting down...

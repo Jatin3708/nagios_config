@@ -1,0 +1,86 @@
+[1580025600] LOG ROTATION: DAILY
+[1580025600] LOG VERSION: 2.0
+[1580025600] CURRENT HOST STATE: vdb-101;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1580025600] CURRENT HOST STATE: vdb-102;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1580025600] CURRENT HOST STATE: vdb-103;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.36 ms
+[1580025600] CURRENT HOST STATE: vonly-backup;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1580025600] CURRENT SERVICE STATE: vdb-101;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 88% capacity, 3.0T of 3.6T
+[1580025600] CURRENT SERVICE STATE: vdb-101;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1580025600] CURRENT SERVICE STATE: vdb-101;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1580025600] CURRENT SERVICE STATE: vdb-101;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1580025600] CURRENT SERVICE STATE: vdb-101;Root Partition;OK;HARD;1;/ is at 11% capacity, 19G of 183G
+[1580025600] CURRENT SERVICE STATE: vdb-101;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.4 (protocol 2.0)
+[1580025600] CURRENT SERVICE STATE: vdb-101;Swap Usage;CRITICAL;HARD;4;SWAP CRITICAL - 0% free (0 MB out of 975 MB)
+[1580025600] CURRENT SERVICE STATE: vdb-101;Total Processes;OK;HARD;1;PROCS OK: 149 processes with STATE = RSZDT
+[1580025600] CURRENT SERVICE STATE: vdb-102;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 86% capacity, 3.0T of 3.7T
+[1580025600] CURRENT SERVICE STATE: vdb-102;Current Load;OK;HARD;1;OK - load average: 0.10, 0.08, 0.09
+[1580025600] CURRENT SERVICE STATE: vdb-102;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1580025600] CURRENT SERVICE STATE: vdb-102;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1580025600] CURRENT SERVICE STATE: vdb-102;Root Partition;OK;HARD;1;/ is at 11% capacity, 9.4G of 91G
+[1580025600] CURRENT SERVICE STATE: vdb-102;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.6 (protocol 2.0)
+[1580025600] CURRENT SERVICE STATE: vdb-102;Swap Usage;CRITICAL;HARD;4;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1580025600] CURRENT SERVICE STATE: vdb-102;Total Processes;OK;HARD;1;PROCS OK: 151 processes with STATE = RSZDT
+[1580025600] CURRENT SERVICE STATE: vdb-103;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 67% capacity, 4.6T of 7.3T
+[1580025600] CURRENT SERVICE STATE: vdb-103;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1580025600] CURRENT SERVICE STATE: vdb-103;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1580025600] CURRENT SERVICE STATE: vdb-103;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1580025600] CURRENT SERVICE STATE: vdb-103;Root Partition;OK;HARD;1;/ is at 32% capacity, 138G of 457G
+[1580025600] CURRENT SERVICE STATE: vdb-103;SSH;OK;HARD;1;SSH OK - OpenSSH_7.6p1 Ubuntu-4ubuntu0.2 (protocol 2.0)
+[1580025600] CURRENT SERVICE STATE: vdb-103;Swap Usage;OK;HARD;1;SWAP OK - 93% free (1892 MB out of 2047 MB)
+[1580025600] CURRENT SERVICE STATE: vdb-103;Total Processes;OK;HARD;1;PROCS OK: 180 processes with STATE = RSZDT
+[1580025600] CURRENT SERVICE STATE: vonly-backup;Current Load;OK;HARD;1;OK - load average: 0.17, 0.14, 0.09
+[1580025600] CURRENT SERVICE STATE: vonly-backup;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1580025600] CURRENT SERVICE STATE: vonly-backup;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 11595 bytes in 0.001 second response time
+[1580025600] CURRENT SERVICE STATE: vonly-backup;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1580025600] CURRENT SERVICE STATE: vonly-backup;Root Partition;OK;HARD;1;/ is at 51% capacity, 107G of 220G
+[1580025600] CURRENT SERVICE STATE: vonly-backup;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.8 (protocol 2.0)
+[1580025600] CURRENT SERVICE STATE: vonly-backup;Swap Usage;OK;HARD;1;SWAP OK - 94% free (53485 MB out of 57111 MB)
+[1580025600] CURRENT SERVICE STATE: vonly-backup;Total Processes;OK;HARD;1;PROCS OK: 233 processes with STATE = RSZDT
+[1580026651] Auto-save of retention data completed successfully.
+[1580027375] SERVICE NOTIFICATION: jatin;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 975 MB)
+[1580027375] SERVICE NOTIFICATION: atul;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 975 MB)
+[1580030251] Auto-save of retention data completed successfully.
+[1580033662] SERVICE NOTIFICATION: jatin;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (1 MB out of 975 MB)
+[1580033662] SERVICE NOTIFICATION: atul;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (1 MB out of 975 MB)
+[1580033851] Auto-save of retention data completed successfully.
+[1580037451] Auto-save of retention data completed successfully.
+[1580041052] Auto-save of retention data completed successfully.
+[1580041775] SERVICE NOTIFICATION: jatin;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 975 MB)
+[1580041775] SERVICE NOTIFICATION: atul;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 975 MB)
+[1580044652] Auto-save of retention data completed successfully.
+[1580048062] SERVICE NOTIFICATION: jatin;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1580048062] SERVICE NOTIFICATION: atul;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1580048252] Auto-save of retention data completed successfully.
+[1580051851] Auto-save of retention data completed successfully.
+[1580055451] Auto-save of retention data completed successfully.
+[1580056175] SERVICE NOTIFICATION: jatin;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 975 MB)
+[1580056175] SERVICE NOTIFICATION: atul;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 975 MB)
+[1580059051] Auto-save of retention data completed successfully.
+[1580062462] SERVICE NOTIFICATION: jatin;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (1 MB out of 975 MB)
+[1580062462] SERVICE NOTIFICATION: atul;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (1 MB out of 975 MB)
+[1580062652] Auto-save of retention data completed successfully.
+[1580066251] Auto-save of retention data completed successfully.
+[1580069851] Auto-save of retention data completed successfully.
+[1580070575] SERVICE NOTIFICATION: jatin;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1580070575] SERVICE NOTIFICATION: atul;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1580073451] Auto-save of retention data completed successfully.
+[1580076862] SERVICE NOTIFICATION: jatin;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1580076862] SERVICE NOTIFICATION: atul;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1580077051] Auto-save of retention data completed successfully.
+[1580080651] Auto-save of retention data completed successfully.
+[1580084252] Auto-save of retention data completed successfully.
+[1580084975] SERVICE NOTIFICATION: jatin;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 975 MB)
+[1580084975] SERVICE NOTIFICATION: atul;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 0% free (0 MB out of 975 MB)
+[1580087851] Auto-save of retention data completed successfully.
+[1580091263] SERVICE NOTIFICATION: jatin;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1580091263] SERVICE NOTIFICATION: atul;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1580091451] Auto-save of retention data completed successfully.
+[1580095051] Auto-save of retention data completed successfully.
+[1580098652] Auto-save of retention data completed successfully.
+[1580099376] SERVICE NOTIFICATION: jatin;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1580099376] SERVICE NOTIFICATION: atul;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1580102251] Auto-save of retention data completed successfully.
+[1580105663] SERVICE NOTIFICATION: jatin;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1580105663] SERVICE NOTIFICATION: atul;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1580105851] Auto-save of retention data completed successfully.
+[1580109451] Auto-save of retention data completed successfully.

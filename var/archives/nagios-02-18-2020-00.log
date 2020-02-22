@@ -1,0 +1,113 @@
+[1581926400] LOG ROTATION: DAILY
+[1581926400] LOG VERSION: 2.0
+[1581926400] CURRENT HOST STATE: vdb-100;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1581926400] CURRENT HOST STATE: vdb-101;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.27 ms
+[1581926400] CURRENT HOST STATE: vdb-103;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.67 ms
+[1581926400] CURRENT HOST STATE: vdb-staging;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1581926400] CURRENT HOST STATE: vonly-backup;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1581926400] CURRENT HOST STATE: vonly-database;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1581926400] CURRENT HOST STATE: vonly-replica;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1581926400] CURRENT SERVICE STATE: vdb-100;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 74% capacity, 2.6T of 3.7T
+[1581926400] CURRENT SERVICE STATE: vdb-100;Current Load;OK;HARD;1;OK - load average: 2.88, 2.58, 2.52
+[1581926400] CURRENT SERVICE STATE: vdb-100;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1581926400] CURRENT SERVICE STATE: vdb-100;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1581926400] CURRENT SERVICE STATE: vdb-100;Root Partition;OK;HARD;1;/ is at 35% capacity, 30G of 91G
+[1581926400] CURRENT SERVICE STATE: vdb-100;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.6 (protocol 2.0)
+[1581926400] CURRENT SERVICE STATE: vdb-100;Swap Usage;OK;HARD;1;SWAP OK - 95% free (20379 MB out of 21455 MB)
+[1581926400] CURRENT SERVICE STATE: vdb-100;Total Processes;OK;HARD;1;PROCS OK: 177 processes with STATE = RSZDT
+[1581926400] CURRENT SERVICE STATE: vdb-101;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 89% capacity, 3.1T of 3.6T
+[1581926400] CURRENT SERVICE STATE: vdb-101;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1581926400] CURRENT SERVICE STATE: vdb-101;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1581926400] CURRENT SERVICE STATE: vdb-101;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1581926400] CURRENT SERVICE STATE: vdb-101;Root Partition;OK;HARD;1;/ is at 25% capacity, 42G of 183G
+[1581926400] CURRENT SERVICE STATE: vdb-101;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.4 (protocol 2.0)
+[1581926400] CURRENT SERVICE STATE: vdb-101;Swap Usage;OK;HARD;1;SWAP OK - 81% free (17184 MB out of 21455 MB)
+[1581926400] CURRENT SERVICE STATE: vdb-101;Total Processes;OK;HARD;1;PROCS OK: 150 processes with STATE = RSZDT
+[1581926400] CURRENT SERVICE STATE: vdb-103;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 65% capacity, 4.5T of 7.3T
+[1581926400] CURRENT SERVICE STATE: vdb-103;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1581926400] CURRENT SERVICE STATE: vdb-103;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1581926400] CURRENT SERVICE STATE: vdb-103;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1581926400] CURRENT SERVICE STATE: vdb-103;Root Partition;OK;HARD;1;/ is at 60% capacity, 259G of 457G
+[1581926400] CURRENT SERVICE STATE: vdb-103;SSH;OK;HARD;1;SSH OK - OpenSSH_7.6p1 Ubuntu-4ubuntu0.2 (protocol 2.0)
+[1581926400] CURRENT SERVICE STATE: vdb-103;Swap Usage;OK;HARD;1;SWAP OK - 93% free (1889 MB out of 2047 MB)
+[1581926400] CURRENT SERVICE STATE: vdb-103;Total Processes;OK;HARD;1;PROCS OK: 180 processes with STATE = RSZDT
+[1581926400] CURRENT SERVICE STATE: vdb-staging;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 79% capacity, 6.8T of 9.1T
+[1581926400] CURRENT SERVICE STATE: vdb-staging;Current Load;OK;HARD;1;OK - load average: 1.57, 1.86, 2.16
+[1581926400] CURRENT SERVICE STATE: vdb-staging;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1581926400] CURRENT SERVICE STATE: vdb-staging;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1581926400] CURRENT SERVICE STATE: vdb-staging;Root Partition;OK;HARD;1;/ is at 6% capacity, 102G of 1.8T
+[1581926400] CURRENT SERVICE STATE: vdb-staging;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.4 (protocol 2.0)
+[1581926400] CURRENT SERVICE STATE: vdb-staging;Swap Usage;OK;HARD;1;SWAP OK - 94% free (96799 MB out of 103375 MB)
+[1581926400] CURRENT SERVICE STATE: vdb-staging;Total Processes;OK;HARD;1;PROCS OK: 146 processes with STATE = RSZDT
+[1581926400] CURRENT SERVICE STATE: vonly-backup;Current Load;OK;HARD;1;OK - load average: 2.14, 1.64, 1.32
+[1581926400] CURRENT SERVICE STATE: vonly-backup;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1581926400] CURRENT SERVICE STATE: vonly-backup;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 11595 bytes in 0.001 second response time
+[1581926400] CURRENT SERVICE STATE: vonly-backup;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1581926400] CURRENT SERVICE STATE: vonly-backup;Root Partition;OK;HARD;1;/ is at 51% capacity, 107G of 220G
+[1581926400] CURRENT SERVICE STATE: vonly-backup;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.8 (protocol 2.0)
+[1581926400] CURRENT SERVICE STATE: vonly-backup;Swap Usage;OK;HARD;1;SWAP OK - 94% free (53641 MB out of 57111 MB)
+[1581926400] CURRENT SERVICE STATE: vonly-backup;Total Processes;OK;HARD;1;PROCS OK: 242 processes with STATE = RSZDT
+[1581926400] CURRENT SERVICE STATE: vonly-database;/media/data Partition;OK;HARD;1;/media/data is at 84% capacity, 2.9T of 3.6T
+[1581926400] CURRENT SERVICE STATE: vonly-database;Current Load;OK;HARD;1;OK - load average: 0.00, 0.01, 0.05
+[1581926400] CURRENT SERVICE STATE: vonly-database;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1581926400] CURRENT SERVICE STATE: vonly-database;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.03 ms
+[1581926400] CURRENT SERVICE STATE: vonly-database;Root Partition;OK;HARD;1;/ is at 67% capacity, 140G of 220G
+[1581926400] CURRENT SERVICE STATE: vonly-database;SSH;OK;HARD;1;SSH OK - OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.8 (protocol 2.0)
+[1581926400] CURRENT SERVICE STATE: vonly-database;Swap Usage;OK;HARD;1;SWAP OK - 96% free (54438 MB out of 57111 MB)
+[1581926400] CURRENT SERVICE STATE: vonly-database;Total Processes;OK;HARD;1;PROCS OK: 201 processes with STATE = RSZDT
+[1581926400] CURRENT SERVICE STATE: vonly-replica;/media/data Partition;OK;HARD;1;/media/data is at 44% capacity, 3.0T of 7.3T
+[1581926400] CURRENT SERVICE STATE: vonly-replica;Current Load;OK;HARD;1;OK - load average: 0.64, 0.62, 0.55
+[1581926400] CURRENT SERVICE STATE: vonly-replica;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1581926400] CURRENT SERVICE STATE: vonly-replica;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1581926400] CURRENT SERVICE STATE: vonly-replica;Root Partition;OK;HARD;1;/ is at 32% capacity, 32G of 108G
+[1581926400] CURRENT SERVICE STATE: vonly-replica;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.2 (protocol 2.0)
+[1581926400] CURRENT SERVICE STATE: vonly-replica;Swap Usage;OK;HARD;1;SWAP OK - 98% free (27188 MB out of 27876 MB)
+[1581926400] CURRENT SERVICE STATE: vonly-replica;Total Processes;OK;HARD;1;PROCS OK: 91 processes with STATE = RSZDT
+[1581926600] Auto-save of retention data completed successfully.
+[1581930200] Auto-save of retention data completed successfully.
+[1581933800] Auto-save of retention data completed successfully.
+[1581937400] Auto-save of retention data completed successfully.
+[1581941001] Auto-save of retention data completed successfully.
+[1581944601] Auto-save of retention data completed successfully.
+[1581945422] SERVICE ALERT: vonly-backup;Current Load;CRITICAL;SOFT;1;CRITICAL - load average: 10.88, 4.72, 3.07
+[1581945482] SERVICE ALERT: vonly-backup;Current Load;OK;SOFT;2;OK - load average: 6.85, 4.78, 3.21
+[1581947523] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;1;WARNING - load average: 9.93, 8.49, 5.92
+[1581947583] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;2;WARNING - load average: 10.80, 8.99, 6.25
+[1581947643] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;3;WARNING - load average: 10.91, 9.38, 6.56
+[1581947703] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 10.19, 9.47, 6.77
+[1581947703] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 10.19, 9.47, 6.77
+[1581947703] SERVICE ALERT: vonly-replica;Current Load;WARNING;HARD;4;WARNING - load average: 10.19, 9.47, 6.77
+[1581948200] Auto-save of retention data completed successfully.
+[1581951801] Auto-save of retention data completed successfully.
+[1581955400] Auto-save of retention data completed successfully.
+[1581959001] Auto-save of retention data completed successfully.
+[1581962103] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 4.35, 4.61, 4.91
+[1581962103] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 4.35, 4.61, 4.91
+[1581962103] SERVICE ALERT: vonly-replica;Current Load;OK;HARD;4;OK - load average: 4.35, 4.61, 4.91
+[1581962600] Auto-save of retention data completed successfully.
+[1581966201] Auto-save of retention data completed successfully.
+[1581969800] Auto-save of retention data completed successfully.
+[1581973401] Auto-save of retention data completed successfully.
+[1581977001] Auto-save of retention data completed successfully.
+[1581980601] Auto-save of retention data completed successfully.
+[1581984200] Auto-save of retention data completed successfully.
+[1581987800] Auto-save of retention data completed successfully.
+[1581988203] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;1;WARNING - load average: 6.87, 5.97, 5.07
+[1581988263] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;2;WARNING - load average: 7.17, 6.20, 5.21
+[1581988323] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;3;WARNING - load average: 7.67, 6.52, 5.38
+[1581988383] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 7.06, 6.57, 5.48
+[1581988383] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 7.06, 6.57, 5.48
+[1581988383] SERVICE ALERT: vonly-replica;Current Load;WARNING;HARD;4;WARNING - load average: 7.06, 6.57, 5.48
+[1581991083] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 4.61, 4.79, 4.97
+[1581991083] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 4.61, 4.79, 4.97
+[1581991083] SERVICE ALERT: vonly-replica;Current Load;OK;HARD;4;OK - load average: 4.61, 4.79, 4.97
+[1581991383] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;1;WARNING - load average: 5.45, 5.13, 5.06
+[1581991401] Auto-save of retention data completed successfully.
+[1581991443] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;2;WARNING - load average: 5.24, 5.14, 5.07
+[1581991503] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;3;WARNING - load average: 4.71, 5.01, 5.03
+[1581991563] SERVICE ALERT: vonly-replica;Current Load;OK;HARD;4;OK - load average: 4.63, 4.92, 5.00
+[1581995001] Auto-save of retention data completed successfully.
+[1581998600] Auto-save of retention data completed successfully.
+[1582002200] Auto-save of retention data completed successfully.
+[1582005801] Auto-save of retention data completed successfully.
+[1582009400] Auto-save of retention data completed successfully.

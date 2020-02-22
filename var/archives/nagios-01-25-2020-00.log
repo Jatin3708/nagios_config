@@ -1,0 +1,270 @@
+[1579852800] LOG ROTATION: DAILY
+[1579852800] LOG VERSION: 2.0
+[1579852800] CURRENT HOST STATE: vdb-101;DOWN;HARD;10;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579852800] CURRENT HOST STATE: vdb-102;DOWN;HARD;10;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579852800] CURRENT HOST STATE: vdb-103;DOWN;HARD;10;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579852800] CURRENT HOST STATE: vonly-backup;DOWN;HARD;10;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579852800] CURRENT SERVICE STATE: vdb-101;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 88% capacity, 3.0T of 3.6T
+[1579852800] CURRENT SERVICE STATE: vdb-101;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1579852800] CURRENT SERVICE STATE: vdb-101;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1579852800] CURRENT SERVICE STATE: vdb-101;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1579852800] CURRENT SERVICE STATE: vdb-101;Root Partition;OK;HARD;1;/ is at 11% capacity, 19G of 183G
+[1579852800] CURRENT SERVICE STATE: vdb-101;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.4 (protocol 2.0)
+[1579852800] CURRENT SERVICE STATE: vdb-101;Swap Usage;CRITICAL;HARD;4;SWAP CRITICAL - 3% free (25 MB out of 975 MB)
+[1579852800] CURRENT SERVICE STATE: vdb-101;Total Processes;OK;HARD;1;PROCS OK: 149 processes with STATE = RSZDT
+[1579852800] CURRENT SERVICE STATE: vdb-102;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 86% capacity, 3.0T of 3.7T
+[1579852800] CURRENT SERVICE STATE: vdb-102;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1579852800] CURRENT SERVICE STATE: vdb-102;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1579852800] CURRENT SERVICE STATE: vdb-102;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1579852800] CURRENT SERVICE STATE: vdb-102;Root Partition;OK;HARD;1;/ is at 11% capacity, 9.4G of 91G
+[1579852800] CURRENT SERVICE STATE: vdb-102;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.6 (protocol 2.0)
+[1579852800] CURRENT SERVICE STATE: vdb-102;Swap Usage;CRITICAL;HARD;4;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1579852800] CURRENT SERVICE STATE: vdb-102;Total Processes;OK;HARD;1;PROCS OK: 151 processes with STATE = RSZDT
+[1579852800] CURRENT SERVICE STATE: vdb-103;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 67% capacity, 4.6T of 7.3T
+[1579852800] CURRENT SERVICE STATE: vdb-103;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1579852800] CURRENT SERVICE STATE: vdb-103;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1579852800] CURRENT SERVICE STATE: vdb-103;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1579852800] CURRENT SERVICE STATE: vdb-103;Root Partition;OK;HARD;1;/ is at 30% capacity, 127G of 457G
+[1579852800] CURRENT SERVICE STATE: vdb-103;SSH;OK;HARD;1;SSH OK - OpenSSH_7.6p1 Ubuntu-4ubuntu0.2 (protocol 2.0)
+[1579852800] CURRENT SERVICE STATE: vdb-103;Swap Usage;WARNING;HARD;4;SWAP WARNING - 93% free (1892 MB out of 2047 MB)
+[1579852800] CURRENT SERVICE STATE: vdb-103;Total Processes;OK;HARD;1;PROCS OK: 180 processes with STATE = RSZDT
+[1579852800] CURRENT SERVICE STATE: vonly-backup;Current Load;OK;HARD;1;OK - load average: 0.04, 0.20, 0.20
+[1579852800] CURRENT SERVICE STATE: vonly-backup;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1579852800] CURRENT SERVICE STATE: vonly-backup;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 11595 bytes in 0.001 second response time
+[1579852800] CURRENT SERVICE STATE: vonly-backup;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1579852800] CURRENT SERVICE STATE: vonly-backup;Root Partition;OK;HARD;1;/ is at 51% capacity, 107G of 220G
+[1579852800] CURRENT SERVICE STATE: vonly-backup;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.8 (protocol 2.0)
+[1579852800] CURRENT SERVICE STATE: vonly-backup;Swap Usage;OK;HARD;1;SWAP OK - 94% free (53229 MB out of 57111 MB)
+[1579852800] CURRENT SERVICE STATE: vonly-backup;Total Processes;OK;HARD;1;PROCS OK: 240 processes with STATE = RSZDT
+[1579852945] Caught SIGTERM, shutting down...
+[1579852945] Successfully shutdown... (PID=4969)
+[1579852945] Nagios 4.4.5 starting... (PID=12449)
+[1579852945] Local time is Fri Jan 24 00:02:25 PST 2020
+[1579852945] LOG VERSION: 2.0
+[1579852945] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579852945] qh: core query handler registered
+[1579852945] qh: echo service query handler registered
+[1579852945] qh: help for the query handler registered
+[1579852945] wproc: Successfully registered manager as @wproc with query handler
+[1579852945] wproc: Registry request: name=Core Worker 12454;pid=12454
+[1579852945] wproc: Registry request: name=Core Worker 12452;pid=12452
+[1579852945] wproc: Registry request: name=Core Worker 12457;pid=12457
+[1579852945] wproc: Registry request: name=Core Worker 12455;pid=12455
+[1579852945] wproc: Registry request: name=Core Worker 12453;pid=12453
+[1579852945] wproc: Registry request: name=Core Worker 12456;pid=12456
+[1579852945] wproc: Registry request: name=Core Worker 12469;pid=12469
+[1579852945] wproc: Registry request: name=Core Worker 12458;pid=12458
+[1579852945] wproc: Registry request: name=Core Worker 12476;pid=12476
+[1579852945] wproc: Registry request: name=Core Worker 12459;pid=12459
+[1579852945] wproc: Registry request: name=Core Worker 12470;pid=12470
+[1579852945] wproc: Registry request: name=Core Worker 12460;pid=12460
+[1579852945] wproc: Registry request: name=Core Worker 12471;pid=12471
+[1579852945] wproc: Registry request: name=Core Worker 12462;pid=12462
+[1579852945] wproc: Registry request: name=Core Worker 12461;pid=12461
+[1579852945] wproc: Registry request: name=Core Worker 12472;pid=12472
+[1579852945] wproc: Registry request: name=Core Worker 12475;pid=12475
+[1579852945] wproc: Registry request: name=Core Worker 12474;pid=12474
+[1579852945] wproc: Registry request: name=Core Worker 12466;pid=12466
+[1579852945] wproc: Registry request: name=Core Worker 12467;pid=12467
+[1579852945] wproc: Registry request: name=Core Worker 12468;pid=12468
+[1579852945] wproc: Registry request: name=Core Worker 12465;pid=12465
+[1579852945] wproc: Registry request: name=Core Worker 12464;pid=12464
+[1579852945] wproc: Registry request: name=Core Worker 12463;pid=12463
+[1579852945] Successfully launched command file worker with pid 12477
+[1579852969] HOST NOTIFICATION: jatin;vdb-102;DOWN;notify-host-by-email;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579852969] HOST NOTIFICATION: atul;vdb-102;DOWN;notify-host-by-email;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579852972] HOST NOTIFICATION: jatin;vdb-101;DOWN;notify-host-by-email;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579852972] HOST NOTIFICATION: atul;vdb-101;DOWN;notify-host-by-email;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579853000] HOST NOTIFICATION: jatin;vdb-103;DOWN;notify-host-by-email;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579853000] HOST NOTIFICATION: atul;vdb-103;DOWN;notify-host-by-email;(No output on stdout) stderr: execvp(/usr/local/nagios/libexec/check_local_ping, ...) failed. errno is 2: No such file or directory
+[1579853338] Caught SIGTERM, shutting down...
+[1579853338] Caught SIGTERM, shutting down...
+[1579853338] Successfully shutdown... (PID=12449)
+[1579853338] Nagios 4.4.5 starting... (PID=13589)
+[1579853338] Local time is Fri Jan 24 00:08:58 PST 2020
+[1579853338] LOG VERSION: 2.0
+[1579853338] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579853338] qh: core query handler registered
+[1579853338] qh: echo service query handler registered
+[1579853338] qh: help for the query handler registered
+[1579853338] wproc: Successfully registered manager as @wproc with query handler
+[1579853338] wproc: Registry request: name=Core Worker 13593;pid=13593
+[1579853338] wproc: Registry request: name=Core Worker 13592;pid=13592
+[1579853338] wproc: Registry request: name=Core Worker 13595;pid=13595
+[1579853338] wproc: Registry request: name=Core Worker 13596;pid=13596
+[1579853338] wproc: Registry request: name=Core Worker 13591;pid=13591
+[1579853338] wproc: Registry request: name=Core Worker 13594;pid=13594
+[1579853338] wproc: Registry request: name=Core Worker 13598;pid=13598
+[1579853338] wproc: Registry request: name=Core Worker 13605;pid=13605
+[1579853338] wproc: Registry request: name=Core Worker 13610;pid=13610
+[1579853338] wproc: Registry request: name=Core Worker 13608;pid=13608
+[1579853338] wproc: Registry request: name=Core Worker 13611;pid=13611
+[1579853338] wproc: Registry request: name=Core Worker 13609;pid=13609
+[1579853338] wproc: Registry request: name=Core Worker 13604;pid=13604
+[1579853338] wproc: Registry request: name=Core Worker 13597;pid=13597
+[1579853338] wproc: Registry request: name=Core Worker 13606;pid=13606
+[1579853338] wproc: Registry request: name=Core Worker 13612;pid=13612
+[1579853338] wproc: Registry request: name=Core Worker 13607;pid=13607
+[1579853338] wproc: Registry request: name=Core Worker 13599;pid=13599
+[1579853338] wproc: Registry request: name=Core Worker 13600;pid=13600
+[1579853338] wproc: Registry request: name=Core Worker 13601;pid=13601
+[1579853338] wproc: Registry request: name=Core Worker 13602;pid=13602
+[1579853338] wproc: Registry request: name=Core Worker 13603;pid=13603
+[1579853338] wproc: Registry request: name=Core Worker 13614;pid=13614
+[1579853338] wproc: Registry request: name=Core Worker 13613;pid=13613
+[1579853338] Successfully launched command file worker with pid 13616
+[1579856938] Auto-save of retention data completed successfully.
+[1579857320] Caught SIGTERM, shutting down...
+[1579857320] Successfully shutdown... (PID=13589)
+[1579857320] Nagios 4.4.5 starting... (PID=21931)
+[1579857320] Local time is Fri Jan 24 01:15:20 PST 2020
+[1579857320] LOG VERSION: 2.0
+[1579857320] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579857320] qh: core query handler registered
+[1579857320] qh: echo service query handler registered
+[1579857320] qh: help for the query handler registered
+[1579857320] wproc: Successfully registered manager as @wproc with query handler
+[1579857320] wproc: Registry request: name=Core Worker 21939;pid=21939
+[1579857320] wproc: Registry request: name=Core Worker 21940;pid=21940
+[1579857320] wproc: Registry request: name=Core Worker 21944;pid=21944
+[1579857320] wproc: Registry request: name=Core Worker 21941;pid=21941
+[1579857320] wproc: Registry request: name=Core Worker 21942;pid=21942
+[1579857320] wproc: Registry request: name=Core Worker 21943;pid=21943
+[1579857320] wproc: Registry request: name=Core Worker 21945;pid=21945
+[1579857320] wproc: Registry request: name=Core Worker 21946;pid=21946
+[1579857320] wproc: Registry request: name=Core Worker 21947;pid=21947
+[1579857320] wproc: Registry request: name=Core Worker 21951;pid=21951
+[1579857320] wproc: Registry request: name=Core Worker 21949;pid=21949
+[1579857320] wproc: Registry request: name=Core Worker 21952;pid=21952
+[1579857320] wproc: Registry request: name=Core Worker 21959;pid=21959
+[1579857320] wproc: Registry request: name=Core Worker 21955;pid=21955
+[1579857320] wproc: Registry request: name=Core Worker 21963;pid=21963
+[1579857320] wproc: Registry request: name=Core Worker 21962;pid=21962
+[1579857320] wproc: Registry request: name=Core Worker 21954;pid=21954
+[1579857320] wproc: Registry request: name=Core Worker 21961;pid=21961
+[1579857320] wproc: Registry request: name=Core Worker 21956;pid=21956
+[1579857320] wproc: Registry request: name=Core Worker 21950;pid=21950
+[1579857320] wproc: Registry request: name=Core Worker 21953;pid=21953
+[1579857320] wproc: Registry request: name=Core Worker 21960;pid=21960
+[1579857320] wproc: Registry request: name=Core Worker 21957;pid=21957
+[1579857320] wproc: Registry request: name=Core Worker 21958;pid=21958
+[1579857320] Successfully launched command file worker with pid 21964
+[1579857333] HOST ALERT: vdb-101;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.61 ms
+[1579857341] HOST ALERT: vdb-103;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.39 ms
+[1579857361] HOST ALERT: vdb-102;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.23 ms
+[1579857379] HOST ALERT: vonly-backup;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1579857384] Caught SIGTERM, shutting down...
+[1579857384] Caught SIGTERM, shutting down...
+[1579857384] Successfully shutdown... (PID=21931)
+[1579857384] Nagios 4.4.5 starting... (PID=22271)
+[1579857384] Local time is Fri Jan 24 01:16:24 PST 2020
+[1579857384] LOG VERSION: 2.0
+[1579857384] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579857384] qh: core query handler registered
+[1579857384] qh: echo service query handler registered
+[1579857384] qh: help for the query handler registered
+[1579857384] wproc: Successfully registered manager as @wproc with query handler
+[1579857384] wproc: Registry request: name=Core Worker 22274;pid=22274
+[1579857384] wproc: Registry request: name=Core Worker 22275;pid=22275
+[1579857384] wproc: Registry request: name=Core Worker 22276;pid=22276
+[1579857384] wproc: Registry request: name=Core Worker 22278;pid=22278
+[1579857384] wproc: Registry request: name=Core Worker 22277;pid=22277
+[1579857384] wproc: Registry request: name=Core Worker 22285;pid=22285
+[1579857384] wproc: Registry request: name=Core Worker 22279;pid=22279
+[1579857384] wproc: Registry request: name=Core Worker 22287;pid=22287
+[1579857384] wproc: Registry request: name=Core Worker 22281;pid=22281
+[1579857384] wproc: Registry request: name=Core Worker 22280;pid=22280
+[1579857384] wproc: Registry request: name=Core Worker 22282;pid=22282
+[1579857384] wproc: Registry request: name=Core Worker 22283;pid=22283
+[1579857384] wproc: Registry request: name=Core Worker 22284;pid=22284
+[1579857384] wproc: Registry request: name=Core Worker 22286;pid=22286
+[1579857384] wproc: Registry request: name=Core Worker 22289;pid=22289
+[1579857384] wproc: Registry request: name=Core Worker 22288;pid=22288
+[1579857384] wproc: Registry request: name=Core Worker 22290;pid=22290
+[1579857384] wproc: Registry request: name=Core Worker 22291;pid=22291
+[1579857384] wproc: Registry request: name=Core Worker 22292;pid=22292
+[1579857384] wproc: Registry request: name=Core Worker 22294;pid=22294
+[1579857384] wproc: Registry request: name=Core Worker 22293;pid=22293
+[1579857384] wproc: Registry request: name=Core Worker 22296;pid=22296
+[1579857384] wproc: Registry request: name=Core Worker 22297;pid=22297
+[1579857384] wproc: Registry request: name=Core Worker 22295;pid=22295
+[1579857384] Successfully launched command file worker with pid 22298
+[1579857395] SERVICE NOTIFICATION: jatin;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1579857395] SERVICE NOTIFICATION: atul;vdb-102;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1579857403] SERVICE NOTIFICATION: jatin;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1579857403] SERVICE NOTIFICATION: atul;vdb-101;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (0 MB out of 975 MB)
+[1579857411] SERVICE NOTIFICATION: jatin;vdb-103;Swap Usage;WARNING;notify-service-by-email;SWAP WARNING - 93% free (1892 MB out of 2047 MB)
+[1579857411] SERVICE NOTIFICATION: atul;vdb-103;Swap Usage;WARNING;notify-service-by-email;SWAP WARNING - 93% free (1892 MB out of 2047 MB)
+[1579860095] SERVICE NOTIFICATION: jatin;vdb-102;Swap Usage;OK;notify-service-by-email;SWAP OK - 100% free (975 MB out of 975 MB)
+[1579860095] SERVICE NOTIFICATION: atul;vdb-102;Swap Usage;OK;notify-service-by-email;SWAP OK - 100% free (975 MB out of 975 MB)
+[1579860095] SERVICE ALERT: vdb-102;Swap Usage;OK;HARD;4;SWAP OK - 100% free (975 MB out of 975 MB)
+[1579860403] Warning: Return code of 255 for check of service 'Swap Usage' on host 'vdb-101' was out of bounds.
+[1579860411] SERVICE NOTIFICATION: jatin;vdb-103;Swap Usage;OK;notify-service-by-email;SWAP OK - 93% free (1892 MB out of 2047 MB)
+[1579860411] SERVICE NOTIFICATION: atul;vdb-103;Swap Usage;OK;notify-service-by-email;SWAP OK - 93% free (1892 MB out of 2047 MB)
+[1579860411] SERVICE ALERT: vdb-103;Swap Usage;OK;HARD;4;SWAP OK - 93% free (1892 MB out of 2047 MB)
+[1579860521] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-101;Swap Usage;1579860527
+[1579860976] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;vdb-101;Swap Usage;1579860981
+[1579860981] SERVICE NOTIFICATION: jatin;vdb-101;Swap Usage;OK;notify-service-by-email;SWAP OK - 100% free (975 MB out of 975 MB)
+[1579860981] SERVICE NOTIFICATION: atul;vdb-101;Swap Usage;OK;notify-service-by-email;SWAP OK - 100% free (975 MB out of 975 MB)
+[1579860981] SERVICE ALERT: vdb-101;Swap Usage;OK;HARD;4;SWAP OK - 100% free (975 MB out of 975 MB)
+[1579860983] Auto-save of retention data completed successfully.
+[1579861052] Caught SIGTERM, shutting down...
+[1579861052] Caught SIGTERM, shutting down...
+[1579861052] Successfully shutdown... (PID=22271)
+[1579861052] Nagios 4.4.5 starting... (PID=29313)
+[1579861052] Local time is Fri Jan 24 02:17:32 PST 2020
+[1579861052] LOG VERSION: 2.0
+[1579861052] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1579861052] qh: core query handler registered
+[1579861052] qh: echo service query handler registered
+[1579861052] qh: help for the query handler registered
+[1579861052] wproc: Successfully registered manager as @wproc with query handler
+[1579861052] wproc: Registry request: name=Core Worker 29316;pid=29316
+[1579861052] wproc: Registry request: name=Core Worker 29318;pid=29318
+[1579861052] wproc: Registry request: name=Core Worker 29319;pid=29319
+[1579861052] wproc: Registry request: name=Core Worker 29321;pid=29321
+[1579861052] wproc: Registry request: name=Core Worker 29320;pid=29320
+[1579861052] wproc: Registry request: name=Core Worker 29322;pid=29322
+[1579861052] wproc: Registry request: name=Core Worker 29326;pid=29326
+[1579861052] wproc: Registry request: name=Core Worker 29317;pid=29317
+[1579861052] wproc: Registry request: name=Core Worker 29329;pid=29329
+[1579861052] wproc: Registry request: name=Core Worker 29323;pid=29323
+[1579861052] wproc: Registry request: name=Core Worker 29324;pid=29324
+[1579861052] wproc: Registry request: name=Core Worker 29325;pid=29325
+[1579861052] wproc: Registry request: name=Core Worker 29331;pid=29331
+[1579861052] wproc: Registry request: name=Core Worker 29336;pid=29336
+[1579861052] wproc: Registry request: name=Core Worker 29337;pid=29337
+[1579861052] wproc: Registry request: name=Core Worker 29339;pid=29339
+[1579861052] wproc: Registry request: name=Core Worker 29328;pid=29328
+[1579861052] wproc: Registry request: name=Core Worker 29327;pid=29327
+[1579861052] wproc: Registry request: name=Core Worker 29332;pid=29332
+[1579861052] wproc: Registry request: name=Core Worker 29330;pid=29330
+[1579861052] wproc: Registry request: name=Core Worker 29334;pid=29334
+[1579861052] wproc: Registry request: name=Core Worker 29333;pid=29333
+[1579861052] wproc: Registry request: name=Core Worker 29335;pid=29335
+[1579861052] wproc: Registry request: name=Core Worker 29338;pid=29338
+[1579861052] Successfully launched command file worker with pid 29340
+[1579863133] SERVICE ALERT: vonly-backup;Total Processes;WARNING;SOFT;1;PROCS WARNING: 258 processes with STATE = RSZDT
+[1579863193] SERVICE ALERT: vonly-backup;Total Processes;OK;SOFT;2;PROCS OK: 244 processes with STATE = RSZDT
+[1579864652] Auto-save of retention data completed successfully.
+[1579868251] Auto-save of retention data completed successfully.
+[1579871851] Auto-save of retention data completed successfully.
+[1579875451] Auto-save of retention data completed successfully.
+[1579879051] Auto-save of retention data completed successfully.
+[1579882651] Auto-save of retention data completed successfully.
+[1579886251] Auto-save of retention data completed successfully.
+[1579889851] Auto-save of retention data completed successfully.
+[1579893452] Auto-save of retention data completed successfully.
+[1579897051] Auto-save of retention data completed successfully.
+[1579900651] Auto-save of retention data completed successfully.
+[1579904252] Auto-save of retention data completed successfully.
+[1579907852] Auto-save of retention data completed successfully.
+[1579911451] Auto-save of retention data completed successfully.
+[1579915051] Auto-save of retention data completed successfully.
+[1579918651] Auto-save of retention data completed successfully.
+[1579922251] Auto-save of retention data completed successfully.
+[1579925852] Auto-save of retention data completed successfully.
+[1579929451] Auto-save of retention data completed successfully.
+[1579933052] Auto-save of retention data completed successfully.
+[1579936651] Auto-save of retention data completed successfully.
+[1580132467] Caught SIGTERM, shutting down...
