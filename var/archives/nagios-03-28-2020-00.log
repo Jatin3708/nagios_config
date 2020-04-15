@@ -1,0 +1,621 @@
+[1585292400] LOG ROTATION: DAILY
+[1585292400] LOG VERSION: 2.0
+[1585292400] CURRENT HOST STATE: WINV-101;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1585292400] CURRENT HOST STATE: WINV-102;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1585292400] CURRENT HOST STATE: WINV-103;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1585292400] CURRENT HOST STATE: WINV-104;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.25 ms
+[1585292400] CURRENT HOST STATE: WINV-105;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1585292400] CURRENT HOST STATE: WINV-106;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.30 ms
+[1585292400] CURRENT HOST STATE: WINV-107;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1585292400] CURRENT HOST STATE: WINV-108;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1585292400] CURRENT HOST STATE: WINV-110;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1585292400] CURRENT HOST STATE: WINV-111;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.29 ms
+[1585292400] CURRENT HOST STATE: WINV-112;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1585292400] CURRENT HOST STATE: vapps-100;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1585292400] CURRENT HOST STATE: vapps-109;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1585292400] CURRENT HOST STATE: vdb-100;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1585292400] CURRENT HOST STATE: vdb-101;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1585292400] CURRENT HOST STATE: vdb-103;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1585292400] CURRENT HOST STATE: vdb-staging;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.72 ms
+[1585292400] CURRENT HOST STATE: vinfra-200;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.26 ms
+[1585292400] CURRENT HOST STATE: vonly-backup;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1585292400] CURRENT HOST STATE: vonly-database;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.28 ms
+[1585292400] CURRENT HOST STATE: vonly-replica;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.33 ms
+[1585292400] CURRENT SERVICE STATE: WINV-101;CPU Load;OK;HARD;1;CPU Load 4% (5 min average)
+[1585292400] CURRENT SERVICE STATE: WINV-101;Data Drive Space;WARNING;HARD;3;d:\ - total: 931.32 Gb - used: 778.09 Gb (84%) - free 153.23 Gb (16%)
+[1585292400] CURRENT SERVICE STATE: WINV-101;Memory Usage;OK;HARD;1;Memory usage: total:98284.48 MB - used: 44019.71 MB (45%) - free: 54264.77 MB (55%)
+[1585292400] CURRENT SERVICE STATE: WINV-101;OS Drive Space;OK;HARD;1;c:\ - total: 68.27 Gb - used: 43.57 Gb (64%) - free 24.69 Gb (36%)
+[1585292400] CURRENT SERVICE STATE: WINV-101;Uptime;OK;HARD;1;System Uptime - 22 day(s) 0 hour(s) 33 minute(s)
+[1585292400] CURRENT SERVICE STATE: WINV-102;CPU Load;OK;HARD;1;CPU Load 22% (5 min average)
+[1585292400] CURRENT SERVICE STATE: WINV-102;Data Drive Space;WARNING;HARD;3;d:\ - total: 1862.64 Gb - used: 1563.09 Gb (84%) - free 299.55 Gb (16%)
+[1585292400] CURRENT SERVICE STATE: WINV-102;Memory Usage;OK;HARD;1;Memory usage: total:208877.43 MB - used: 70227.99 MB (34%) - free: 138649.44 MB (66%)
+[1585292400] CURRENT SERVICE STATE: WINV-102;OS Drive Space;OK;HARD;1;c:\ - total: 931.41 Gb - used: 305.45 Gb (33%) - free 625.96 Gb (67%)
+[1585292400] CURRENT SERVICE STATE: WINV-102;Uptime;OK;HARD;1;System Uptime - 185 day(s) 12 hour(s) 5 minute(s)
+[1585292400] CURRENT SERVICE STATE: WINV-103;CPU Load;OK;HARD;1;CPU Load 1% (5 min average)
+[1585292400] CURRENT SERVICE STATE: WINV-103;Data Drive Space;OK;HARD;1;d:\ - total: 1862.39 Gb - used: 928.92 Gb (50%) - free 933.47 Gb (50%)
+[1585292400] CURRENT SERVICE STATE: WINV-103;Memory Usage;OK;HARD;1;Memory usage: total:196589.32 MB - used: 62835.22 MB (32%) - free: 133754.10 MB (68%)
+[1585292400] CURRENT SERVICE STATE: WINV-103;OS Drive Space;OK;HARD;1;c:\ - total: 68.27 Gb - used: 48.21 Gb (71%) - free 20.06 Gb (29%)
+[1585292400] CURRENT SERVICE STATE: WINV-103;Uptime;OK;HARD;1;System Uptime - 2 day(s) 9 hour(s) 34 minute(s)
+[1585292400] CURRENT SERVICE STATE: WINV-104;CPU Load;OK;HARD;1;CPU Load 12% (5 min average)
+[1585292400] CURRENT SERVICE STATE: WINV-104;Data Drive Space;WARNING;HARD;3;d:\ - total: 931.32 Gb - used: 785.00 Gb (84%) - free 146.32 Gb (16%)
+[1585292400] CURRENT SERVICE STATE: WINV-104;Memory Usage;OK;HARD;1;Memory usage: total:129142.02 MB - used: 38799.00 MB (30%) - free: 90343.01 MB (70%)
+[1585292400] CURRENT SERVICE STATE: WINV-104;OS Drive Space;OK;HARD;1;c:\ - total: 68.27 Gb - used: 47.81 Gb (70%) - free 20.45 Gb (30%)
+[1585292400] CURRENT SERVICE STATE: WINV-104;Uptime;OK;HARD;1;System Uptime - 182 day(s) 13 hour(s) 17 minute(s)
+[1585292400] CURRENT SERVICE STATE: WINV-105;CPU Load;OK;HARD;1;CPU Load 0% (5 min average)
+[1585292400] CURRENT SERVICE STATE: WINV-105;Data Drive Space;OK;HARD;1;d:\ - total: 931.32 Gb - used: 579.06 Gb (62%) - free 352.26 Gb (38%)
+[1585292400] CURRENT SERVICE STATE: WINV-105;Memory Usage;OK;HARD;1;Memory usage: total:98284.48 MB - used: 37920.46 MB (39%) - free: 60364.02 MB (61%)
+[1585292400] CURRENT SERVICE STATE: WINV-105;OS Drive Space;OK;HARD;1;c:\ - total: 231.90 Gb - used: 97.07 Gb (42%) - free 134.83 Gb (58%)
+[1585292400] CURRENT SERVICE STATE: WINV-105;Uptime;OK;HARD;1;System Uptime - 346 day(s) 15 hour(s) 23 minute(s)
+[1585292400] CURRENT SERVICE STATE: WINV-106;CPU Load;OK;HARD;1;CPU Load 3% (5 min average)
+[1585292400] CURRENT SERVICE STATE: WINV-106;Data Drive Space;OK;HARD;1;d:\ - total: 931.32 Gb - used: 605.23 Gb (65%) - free 326.09 Gb (35%)
+[1585292400] CURRENT SERVICE STATE: WINV-106;Memory Usage;OK;HARD;1;Memory usage: total:149142.26 MB - used: 42120.73 MB (28%) - free: 107021.53 MB (72%)
+[1585292400] CURRENT SERVICE STATE: WINV-106;OS Drive Space;OK;HARD;1;c:\ - total: 67.89 Gb - used: 41.45 Gb (61%) - free 26.44 Gb (39%)
+[1585292400] CURRENT SERVICE STATE: WINV-106;Uptime;OK;HARD;1;System Uptime - 92 day(s) 23 hour(s) 43 minute(s)
+[1585292400] CURRENT SERVICE STATE: WINV-107;CPU Load;OK;HARD;1;CPU Load 4% (5 min average)
+[1585292400] CURRENT SERVICE STATE: WINV-107;Data Drive Space;WARNING;HARD;3;d:\ - total: 931.51 Gb - used: 765.00 Gb (82%) - free 166.51 Gb (18%)
+[1585292400] CURRENT SERVICE STATE: WINV-107;Memory Usage;OK;HARD;1;Memory usage: total:147777.36 MB - used: 50220.56 MB (34%) - free: 97556.80 MB (66%)
+[1585292400] CURRENT SERVICE STATE: WINV-107;OS Drive Space;OK;HARD;1;c:\ - total: 67.45 Gb - used: 43.68 Gb (65%) - free 23.77 Gb (35%)
+[1585292400] CURRENT SERVICE STATE: WINV-107;Uptime;OK;HARD;1;System Uptime - 23 day(s) 22 hour(s) 8 minute(s)
+[1585292400] CURRENT SERVICE STATE: WINV-108;CPU Load;OK;HARD;1;CPU Load 17% (5 min average)
+[1585292400] CURRENT SERVICE STATE: WINV-108;Data Drive Space;OK;HARD;1;d:\ - total: 931.32 Gb - used: 533.89 Gb (57%) - free 397.43 Gb (43%)
+[1585292400] CURRENT SERVICE STATE: WINV-108;Memory Usage;OK;HARD;1;Memory usage: total:160950.28 MB - used: 42873.59 MB (27%) - free: 118076.69 MB (73%)
+[1585292400] CURRENT SERVICE STATE: WINV-108;OS Drive Space;OK;HARD;1;c:\ - total: 67.89 Gb - used: 49.73 Gb (73%) - free 18.15 Gb (27%)
+[1585292400] CURRENT SERVICE STATE: WINV-108;Uptime;OK;HARD;1;System Uptime - 485 day(s) 15 hour(s) 0 minute(s)
+[1585292400] CURRENT SERVICE STATE: WINV-110;CPU Load;OK;HARD;1;CPU Load 1% (5 min average)
+[1585292400] CURRENT SERVICE STATE: WINV-110;Data Drive Space;OK;HARD;1;d:\ - total: 931.32 Gb - used: 512.01 Gb (55%) - free 419.31 Gb (45%)
+[1585292400] CURRENT SERVICE STATE: WINV-110;Memory Usage;OK;HARD;1;Memory usage: total:104565.75 MB - used: 16325.24 MB (16%) - free: 88240.52 MB (84%)
+[1585292400] CURRENT SERVICE STATE: WINV-110;OS Drive Space;OK;HARD;1;c:\ - total: 67.89 Gb - used: 41.77 Gb (62%) - free 26.11 Gb (38%)
+[1585292400] CURRENT SERVICE STATE: WINV-110;Uptime;OK;HARD;1;System Uptime - 105 day(s) 0 hour(s) 21 minute(s)
+[1585292400] CURRENT SERVICE STATE: WINV-111;CPU Load;OK;HARD;1;CPU Load 0% (5 min average)
+[1585292400] CURRENT SERVICE STATE: WINV-111;Data Drive Space;OK;HARD;1;d:\ - total: 931.22 Gb - used: 604.87 Gb (65%) - free 326.35 Gb (35%)
+[1585292400] CURRENT SERVICE STATE: WINV-111;Memory Usage;OK;HARD;1;Memory usage: total:70469.53 MB - used: 12881.49 MB (18%) - free: 57588.04 MB (82%)
+[1585292400] CURRENT SERVICE STATE: WINV-111;OS Drive Space;OK;HARD;1;c:\ - total: 67.89 Gb - used: 32.17 Gb (47%) - free 35.72 Gb (53%)
+[1585292400] CURRENT SERVICE STATE: WINV-111;Uptime;OK;HARD;1;System Uptime - 246 day(s) 13 hour(s) 32 minute(s)
+[1585292400] CURRENT SERVICE STATE: WINV-112;CPU Load;OK;HARD;1;CPU Load 0% (5 min average)
+[1585292400] CURRENT SERVICE STATE: WINV-112;Data Drive Space;OK;HARD;1;d:\ - total: 931.51 Gb - used: 681.08 Gb (73%) - free 250.43 Gb (27%)
+[1585292400] CURRENT SERVICE STATE: WINV-112;Memory Usage;OK;HARD;1;Memory usage: total:40939.93 MB - used: 15668.99 MB (38%) - free: 25270.94 MB (62%)
+[1585292400] CURRENT SERVICE STATE: WINV-112;OS Drive Space;OK;HARD;1;c:\ - total: 278.36 Gb - used: 69.94 Gb (25%) - free 208.43 Gb (75%)
+[1585292400] CURRENT SERVICE STATE: WINV-112;Uptime;OK;HARD;1;System Uptime - 185 day(s) 12 hour(s) 11 minute(s)
+[1585292400] CURRENT SERVICE STATE: vapps-100;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 51% capacity, 262G of 551G
+[1585292400] CURRENT SERVICE STATE: vapps-100;Current Load;OK;HARD;1;OK - load average: 0.05, 0.13, 0.46
+[1585292400] CURRENT SERVICE STATE: vapps-100;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1585292400] CURRENT SERVICE STATE: vapps-100;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1585292400] CURRENT SERVICE STATE: vapps-100;Root Partition;OK;HARD;1;/ is at 21% capacity, 110G of 550G
+[1585292400] CURRENT SERVICE STATE: vapps-100;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.6 (protocol 2.0)
+[1585292400] CURRENT SERVICE STATE: vapps-100;Swap Usage;OK;HARD;1;SWAP OK - 81% free (9011 MB out of 11214 MB)
+[1585292400] CURRENT SERVICE STATE: vapps-100;Total Processes;OK;HARD;1;PROCS OK: 223 processes with STATE = RSZDT
+[1585292400] CURRENT SERVICE STATE: vapps-109;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 2% capacity, 14G of 917G
+[1585292400] CURRENT SERVICE STATE: vapps-109;Current Load;OK;HARD;1;OK - load average: 0.26, 0.18, 0.22
+[1585292400] CURRENT SERVICE STATE: vapps-109;Current Users;OK;HARD;1;USERS OK - 2 users currently logged in
+[1585292400] CURRENT SERVICE STATE: vapps-109;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1585292400] CURRENT SERVICE STATE: vapps-109;Root Partition;OK;HARD;1;/ is at 50% capacity, 21G of 43G
+[1585292400] CURRENT SERVICE STATE: vapps-109;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.8 (protocol 2.0)
+[1585292400] CURRENT SERVICE STATE: vapps-109;Swap Usage;OK;HARD;1;SWAP OK - 100% free (24420 MB out of 24567 MB)
+[1585292400] CURRENT SERVICE STATE: vapps-109;Total Processes;OK;HARD;1;PROCS OK: 229 processes with STATE = RSZDT
+[1585292400] CURRENT SERVICE STATE: vdb-100;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 78% capacity, 2.7T of 3.7T
+[1585292400] CURRENT SERVICE STATE: vdb-100;Current Load;OK;HARD;1;OK - load average: 0.13, 0.05, 0.02
+[1585292400] CURRENT SERVICE STATE: vdb-100;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1585292400] CURRENT SERVICE STATE: vdb-100;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1585292400] CURRENT SERVICE STATE: vdb-100;Root Partition;OK;HARD;1;/ is at 35% capacity, 30G of 91G
+[1585292400] CURRENT SERVICE STATE: vdb-100;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.6 (protocol 2.0)
+[1585292400] CURRENT SERVICE STATE: vdb-100;Swap Usage;OK;HARD;1;SWAP OK - 91% free (19471 MB out of 21455 MB)
+[1585292400] CURRENT SERVICE STATE: vdb-100;Total Processes;OK;HARD;1;PROCS OK: 183 processes with STATE = RSZDT
+[1585292400] CURRENT SERVICE STATE: vdb-101;/mnt/data01 Partition;CRITICAL;HARD;4;/mnt/data01 is at 92% capacity! 3.2T of 3.6T
+[1585292400] CURRENT SERVICE STATE: vdb-101;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1585292400] CURRENT SERVICE STATE: vdb-101;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1585292400] CURRENT SERVICE STATE: vdb-101;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1585292400] CURRENT SERVICE STATE: vdb-101;Root Partition;OK;HARD;1;/ is at 25% capacity, 42G of 183G
+[1585292400] CURRENT SERVICE STATE: vdb-101;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.4 (protocol 2.0)
+[1585292400] CURRENT SERVICE STATE: vdb-101;Swap Usage;OK;HARD;1;SWAP OK - 70% free (14822 MB out of 21455 MB)
+[1585292400] CURRENT SERVICE STATE: vdb-101;Total Processes;OK;HARD;1;PROCS OK: 157 processes with STATE = RSZDT
+[1585292400] CURRENT SERVICE STATE: vdb-103;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 68% capacity, 4.7T of 7.3T
+[1585292400] CURRENT SERVICE STATE: vdb-103;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1585292400] CURRENT SERVICE STATE: vdb-103;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1585292400] CURRENT SERVICE STATE: vdb-103;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1585292400] CURRENT SERVICE STATE: vdb-103;Root Partition;OK;HARD;1;/ is at 80% capacity, 346G of 457G
+[1585292400] CURRENT SERVICE STATE: vdb-103;SSH;OK;HARD;1;SSH OK - OpenSSH_7.6p1 Ubuntu-4ubuntu0.2 (protocol 2.0)
+[1585292400] CURRENT SERVICE STATE: vdb-103;Swap Usage;OK;HARD;1;SWAP OK - 84% free (8529 MB out of 10239 MB)
+[1585292400] CURRENT SERVICE STATE: vdb-103;Total Processes;OK;HARD;1;PROCS OK: 185 processes with STATE = RSZDT
+[1585292400] CURRENT SERVICE STATE: vdb-staging;/mnt/data01 Partition;OK;HARD;1;/mnt/data01 is at 64% capacity, 5.5T of 9.1T
+[1585292400] CURRENT SERVICE STATE: vdb-staging;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1585292400] CURRENT SERVICE STATE: vdb-staging;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1585292400] CURRENT SERVICE STATE: vdb-staging;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1585292400] CURRENT SERVICE STATE: vdb-staging;Root Partition;OK;HARD;1;/ is at 7% capacity, 112G of 1.8T
+[1585292400] CURRENT SERVICE STATE: vdb-staging;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.4 (protocol 2.0)
+[1585292400] CURRENT SERVICE STATE: vdb-staging;Swap Usage;OK;HARD;1;SWAP OK - 88% free (90825 MB out of 103375 MB)
+[1585292400] CURRENT SERVICE STATE: vdb-staging;Total Processes;OK;HARD;1;PROCS OK: 150 processes with STATE = RSZDT
+[1585292400] CURRENT SERVICE STATE: vinfra-200;/mnt/data01 Partition;OK;HARD;1;/mnt/data is at 15% capacity, 125G of 917G
+[1585292400] CURRENT SERVICE STATE: vinfra-200;Current Load;OK;HARD;1;OK - load average: 0.63, 0.98, 1.09
+[1585292400] CURRENT SERVICE STATE: vinfra-200;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1585292400] CURRENT SERVICE STATE: vinfra-200;MySQL Connection Time;OK;HARD;1;OK - 0.01 seconds to connect as nagios
+[1585292400] CURRENT SERVICE STATE: vinfra-200;MySQL Uptime;OK;HARD;1;OK - database is up since 12890 minutes
+[1585292400] CURRENT SERVICE STATE: vinfra-200;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1585292400] CURRENT SERVICE STATE: vinfra-200;Root Partition;OK;HARD;1;/ is at 34% capacity, 59G of 182G
+[1585292400] CURRENT SERVICE STATE: vinfra-200;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.6 (protocol 2.0)
+[1585292400] CURRENT SERVICE STATE: vinfra-200;Swap Usage;WARNING;HARD;4;SWAP WARNING - 16% free (1786 MB out of 11215 MB)
+[1585292400] CURRENT SERVICE STATE: vinfra-200;Total Processes;OK;HARD;1;PROCS OK: 156 processes with STATE = RSZDT
+[1585292400] CURRENT SERVICE STATE: vinfra-200;VAULT;OK;HARD;1;OK - Vault is initialized, unsealed, and active
+[1585292400] CURRENT SERVICE STATE: vonly-backup;/media/data Partition;OK;HARD;1;/media/data is at 81% capacity, 5.5T of 7.3T
+[1585292400] CURRENT SERVICE STATE: vonly-backup;Current Load;OK;HARD;1;OK - load average: 0.06, 0.33, 0.60
+[1585292400] CURRENT SERVICE STATE: vonly-backup;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1585292400] CURRENT SERVICE STATE: vonly-backup;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1585292400] CURRENT SERVICE STATE: vonly-backup;Root Partition;OK;HARD;1;/ is at 47% capacity, 98G of 220G
+[1585292400] CURRENT SERVICE STATE: vonly-backup;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.8 (protocol 2.0)
+[1585292400] CURRENT SERVICE STATE: vonly-backup;Swap Usage;OK;HARD;1;SWAP OK - 97% free (54914 MB out of 57111 MB)
+[1585292400] CURRENT SERVICE STATE: vonly-backup;Total Processes;OK;HARD;1;PROCS OK: 220 processes with STATE = RSZDT
+[1585292400] CURRENT SERVICE STATE: vonly-database;/media/data Partition;OK;HARD;1;/media/data is at 76% capacity, 2.6T of 3.6T
+[1585292400] CURRENT SERVICE STATE: vonly-database;Current Load;OK;HARD;1;OK - load average: 2.14, 2.17, 2.11
+[1585292400] CURRENT SERVICE STATE: vonly-database;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1585292400] CURRENT SERVICE STATE: vonly-database;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1585292400] CURRENT SERVICE STATE: vonly-database;Root Partition;OK;HARD;1;/ is at 58% capacity, 120G of 220G
+[1585292400] CURRENT SERVICE STATE: vonly-database;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.8 (protocol 2.0)
+[1585292400] CURRENT SERVICE STATE: vonly-database;Swap Usage;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (4718 MB out of 57111 MB)
+[1585292400] CURRENT SERVICE STATE: vonly-database;Total Processes;OK;HARD;1;PROCS OK: 159 processes with STATE = RSZDT
+[1585292400] CURRENT SERVICE STATE: vonly-replica;/media/data Partition;OK;HARD;1;/media/data is at 79% capacity, 5.4T of 7.3T
+[1585292400] CURRENT SERVICE STATE: vonly-replica;Current Load;OK;HARD;1;OK - load average: 6.13, 6.14, 6.23
+[1585292400] CURRENT SERVICE STATE: vonly-replica;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1585292400] CURRENT SERVICE STATE: vonly-replica;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.04 ms
+[1585292400] CURRENT SERVICE STATE: vonly-replica;Root Partition;OK;HARD;1;/ is at 31% capacity, 31G of 108G
+[1585292400] CURRENT SERVICE STATE: vonly-replica;SSH;OK;HARD;1;SSH OK - OpenSSH_7.2p2 Ubuntu-4ubuntu2.2 (protocol 2.0)
+[1585292400] CURRENT SERVICE STATE: vonly-replica;Swap Usage;OK;HARD;1;SWAP OK - 98% free (27106 MB out of 27876 MB)
+[1585292400] CURRENT SERVICE STATE: vonly-replica;Total Processes;OK;HARD;1;PROCS OK: 103 processes with STATE = RSZDT
+[1585292823] SERVICE NOTIFICATION: jatin;vdb-101;/mnt/data01 Partition;CRITICAL;notify-service-by-email;/mnt/data01 is at 92% capacity! 3.2T of 3.6T
+[1585292823] SERVICE NOTIFICATION: atul;vdb-101;/mnt/data01 Partition;CRITICAL;notify-service-by-email;/mnt/data01 is at 92% capacity! 3.2T of 3.6T
+[1585292823] SERVICE NOTIFICATION: srinivas.bethi;vdb-101;/mnt/data01 Partition;CRITICAL;notify-service-by-email;/mnt/data01 is at 92% capacity! 3.2T of 3.6T
+[1585293930] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;1;WARNING - load average: 26.05, 16.13, 7.93
+[1585293990] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;2;WARNING - load average: 27.51, 18.01, 9.07
+[1585294050] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;3;WARNING - load average: 25.49, 19.40, 10.13
+[1585294110] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 25.01, 20.35, 11.03
+[1585294110] SERVICE NOTIFICATION: atul;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 25.01, 20.35, 11.03
+[1585294110] SERVICE NOTIFICATION: srinivas.bethi;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 25.01, 20.35, 11.03
+[1585294110] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 25.01, 20.35, 11.03
+[1585294410] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 33.94, 26.89, 16.11
+[1585294410] SERVICE NOTIFICATION: atul;vapps-100;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 33.94, 26.89, 16.11
+[1585294410] SERVICE NOTIFICATION: srinivas.bethi;vapps-100;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 33.94, 26.89, 16.11
+[1585294410] SERVICE ALERT: vapps-100;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 33.94, 26.89, 16.11
+[1585294447] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;1;WARNING - load average: 15.66, 13.65, 10.95
+[1585294507] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;2;WARNING - load average: 14.41, 13.69, 11.14
+[1585294567] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;3;WARNING - load average: 13.78, 13.63, 11.28
+[1585294627] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 13.89, 13.67, 11.44
+[1585294627] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 13.89, 13.67, 11.44
+[1585294627] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 13.89, 13.67, 11.44
+[1585294627] SERVICE ALERT: vonly-replica;Current Load;WARNING;HARD;4;WARNING - load average: 13.89, 13.67, 11.44
+[1585294628] Auto-save of retention data completed successfully.
+[1585294721] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;1;WARNING - load average: 7.92, 7.12, 5.37
+[1585294781] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;2;WARNING - load average: 6.96, 6.97, 5.42
+[1585294841] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;3;WARNING - load average: 6.65, 6.80, 5.46
+[1585294901] SERVICE NOTIFICATION: jatin;vinfra-200;Current Load;WARNING;notify-service-by-email;WARNING - load average: 10.51, 7.62, 5.81
+[1585294901] SERVICE NOTIFICATION: atul;vinfra-200;Current Load;WARNING;notify-service-by-email;WARNING - load average: 10.51, 7.62, 5.81
+[1585294901] SERVICE NOTIFICATION: srinivas.bethi;vinfra-200;Current Load;WARNING;notify-service-by-email;WARNING - load average: 10.51, 7.62, 5.81
+[1585294901] SERVICE ALERT: vinfra-200;Current Load;WARNING;HARD;4;WARNING - load average: 10.51, 7.62, 5.81
+[1585295194] SERVICE NOTIFICATION: srinivas.bethi;WINV-107;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.51 Gb - used: 765.00 Gb (82%) - free 166.51 Gb (18%)
+[1585295194] SERVICE NOTIFICATION: jatin;WINV-107;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.51 Gb - used: 765.00 Gb (82%) - free 166.51 Gb (18%)
+[1585295194] SERVICE NOTIFICATION: atul;WINV-107;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.51 Gb - used: 765.00 Gb (82%) - free 166.51 Gb (18%)
+[1585295467] SERVICE NOTIFICATION: jatin;vinfra-200;Swap Usage;OK;notify-service-by-email;SWAP OK - 21% free (2289 MB out of 11215 MB)
+[1585295467] SERVICE NOTIFICATION: atul;vinfra-200;Swap Usage;OK;notify-service-by-email;SWAP OK - 21% free (2289 MB out of 11215 MB)
+[1585295467] SERVICE NOTIFICATION: srinivas.bethi;vinfra-200;Swap Usage;OK;notify-service-by-email;SWAP OK - 21% free (2289 MB out of 11215 MB)
+[1585295467] SERVICE ALERT: vinfra-200;Swap Usage;OK;HARD;4;SWAP OK - 21% free (2289 MB out of 11215 MB)
+[1585295888] SERVICE NOTIFICATION: jatin;vonly-database;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 8% free (4538 MB out of 57111 MB)
+[1585295888] SERVICE NOTIFICATION: atul;vonly-database;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 8% free (4538 MB out of 57111 MB)
+[1585295888] SERVICE NOTIFICATION: srinivas.bethi;vonly-database;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 8% free (4538 MB out of 57111 MB)
+[1585297083] SERVICE ALERT: vonly-replica;/media/data Partition;WARNING;SOFT;1;/media/data is at 81% capacity! 5.5T of 7.3T
+[1585297143] SERVICE ALERT: vonly-replica;/media/data Partition;WARNING;SOFT;2;/media/data is at 81% capacity! 5.5T of 7.3T
+[1585297203] SERVICE ALERT: vonly-replica;/media/data Partition;WARNING;SOFT;3;/media/data is at 81% capacity! 5.5T of 7.3T
+[1585297263] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 81% capacity! 5.5T of 7.3T
+[1585297263] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 81% capacity! 5.5T of 7.3T
+[1585297263] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 81% capacity! 5.5T of 7.3T
+[1585297263] SERVICE ALERT: vonly-replica;/media/data Partition;WARNING;HARD;4;/media/data is at 81% capacity! 5.5T of 7.3T
+[1585297955] SERVICE NOTIFICATION: srinivas.bethi;WINV-104;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 785.64 Gb (84%) - free 145.68 Gb (16%)
+[1585297955] SERVICE NOTIFICATION: jatin;WINV-104;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 785.64 Gb (84%) - free 145.68 Gb (16%)
+[1585297955] SERVICE NOTIFICATION: atul;WINV-104;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 785.64 Gb (84%) - free 145.68 Gb (16%)
+[1585298228] Auto-save of retention data completed successfully.
+[1585298310] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 7.27, 15.37, 19.71
+[1585298310] SERVICE NOTIFICATION: atul;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 7.27, 15.37, 19.71
+[1585298310] SERVICE NOTIFICATION: srinivas.bethi;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 7.27, 15.37, 19.71
+[1585298310] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 7.27, 15.37, 19.71
+[1585298767] SERVICE ALERT: vinfra-200;Swap Usage;WARNING;SOFT;1;SWAP WARNING - 18% free (2011 MB out of 11215 MB)
+[1585298827] SERVICE ALERT: vinfra-200;Swap Usage;WARNING;SOFT;2;SWAP WARNING - 18% free (2015 MB out of 11215 MB)
+[1585298887] SERVICE ALERT: vinfra-200;Swap Usage;WARNING;SOFT;3;SWAP WARNING - 19% free (2019 MB out of 11215 MB)
+[1585298910] SERVICE FLAPPING ALERT: vapps-100;Current Load;STARTED; Service appears to have started flapping (20.7% change >= 20.0% threshold)
+[1585298910] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;FLAPPINGSTART (CRITICAL);notify-service-by-email;CRITICAL - load average: 32.06, 27.77, 23.06
+[1585298910] SERVICE NOTIFICATION: atul;vapps-100;Current Load;FLAPPINGSTART (CRITICAL);notify-service-by-email;CRITICAL - load average: 32.06, 27.77, 23.06
+[1585298910] SERVICE NOTIFICATION: srinivas.bethi;vapps-100;Current Load;FLAPPINGSTART (CRITICAL);notify-service-by-email;CRITICAL - load average: 32.06, 27.77, 23.06
+[1585298910] SERVICE ALERT: vapps-100;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 32.06, 27.77, 23.06
+[1585298947] SERVICE NOTIFICATION: jatin;vinfra-200;Swap Usage;WARNING;notify-service-by-email;SWAP WARNING - 19% free (2023 MB out of 11215 MB)
+[1585298947] SERVICE NOTIFICATION: atul;vinfra-200;Swap Usage;WARNING;notify-service-by-email;SWAP WARNING - 19% free (2023 MB out of 11215 MB)
+[1585298947] SERVICE NOTIFICATION: srinivas.bethi;vinfra-200;Swap Usage;WARNING;notify-service-by-email;SWAP WARNING - 19% free (2023 MB out of 11215 MB)
+[1585298947] SERVICE ALERT: vinfra-200;Swap Usage;WARNING;HARD;4;SWAP WARNING - 19% free (2023 MB out of 11215 MB)
+[1585299423] SERVICE NOTIFICATION: jatin;vdb-101;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 89% capacity! 3.1T of 3.6T
+[1585299423] SERVICE NOTIFICATION: atul;vdb-101;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 89% capacity! 3.1T of 3.6T
+[1585299423] SERVICE NOTIFICATION: srinivas.bethi;vdb-101;/mnt/data01 Partition;WARNING;notify-service-by-email;/mnt/data01 is at 89% capacity! 3.1T of 3.6T
+[1585299423] SERVICE ALERT: vdb-101;/mnt/data01 Partition;WARNING;HARD;4;/mnt/data01 is at 89% capacity! 3.1T of 3.6T
+[1585299723] SERVICE NOTIFICATION: jatin;vdb-101;/mnt/data01 Partition;OK;notify-service-by-email;/mnt/data01 is at 74% capacity, 2.6T of 3.6T
+[1585299723] SERVICE NOTIFICATION: atul;vdb-101;/mnt/data01 Partition;OK;notify-service-by-email;/mnt/data01 is at 74% capacity, 2.6T of 3.6T
+[1585299723] SERVICE NOTIFICATION: srinivas.bethi;vdb-101;/mnt/data01 Partition;OK;notify-service-by-email;/mnt/data01 is at 74% capacity, 2.6T of 3.6T
+[1585299723] SERVICE ALERT: vdb-101;/mnt/data01 Partition;OK;HARD;4;/mnt/data01 is at 74% capacity, 2.6T of 3.6T
+[1585300863] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 82% capacity! 5.6T of 7.3T
+[1585300863] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 82% capacity! 5.6T of 7.3T
+[1585300863] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 82% capacity! 5.6T of 7.3T
+[1585301347] SERVICE NOTIFICATION: jatin;vinfra-200;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (1 MB out of 11215 MB)
+[1585301347] SERVICE NOTIFICATION: atul;vinfra-200;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (1 MB out of 11215 MB)
+[1585301347] SERVICE NOTIFICATION: srinivas.bethi;vinfra-200;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (1 MB out of 11215 MB)
+[1585301347] SERVICE ALERT: vinfra-200;Swap Usage;CRITICAL;HARD;4;SWAP CRITICAL - 1% free (1 MB out of 11215 MB)
+[1585301828] Auto-save of retention data completed successfully.
+[1585302275] SERVICE ALERT: WINV-104;CPU Load;CRITICAL;SOFT;1;CPU Load 94% (5 min average)
+[1585302395] SERVICE ALERT: WINV-104;CPU Load;OK;SOFT;2;CPU Load 12% (5 min average)
+[1585303410] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 11.33, 12.62, 19.75
+[1585303710] SERVICE ALERT: vapps-100;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 61.58, 28.95, 23.62
+[1585304463] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 83% capacity! 5.7T of 7.3T
+[1585304463] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 83% capacity! 5.7T of 7.3T
+[1585304463] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 83% capacity! 5.7T of 7.3T
+[1585305122] SERVICE NOTIFICATION: srinivas.bethi;WINV-102;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 1862.64 Gb - used: 1565.69 Gb (84%) - free 296.95 Gb (16%)
+[1585305122] SERVICE NOTIFICATION: jatin;WINV-102;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 1862.64 Gb - used: 1565.69 Gb (84%) - free 296.95 Gb (16%)
+[1585305122] SERVICE NOTIFICATION: atul;WINV-102;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 1862.64 Gb - used: 1565.69 Gb (84%) - free 296.95 Gb (16%)
+[1585305155] SERVICE NOTIFICATION: srinivas.bethi;WINV-101;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 778.35 Gb (84%) - free 152.97 Gb (16%)
+[1585305155] SERVICE NOTIFICATION: jatin;WINV-101;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 778.35 Gb (84%) - free 152.97 Gb (16%)
+[1585305155] SERVICE NOTIFICATION: atul;WINV-101;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 778.35 Gb (84%) - free 152.97 Gb (16%)
+[1585305428] Auto-save of retention data completed successfully.
+[1585306110] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 14.31, 14.40, 18.48
+[1585306410] SERVICE ALERT: vapps-100;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 11.63, 19.21, 20.27
+[1585306710] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 13.42, 16.08, 18.72
+[1585307010] SERVICE ALERT: vapps-100;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 56.22, 32.47, 23.91
+[1585308063] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 83% capacity! 5.7T of 7.3T
+[1585308063] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 83% capacity! 5.7T of 7.3T
+[1585308063] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 83% capacity! 5.7T of 7.3T
+[1585308394] SERVICE ALERT: WINV-107;CPU Load;CRITICAL;SOFT;1;CPU Load 100% (5 min average)
+[1585308514] SERVICE ALERT: WINV-107;CPU Load;OK;SOFT;2;CPU Load 14% (5 min average)
+[1585309027] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 16.96, 15.72, 15.21
+[1585309027] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 16.96, 15.72, 15.21
+[1585309027] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 16.96, 15.72, 15.21
+[1585309028] Auto-save of retention data completed successfully.
+[1585309301] SERVICE NOTIFICATION: jatin;vinfra-200;Current Load;WARNING;notify-service-by-email;WARNING - load average: 3.81, 6.62, 7.44
+[1585309301] SERVICE NOTIFICATION: atul;vinfra-200;Current Load;WARNING;notify-service-by-email;WARNING - load average: 3.81, 6.62, 7.44
+[1585309301] SERVICE NOTIFICATION: srinivas.bethi;vinfra-200;Current Load;WARNING;notify-service-by-email;WARNING - load average: 3.81, 6.62, 7.44
+[1585309594] SERVICE NOTIFICATION: srinivas.bethi;WINV-107;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.51 Gb - used: 765.54 Gb (82%) - free 165.97 Gb (18%)
+[1585309594] SERVICE NOTIFICATION: jatin;WINV-107;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.51 Gb - used: 765.54 Gb (82%) - free 165.97 Gb (18%)
+[1585309594] SERVICE NOTIFICATION: atul;WINV-107;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.51 Gb - used: 765.54 Gb (82%) - free 165.97 Gb (18%)
+[1585310288] SERVICE NOTIFICATION: jatin;vonly-database;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 9% free (4917 MB out of 57111 MB)
+[1585310288] SERVICE NOTIFICATION: atul;vonly-database;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 9% free (4917 MB out of 57111 MB)
+[1585310288] SERVICE NOTIFICATION: srinivas.bethi;vonly-database;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 9% free (4917 MB out of 57111 MB)
+[1585311663] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 84% capacity! 5.8T of 7.3T
+[1585311663] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 84% capacity! 5.8T of 7.3T
+[1585311663] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 84% capacity! 5.8T of 7.3T
+[1585312355] SERVICE NOTIFICATION: srinivas.bethi;WINV-104;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 786.15 Gb (84%) - free 145.16 Gb (16%)
+[1585312355] SERVICE NOTIFICATION: jatin;WINV-104;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 786.15 Gb (84%) - free 145.16 Gb (16%)
+[1585312355] SERVICE NOTIFICATION: atul;WINV-104;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 786.15 Gb (84%) - free 145.16 Gb (16%)
+[1585312627] Auto-save of retention data completed successfully.
+[1585312710] SERVICE FLAPPING ALERT: vapps-100;Current Load;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1585312710] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;FLAPPINGSTOP (CRITICAL);notify-service-by-email;CRITICAL - load average: 21.52, 30.36, 33.73
+[1585312710] SERVICE NOTIFICATION: atul;vapps-100;Current Load;FLAPPINGSTOP (CRITICAL);notify-service-by-email;CRITICAL - load average: 21.52, 30.36, 33.73
+[1585312710] SERVICE NOTIFICATION: srinivas.bethi;vapps-100;Current Load;FLAPPINGSTOP (CRITICAL);notify-service-by-email;CRITICAL - load average: 21.52, 30.36, 33.73
+[1585312710] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 21.52, 30.36, 33.73
+[1585312710] SERVICE NOTIFICATION: atul;vapps-100;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 21.52, 30.36, 33.73
+[1585312710] SERVICE NOTIFICATION: srinivas.bethi;vapps-100;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 21.52, 30.36, 33.73
+[1585312920] SERVICE ALERT: vdb-103;Root Partition;WARNING;SOFT;1;/ is at 81% capacity! 351G of 457G
+[1585312980] SERVICE ALERT: vdb-103;Root Partition;WARNING;SOFT;2;/ is at 82% capacity! 352G of 457G
+[1585313040] SERVICE ALERT: vdb-103;Root Partition;WARNING;SOFT;3;/ is at 82% capacity! 353G of 457G
+[1585313100] SERVICE NOTIFICATION: jatin;vdb-103;Root Partition;WARNING;notify-service-by-email;/ is at 82% capacity! 355G of 457G
+[1585313100] SERVICE NOTIFICATION: atul;vdb-103;Root Partition;WARNING;notify-service-by-email;/ is at 82% capacity! 355G of 457G
+[1585313100] SERVICE NOTIFICATION: srinivas.bethi;vdb-103;Root Partition;WARNING;notify-service-by-email;/ is at 82% capacity! 355G of 457G
+[1585313100] SERVICE ALERT: vdb-103;Root Partition;WARNING;HARD;4;/ is at 82% capacity! 355G of 457G
+[1585313201] SERVICE NOTIFICATION: jatin;vinfra-200;Current Load;OK;notify-service-by-email;OK - load average: 1.93, 4.04, 4.89
+[1585313201] SERVICE NOTIFICATION: atul;vinfra-200;Current Load;OK;notify-service-by-email;OK - load average: 1.93, 4.04, 4.89
+[1585313201] SERVICE NOTIFICATION: srinivas.bethi;vinfra-200;Current Load;OK;notify-service-by-email;OK - load average: 1.93, 4.04, 4.89
+[1585313201] SERVICE ALERT: vinfra-200;Current Load;OK;HARD;4;OK - load average: 1.93, 4.04, 4.89
+[1585313282] SERVICE ALERT: vdb-103;Current Load;WARNING;SOFT;1;WARNING - load average: 9.66, 8.72, 5.27
+[1585313342] SERVICE ALERT: vdb-103;Current Load;WARNING;SOFT;2;WARNING - load average: 7.53, 8.21, 5.31
+[1585313402] SERVICE ALERT: vdb-103;Current Load;WARNING;SOFT;3;WARNING - load average: 8.62, 8.41, 5.56
+[1585313462] SERVICE NOTIFICATION: jatin;vdb-103;Current Load;WARNING;notify-service-by-email;WARNING - load average: 8.51, 8.42, 5.74
+[1585313462] SERVICE NOTIFICATION: atul;vdb-103;Current Load;WARNING;notify-service-by-email;WARNING - load average: 8.51, 8.42, 5.74
+[1585313462] SERVICE NOTIFICATION: srinivas.bethi;vdb-103;Current Load;WARNING;notify-service-by-email;WARNING - load average: 8.51, 8.42, 5.74
+[1585313462] SERVICE ALERT: vdb-103;Current Load;WARNING;HARD;4;WARNING - load average: 8.51, 8.42, 5.74
+[1585313610] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 2.16, 5.83, 18.69
+[1585313610] SERVICE NOTIFICATION: atul;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 2.16, 5.83, 18.69
+[1585313610] SERVICE NOTIFICATION: srinivas.bethi;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 2.16, 5.83, 18.69
+[1585313610] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 2.16, 5.83, 18.69
+[1585314510] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 0.04, 0.40, 7.19
+[1585314510] SERVICE NOTIFICATION: atul;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 0.04, 0.40, 7.19
+[1585314510] SERVICE NOTIFICATION: srinivas.bethi;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 0.04, 0.40, 7.19
+[1585314510] SERVICE ALERT: vapps-100;Current Load;OK;HARD;4;OK - load average: 0.04, 0.40, 7.19
+[1585315263] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 85% capacity! 5.8T of 7.3T
+[1585315263] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 85% capacity! 5.8T of 7.3T
+[1585315263] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 85% capacity! 5.8T of 7.3T
+[1585315747] SERVICE NOTIFICATION: jatin;vinfra-200;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (53 MB out of 11215 MB)
+[1585315747] SERVICE NOTIFICATION: atul;vinfra-200;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (53 MB out of 11215 MB)
+[1585315747] SERVICE NOTIFICATION: srinivas.bethi;vinfra-200;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (53 MB out of 11215 MB)
+[1585316100] SERVICE NOTIFICATION: jatin;vdb-103;Root Partition;CRITICAL;notify-service-by-email;/ is at 91% capacity! 391G of 457G
+[1585316100] SERVICE NOTIFICATION: atul;vdb-103;Root Partition;CRITICAL;notify-service-by-email;/ is at 91% capacity! 391G of 457G
+[1585316100] SERVICE NOTIFICATION: srinivas.bethi;vdb-103;Root Partition;CRITICAL;notify-service-by-email;/ is at 91% capacity! 391G of 457G
+[1585316100] SERVICE ALERT: vdb-103;Root Partition;CRITICAL;HARD;4;/ is at 91% capacity! 391G of 457G
+[1585316228] Auto-save of retention data completed successfully.
+[1585317293] SERVICE ALERT: WINV-101;CPU Load;CRITICAL;SOFT;1;CPU Load 100% (5 min average)
+[1585317414] SERVICE ALERT: WINV-101;CPU Load;CRITICAL;SOFT;2;CPU Load 100% (5 min average)
+[1585317534] SERVICE ALERT: WINV-101;CPU Load;OK;HARD;3;CPU Load 4% (5 min average)
+[1585318597] SERVICE ALERT: vinfra-200;MySQL Connection Time;WARNING;SOFT;1;WARNING - 4.17 seconds to connect as nagios
+[1585318657] SERVICE ALERT: vinfra-200;MySQL Connection Time;OK;SOFT;2;OK - 0.01 seconds to connect as nagios
+[1585318801] SERVICE NOTIFICATION: jatin;vdb-103;Root Partition;OK;notify-service-by-email;/ is at 22% capacity, 93G of 457G
+[1585318801] SERVICE NOTIFICATION: atul;vdb-103;Root Partition;OK;notify-service-by-email;/ is at 22% capacity, 93G of 457G
+[1585318801] SERVICE NOTIFICATION: srinivas.bethi;vdb-103;Root Partition;OK;notify-service-by-email;/ is at 22% capacity, 93G of 457G
+[1585318801] SERVICE ALERT: vdb-103;Root Partition;OK;HARD;4;/ is at 22% capacity, 93G of 457G
+[1585318863] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 85% capacity! 5.8T of 7.3T
+[1585318863] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 85% capacity! 5.8T of 7.3T
+[1585318863] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 85% capacity! 5.8T of 7.3T
+[1585319522] SERVICE NOTIFICATION: srinivas.bethi;WINV-102;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 1862.64 Gb - used: 1567.28 Gb (84%) - free 295.36 Gb (16%)
+[1585319522] SERVICE NOTIFICATION: jatin;WINV-102;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 1862.64 Gb - used: 1567.28 Gb (84%) - free 295.36 Gb (16%)
+[1585319522] SERVICE NOTIFICATION: atul;WINV-102;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 1862.64 Gb - used: 1567.28 Gb (84%) - free 295.36 Gb (16%)
+[1585319555] SERVICE NOTIFICATION: srinivas.bethi;WINV-101;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 782.12 Gb (84%) - free 149.20 Gb (16%)
+[1585319555] SERVICE NOTIFICATION: jatin;WINV-101;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 782.12 Gb (84%) - free 149.20 Gb (16%)
+[1585319555] SERVICE NOTIFICATION: atul;WINV-101;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 782.12 Gb (84%) - free 149.20 Gb (16%)
+[1585319828] Auto-save of retention data completed successfully.
+[1585320662] SERVICE NOTIFICATION: jatin;vdb-103;Current Load;OK;notify-service-by-email;OK - load average: 3.64, 4.54, 4.93
+[1585320662] SERVICE NOTIFICATION: atul;vdb-103;Current Load;OK;notify-service-by-email;OK - load average: 3.64, 4.54, 4.93
+[1585320662] SERVICE NOTIFICATION: srinivas.bethi;vdb-103;Current Load;OK;notify-service-by-email;OK - load average: 3.64, 4.54, 4.93
+[1585320662] SERVICE ALERT: vdb-103;Current Load;OK;HARD;4;OK - load average: 3.64, 4.54, 4.93
+[1585321262] SERVICE ALERT: vdb-103;Current Load;WARNING;SOFT;1;WARNING - load average: 5.03, 5.16, 5.07
+[1585321322] SERVICE ALERT: vdb-103;Current Load;OK;SOFT;2;OK - load average: 4.51, 4.95, 5.00
+[1585321382] SERVICE ALERT: vdb-103;Current Load;WARNING;SOFT;1;WARNING - load average: 5.23, 5.08, 5.04
+[1585321442] SERVICE ALERT: vdb-103;Current Load;WARNING;SOFT;2;WARNING - load average: 5.40, 5.15, 5.07
+[1585321502] SERVICE ALERT: vdb-103;Current Load;WARNING;SOFT;3;WARNING - load average: 5.77, 5.29, 5.12
+[1585321562] SERVICE NOTIFICATION: jatin;vdb-103;Current Load;WARNING;notify-service-by-email;WARNING - load average: 4.85, 5.11, 5.07
+[1585321562] SERVICE NOTIFICATION: atul;vdb-103;Current Load;WARNING;notify-service-by-email;WARNING - load average: 4.85, 5.11, 5.07
+[1585321562] SERVICE NOTIFICATION: srinivas.bethi;vdb-103;Current Load;WARNING;notify-service-by-email;WARNING - load average: 4.85, 5.11, 5.07
+[1585321562] SERVICE ALERT: vdb-103;Current Load;WARNING;HARD;4;WARNING - load average: 4.85, 5.11, 5.07
+[1585322162] SERVICE NOTIFICATION: jatin;vdb-103;Current Load;OK;notify-service-by-email;OK - load average: 5.08, 4.74, 4.90
+[1585322162] SERVICE NOTIFICATION: atul;vdb-103;Current Load;OK;notify-service-by-email;OK - load average: 5.08, 4.74, 4.90
+[1585322162] SERVICE NOTIFICATION: srinivas.bethi;vdb-103;Current Load;OK;notify-service-by-email;OK - load average: 5.08, 4.74, 4.90
+[1585322162] SERVICE ALERT: vdb-103;Current Load;OK;HARD;4;OK - load average: 5.08, 4.74, 4.90
+[1585322463] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 84% capacity! 5.8T of 7.3T
+[1585322463] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 84% capacity! 5.8T of 7.3T
+[1585322463] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 84% capacity! 5.8T of 7.3T
+[1585323427] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 11.12, 11.07, 11.07
+[1585323427] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 11.12, 11.07, 11.07
+[1585323427] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 11.12, 11.07, 11.07
+[1585323428] Auto-save of retention data completed successfully.
+[1585323994] SERVICE NOTIFICATION: srinivas.bethi;WINV-107;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.51 Gb - used: 769.95 Gb (83%) - free 161.56 Gb (17%)
+[1585323994] SERVICE NOTIFICATION: jatin;WINV-107;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.51 Gb - used: 769.95 Gb (83%) - free 161.56 Gb (17%)
+[1585323994] SERVICE NOTIFICATION: atul;WINV-107;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.51 Gb - used: 769.95 Gb (83%) - free 161.56 Gb (17%)
+[1585324689] SERVICE NOTIFICATION: jatin;vonly-database;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 8% free (4120 MB out of 57111 MB)
+[1585324689] SERVICE NOTIFICATION: atul;vonly-database;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 8% free (4120 MB out of 57111 MB)
+[1585324689] SERVICE NOTIFICATION: srinivas.bethi;vonly-database;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 8% free (4120 MB out of 57111 MB)
+[1585326063] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 84% capacity! 5.8T of 7.3T
+[1585326063] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 84% capacity! 5.8T of 7.3T
+[1585326063] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 84% capacity! 5.8T of 7.3T
+[1585327028] Auto-save of retention data completed successfully.
+[1585327354] SERVICE NOTIFICATION: srinivas.bethi;WINV-104;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 786.24 Gb (84%) - free 145.08 Gb (16%)
+[1585327354] SERVICE NOTIFICATION: jatin;WINV-104;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 786.24 Gb (84%) - free 145.08 Gb (16%)
+[1585327354] SERVICE NOTIFICATION: atul;WINV-104;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 786.24 Gb (84%) - free 145.08 Gb (16%)
+[1585329663] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 84% capacity! 5.8T of 7.3T
+[1585329663] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 84% capacity! 5.8T of 7.3T
+[1585329663] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 84% capacity! 5.8T of 7.3T
+[1585330147] SERVICE NOTIFICATION: jatin;vinfra-200;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (13 MB out of 11215 MB)
+[1585330147] SERVICE NOTIFICATION: atul;vinfra-200;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (13 MB out of 11215 MB)
+[1585330147] SERVICE NOTIFICATION: srinivas.bethi;vinfra-200;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (13 MB out of 11215 MB)
+[1585330627] Auto-save of retention data completed successfully.
+[1585331324] SERVICE ALERT: WINV-102;CPU Load;WARNING;SOFT;1;CPU Load 88% (5 min average)
+[1585331444] SERVICE ALERT: WINV-102;CPU Load;OK;SOFT;2;CPU Load 26% (5 min average)
+[1585333263] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 83% capacity! 5.7T of 7.3T
+[1585333263] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 83% capacity! 5.7T of 7.3T
+[1585333263] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 83% capacity! 5.7T of 7.3T
+[1585333743] SERVICE ALERT: WINV-101;CPU Load;WARNING;SOFT;1;No data was received from host!
+[1585333828] SERVICE ALERT: WINV-101;OS Drive Space;WARNING;SOFT;1;No data was received from host!
+[1585333829] SERVICE ALERT: WINV-101;Memory Usage;WARNING;SOFT;1;No data was received from host!
+[1585333871] SERVICE ALERT: WINV-101;CPU Load;CRITICAL;SOFT;2;CPU Load 100% (5 min average)
+[1585333922] SERVICE NOTIFICATION: srinivas.bethi;WINV-102;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 1862.64 Gb - used: 1568.18 Gb (84%) - free 294.46 Gb (16%)
+[1585333922] SERVICE NOTIFICATION: jatin;WINV-102;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 1862.64 Gb - used: 1568.18 Gb (84%) - free 294.46 Gb (16%)
+[1585333922] SERVICE NOTIFICATION: atul;WINV-102;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 1862.64 Gb - used: 1568.18 Gb (84%) - free 294.46 Gb (16%)
+[1585333951] SERVICE ALERT: WINV-101;Memory Usage;OK;SOFT;2;Memory usage: total:98284.48 MB - used: 48206.98 MB (49%) - free: 50077.50 MB (51%)
+[1585333951] SERVICE ALERT: WINV-101;OS Drive Space;OK;SOFT;2;c:\ - total: 68.27 Gb - used: 43.58 Gb (64%) - free 24.68 Gb (36%)
+[1585333961] SERVICE NOTIFICATION: srinivas.bethi;WINV-101;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 782.12 Gb (84%) - free 149.20 Gb (16%)
+[1585333961] SERVICE NOTIFICATION: jatin;WINV-101;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 782.12 Gb (84%) - free 149.20 Gb (16%)
+[1585333961] SERVICE NOTIFICATION: atul;WINV-101;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 782.12 Gb (84%) - free 149.20 Gb (16%)
+[1585333993] SERVICE NOTIFICATION: srinivas.bethi;WINV-101;CPU Load;CRITICAL;notify-service-by-email;CPU Load 100% (5 min average)
+[1585333993] SERVICE NOTIFICATION: jatin;WINV-101;CPU Load;CRITICAL;notify-service-by-email;CPU Load 100% (5 min average)
+[1585333993] SERVICE NOTIFICATION: atul;WINV-101;CPU Load;CRITICAL;notify-service-by-email;CPU Load 100% (5 min average)
+[1585333993] SERVICE ALERT: WINV-101;CPU Load;CRITICAL;HARD;3;CPU Load 100% (5 min average)
+[1585334228] Auto-save of retention data completed successfully.
+[1585334593] SERVICE NOTIFICATION: srinivas.bethi;WINV-101;CPU Load;OK;notify-service-by-email;CPU Load 1% (5 min average)
+[1585334593] SERVICE NOTIFICATION: jatin;WINV-101;CPU Load;OK;notify-service-by-email;CPU Load 1% (5 min average)
+[1585334593] SERVICE NOTIFICATION: atul;WINV-101;CPU Load;OK;notify-service-by-email;CPU Load 1% (5 min average)
+[1585334593] SERVICE ALERT: WINV-101;CPU Load;OK;HARD;3;CPU Load 1% (5 min average)
+[1585336863] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 83% capacity! 5.7T of 7.3T
+[1585336863] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 83% capacity! 5.7T of 7.3T
+[1585336863] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 83% capacity! 5.7T of 7.3T
+[1585337462] SERVICE ALERT: vdb-103;Current Load;WARNING;SOFT;1;WARNING - load average: 6.18, 6.31, 5.08
+[1585337522] SERVICE ALERT: vdb-103;Current Load;WARNING;SOFT;2;WARNING - load average: 6.21, 6.29, 5.15
+[1585337527] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 9.84, 9.55, 9.99
+[1585337527] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 9.84, 9.55, 9.99
+[1585337527] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 9.84, 9.55, 9.99
+[1585337527] SERVICE ALERT: vonly-replica;Current Load;OK;HARD;4;OK - load average: 9.84, 9.55, 9.99
+[1585337564] SERVICE ALERT: WINV-102;CPU Load;WARNING;SOFT;1;CPU Load 80% (5 min average)
+[1585337582] SERVICE ALERT: vdb-103;Current Load;WARNING;SOFT;3;WARNING - load average: 5.76, 6.12, 5.16
+[1585337642] SERVICE NOTIFICATION: jatin;vdb-103;Current Load;WARNING;notify-service-by-email;WARNING - load average: 6.32, 6.22, 5.26
+[1585337642] SERVICE NOTIFICATION: atul;vdb-103;Current Load;WARNING;notify-service-by-email;WARNING - load average: 6.32, 6.22, 5.26
+[1585337642] SERVICE NOTIFICATION: srinivas.bethi;vdb-103;Current Load;WARNING;notify-service-by-email;WARNING - load average: 6.32, 6.22, 5.26
+[1585337642] SERVICE ALERT: vdb-103;Current Load;WARNING;HARD;4;WARNING - load average: 6.32, 6.22, 5.26
+[1585337684] SERVICE ALERT: WINV-102;CPU Load;OK;SOFT;2;CPU Load 22% (5 min average)
+[1585337828] Auto-save of retention data completed successfully.
+[1585338394] SERVICE NOTIFICATION: srinivas.bethi;WINV-107;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.51 Gb - used: 770.65 Gb (83%) - free 160.86 Gb (17%)
+[1585338394] SERVICE NOTIFICATION: jatin;WINV-107;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.51 Gb - used: 770.65 Gb (83%) - free 160.86 Gb (17%)
+[1585338394] SERVICE NOTIFICATION: atul;WINV-107;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.51 Gb - used: 770.65 Gb (83%) - free 160.86 Gb (17%)
+[1585338793] SERVICE ALERT: WINV-101;CPU Load;CRITICAL;SOFT;1;CPU Load 100% (5 min average)
+[1585338842] SERVICE NOTIFICATION: jatin;vdb-103;Current Load;OK;notify-service-by-email;OK - load average: 5.12, 4.90, 4.97
+[1585338842] SERVICE NOTIFICATION: atul;vdb-103;Current Load;OK;notify-service-by-email;OK - load average: 5.12, 4.90, 4.97
+[1585338842] SERVICE NOTIFICATION: srinivas.bethi;vdb-103;Current Load;OK;notify-service-by-email;OK - load average: 5.12, 4.90, 4.97
+[1585338842] SERVICE ALERT: vdb-103;Current Load;OK;HARD;4;OK - load average: 5.12, 4.90, 4.97
+[1585338913] SERVICE ALERT: WINV-101;CPU Load;CRITICAL;SOFT;2;CPU Load 100% (5 min average)
+[1585339033] SERVICE ALERT: WINV-101;CPU Load;OK;HARD;3;CPU Load 10% (5 min average)
+[1585339388] SERVICE NOTIFICATION: jatin;vonly-database;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 8% free (4305 MB out of 57111 MB)
+[1585339388] SERVICE NOTIFICATION: atul;vonly-database;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 8% free (4305 MB out of 57111 MB)
+[1585339388] SERVICE NOTIFICATION: srinivas.bethi;vonly-database;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 8% free (4305 MB out of 57111 MB)
+[1585340463] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 83% capacity! 5.7T of 7.3T
+[1585340463] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 83% capacity! 5.7T of 7.3T
+[1585340463] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 83% capacity! 5.7T of 7.3T
+[1585341428] Auto-save of retention data completed successfully.
+[1585341754] SERVICE NOTIFICATION: srinivas.bethi;WINV-104;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 786.24 Gb (84%) - free 145.08 Gb (16%)
+[1585341754] SERVICE NOTIFICATION: jatin;WINV-104;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 786.24 Gb (84%) - free 145.08 Gb (16%)
+[1585341754] SERVICE NOTIFICATION: atul;WINV-104;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 786.24 Gb (84%) - free 145.08 Gb (16%)
+[1585343527] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;1;WARNING - load average: 10.85, 10.64, 10.12
+[1585343587] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;2;WARNING - load average: 10.55, 10.58, 10.13
+[1585343647] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;3;WARNING - load average: 10.11, 10.47, 10.12
+[1585343707] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 10.22, 10.41, 10.12
+[1585343707] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 10.22, 10.41, 10.12
+[1585343707] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 10.22, 10.41, 10.12
+[1585343707] SERVICE ALERT: vonly-replica;Current Load;WARNING;HARD;4;WARNING - load average: 10.22, 10.41, 10.12
+[1585344063] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 82% capacity! 5.6T of 7.3T
+[1585344063] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 82% capacity! 5.6T of 7.3T
+[1585344063] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 82% capacity! 5.6T of 7.3T
+[1585344307] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 9.46, 9.85, 10.00
+[1585344307] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 9.46, 9.85, 10.00
+[1585344307] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 9.46, 9.85, 10.00
+[1585344307] SERVICE ALERT: vonly-replica;Current Load;OK;HARD;4;OK - load average: 9.46, 9.85, 10.00
+[1585344547] SERVICE NOTIFICATION: jatin;vinfra-200;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (9 MB out of 11215 MB)
+[1585344547] SERVICE NOTIFICATION: atul;vinfra-200;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (9 MB out of 11215 MB)
+[1585344547] SERVICE NOTIFICATION: srinivas.bethi;vinfra-200;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (9 MB out of 11215 MB)
+[1585345028] Auto-save of retention data completed successfully.
+[1585346707] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;1;WARNING - load average: 10.47, 10.39, 10.02
+[1585346767] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;2;WARNING - load average: 10.83, 10.49, 10.08
+[1585346827] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;3;WARNING - load average: 10.87, 10.54, 10.12
+[1585346887] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 10.59, 10.52, 10.14
+[1585346887] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 10.59, 10.52, 10.14
+[1585346887] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 10.59, 10.52, 10.14
+[1585346887] SERVICE ALERT: vonly-replica;Current Load;WARNING;HARD;4;WARNING - load average: 10.59, 10.52, 10.14
+[1585347663] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 82% capacity! 5.6T of 7.3T
+[1585347663] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 82% capacity! 5.6T of 7.3T
+[1585347663] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 82% capacity! 5.6T of 7.3T
+[1585348322] SERVICE NOTIFICATION: srinivas.bethi;WINV-102;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 1862.64 Gb - used: 1568.51 Gb (84%) - free 294.13 Gb (16%)
+[1585348322] SERVICE NOTIFICATION: jatin;WINV-102;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 1862.64 Gb - used: 1568.51 Gb (84%) - free 294.13 Gb (16%)
+[1585348322] SERVICE NOTIFICATION: atul;WINV-102;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 1862.64 Gb - used: 1568.51 Gb (84%) - free 294.13 Gb (16%)
+[1585348627] Auto-save of retention data completed successfully.
+[1585348955] SERVICE NOTIFICATION: srinivas.bethi;WINV-101;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 782.74 Gb (84%) - free 148.58 Gb (16%)
+[1585348955] SERVICE NOTIFICATION: jatin;WINV-101;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 782.74 Gb (84%) - free 148.58 Gb (16%)
+[1585348955] SERVICE NOTIFICATION: atul;WINV-101;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 782.74 Gb (84%) - free 148.58 Gb (16%)
+[1585351263] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 82% capacity! 5.6T of 7.3T
+[1585351263] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 82% capacity! 5.6T of 7.3T
+[1585351263] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 82% capacity! 5.6T of 7.3T
+[1585352011] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;1;WARNING - load average: 14.13, 11.10, 7.20
+[1585352071] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;2;WARNING - load average: 12.69, 11.22, 7.49
+[1585352131] SERVICE ALERT: vapps-100;Current Load;WARNING;SOFT;3;WARNING - load average: 13.04, 11.64, 7.87
+[1585352191] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 14.21, 12.01, 8.22
+[1585352191] SERVICE NOTIFICATION: atul;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 14.21, 12.01, 8.22
+[1585352191] SERVICE NOTIFICATION: srinivas.bethi;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 14.21, 12.01, 8.22
+[1585352191] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 14.21, 12.01, 8.22
+[1585352228] Auto-save of retention data completed successfully.
+[1585352794] SERVICE NOTIFICATION: srinivas.bethi;WINV-107;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.51 Gb - used: 770.72 Gb (83%) - free 160.79 Gb (17%)
+[1585352794] SERVICE NOTIFICATION: jatin;WINV-107;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.51 Gb - used: 770.72 Gb (83%) - free 160.79 Gb (17%)
+[1585352794] SERVICE NOTIFICATION: atul;WINV-107;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.51 Gb - used: 770.72 Gb (83%) - free 160.79 Gb (17%)
+[1585353091] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 6.95, 5.38, 7.66
+[1585353091] SERVICE NOTIFICATION: atul;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 6.95, 5.38, 7.66
+[1585353091] SERVICE NOTIFICATION: srinivas.bethi;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 6.95, 5.38, 7.66
+[1585353091] SERVICE ALERT: vapps-100;Current Load;OK;HARD;4;OK - load average: 6.95, 5.38, 7.66
+[1585353391] SERVICE ALERT: vapps-100;Current Load;CRITICAL;SOFT;1;CRITICAL - load average: 30.68, 19.48, 12.95
+[1585353451] SERVICE ALERT: vapps-100;Current Load;CRITICAL;SOFT;2;CRITICAL - load average: 45.86, 25.96, 15.59
+[1585353511] SERVICE ALERT: vapps-100;Current Load;CRITICAL;SOFT;3;CRITICAL - load average: 43.57, 28.61, 17.14
+[1585353571] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 38.57, 30.05, 18.36
+[1585353571] SERVICE NOTIFICATION: atul;vapps-100;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 38.57, 30.05, 18.36
+[1585353571] SERVICE NOTIFICATION: srinivas.bethi;vapps-100;Current Load;CRITICAL;notify-service-by-email;CRITICAL - load average: 38.57, 30.05, 18.36
+[1585353571] SERVICE ALERT: vapps-100;Current Load;CRITICAL;HARD;4;CRITICAL - load average: 38.57, 30.05, 18.36
+[1585353788] SERVICE NOTIFICATION: jatin;vonly-database;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 8% free (4319 MB out of 57111 MB)
+[1585353788] SERVICE NOTIFICATION: atul;vonly-database;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 8% free (4319 MB out of 57111 MB)
+[1585353788] SERVICE NOTIFICATION: srinivas.bethi;vonly-database;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 8% free (4319 MB out of 57111 MB)
+[1585354001] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;1;WARNING - load average: 8.96, 6.90, 5.42
+[1585354061] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;2;WARNING - load average: 5.89, 6.46, 5.36
+[1585354121] SERVICE ALERT: vinfra-200;Current Load;WARNING;SOFT;3;WARNING - load average: 6.95, 6.75, 5.54
+[1585354182] SERVICE NOTIFICATION: jatin;vinfra-200;Current Load;WARNING;notify-service-by-email;WARNING - load average: 6.52, 6.67, 5.59
+[1585354182] SERVICE NOTIFICATION: atul;vinfra-200;Current Load;WARNING;notify-service-by-email;WARNING - load average: 6.52, 6.67, 5.59
+[1585354182] SERVICE NOTIFICATION: srinivas.bethi;vinfra-200;Current Load;WARNING;notify-service-by-email;WARNING - load average: 6.52, 6.67, 5.59
+[1585354182] SERVICE ALERT: vinfra-200;Current Load;WARNING;HARD;4;WARNING - load average: 6.52, 6.67, 5.59
+[1585354864] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 83% capacity! 5.7T of 7.3T
+[1585354864] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 83% capacity! 5.7T of 7.3T
+[1585354864] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 83% capacity! 5.7T of 7.3T
+[1585355828] Auto-save of retention data completed successfully.
+[1585356154] SERVICE NOTIFICATION: srinivas.bethi;WINV-104;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 786.24 Gb (84%) - free 145.08 Gb (16%)
+[1585356154] SERVICE NOTIFICATION: jatin;WINV-104;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 786.24 Gb (84%) - free 145.08 Gb (16%)
+[1585356154] SERVICE NOTIFICATION: atul;WINV-104;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 786.24 Gb (84%) - free 145.08 Gb (16%)
+[1585358464] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 84% capacity! 5.8T of 7.3T
+[1585358464] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 84% capacity! 5.8T of 7.3T
+[1585358464] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 84% capacity! 5.8T of 7.3T
+[1585358804] SERVICE ALERT: WINV-102;CPU Load;CRITICAL;SOFT;1;CPU Load 99% (5 min average)
+[1585358924] SERVICE ALERT: WINV-102;CPU Load;OK;SOFT;2;CPU Load 18% (5 min average)
+[1585358947] SERVICE NOTIFICATION: jatin;vinfra-200;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (15 MB out of 11215 MB)
+[1585358947] SERVICE NOTIFICATION: atul;vinfra-200;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (15 MB out of 11215 MB)
+[1585358947] SERVICE NOTIFICATION: srinivas.bethi;vinfra-200;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (15 MB out of 11215 MB)
+[1585358971] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.30, 8.25, 16.78
+[1585358971] SERVICE NOTIFICATION: atul;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.30, 8.25, 16.78
+[1585358971] SERVICE NOTIFICATION: srinivas.bethi;vapps-100;Current Load;WARNING;notify-service-by-email;WARNING - load average: 5.30, 8.25, 16.78
+[1585358971] SERVICE ALERT: vapps-100;Current Load;WARNING;HARD;4;WARNING - load average: 5.30, 8.25, 16.78
+[1585359428] Auto-save of retention data completed successfully.
+[1585359582] SERVICE NOTIFICATION: jatin;vinfra-200;Current Load;OK;notify-service-by-email;OK - load average: 1.87, 3.33, 4.80
+[1585359582] SERVICE NOTIFICATION: atul;vinfra-200;Current Load;OK;notify-service-by-email;OK - load average: 1.87, 3.33, 4.80
+[1585359582] SERVICE NOTIFICATION: srinivas.bethi;vinfra-200;Current Load;OK;notify-service-by-email;OK - load average: 1.87, 3.33, 4.80
+[1585359582] SERVICE ALERT: vinfra-200;Current Load;OK;HARD;4;OK - load average: 1.87, 3.33, 4.80
+[1585359871] SERVICE NOTIFICATION: jatin;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 0.99, 1.35, 7.32
+[1585359871] SERVICE NOTIFICATION: atul;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 0.99, 1.35, 7.32
+[1585359871] SERVICE NOTIFICATION: srinivas.bethi;vapps-100;Current Load;OK;notify-service-by-email;OK - load average: 0.99, 1.35, 7.32
+[1585359871] SERVICE ALERT: vapps-100;Current Load;OK;HARD;4;OK - load average: 0.99, 1.35, 7.32
+[1585361287] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 12.76, 12.89, 13.29
+[1585361287] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 12.76, 12.89, 13.29
+[1585361287] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 12.76, 12.89, 13.29
+[1585362364] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 85% capacity! 5.8T of 7.3T
+[1585362364] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 85% capacity! 5.8T of 7.3T
+[1585362364] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 85% capacity! 5.8T of 7.3T
+[1585362722] SERVICE NOTIFICATION: srinivas.bethi;WINV-102;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 1862.64 Gb - used: 1569.29 Gb (84%) - free 293.35 Gb (16%)
+[1585362722] SERVICE NOTIFICATION: jatin;WINV-102;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 1862.64 Gb - used: 1569.29 Gb (84%) - free 293.35 Gb (16%)
+[1585362722] SERVICE NOTIFICATION: atul;WINV-102;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 1862.64 Gb - used: 1569.29 Gb (84%) - free 293.35 Gb (16%)
+[1585363028] Auto-save of retention data completed successfully.
+[1585363356] SERVICE NOTIFICATION: srinivas.bethi;WINV-101;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 782.74 Gb (84%) - free 148.58 Gb (16%)
+[1585363356] SERVICE NOTIFICATION: jatin;WINV-101;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 782.74 Gb (84%) - free 148.58 Gb (16%)
+[1585363356] SERVICE NOTIFICATION: atul;WINV-101;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 782.74 Gb (84%) - free 148.58 Gb (16%)
+[1585366263] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 84% capacity! 5.8T of 7.3T
+[1585366263] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 84% capacity! 5.8T of 7.3T
+[1585366263] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 84% capacity! 5.8T of 7.3T
+[1585366387] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 9.90, 9.90, 10.00
+[1585366387] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 9.90, 9.90, 10.00
+[1585366387] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;Current Load;OK;notify-service-by-email;OK - load average: 9.90, 9.90, 10.00
+[1585366387] SERVICE ALERT: vonly-replica;Current Load;OK;HARD;4;OK - load average: 9.90, 9.90, 10.00
+[1585366628] Auto-save of retention data completed successfully.
+[1585367194] SERVICE NOTIFICATION: srinivas.bethi;WINV-107;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.51 Gb - used: 770.93 Gb (83%) - free 160.58 Gb (17%)
+[1585367194] SERVICE NOTIFICATION: jatin;WINV-107;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.51 Gb - used: 770.93 Gb (83%) - free 160.58 Gb (17%)
+[1585367194] SERVICE NOTIFICATION: atul;WINV-107;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.51 Gb - used: 770.93 Gb (83%) - free 160.58 Gb (17%)
+[1585368188] SERVICE NOTIFICATION: jatin;vonly-database;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 8% free (4297 MB out of 57111 MB)
+[1585368188] SERVICE NOTIFICATION: atul;vonly-database;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 8% free (4297 MB out of 57111 MB)
+[1585368188] SERVICE NOTIFICATION: srinivas.bethi;vonly-database;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 8% free (4297 MB out of 57111 MB)
+[1585369863] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 85% capacity! 5.8T of 7.3T
+[1585369863] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 85% capacity! 5.8T of 7.3T
+[1585369863] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 85% capacity! 5.8T of 7.3T
+[1585370227] Auto-save of retention data completed successfully.
+[1585370554] SERVICE NOTIFICATION: srinivas.bethi;WINV-104;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 786.12 Gb (84%) - free 145.20 Gb (16%)
+[1585370554] SERVICE NOTIFICATION: jatin;WINV-104;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 786.12 Gb (84%) - free 145.20 Gb (16%)
+[1585370554] SERVICE NOTIFICATION: atul;WINV-104;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 786.12 Gb (84%) - free 145.20 Gb (16%)
+[1585373347] SERVICE NOTIFICATION: jatin;vinfra-200;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (10 MB out of 11215 MB)
+[1585373347] SERVICE NOTIFICATION: atul;vinfra-200;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (10 MB out of 11215 MB)
+[1585373347] SERVICE NOTIFICATION: srinivas.bethi;vinfra-200;Swap Usage;CRITICAL;notify-service-by-email;SWAP CRITICAL - 1% free (10 MB out of 11215 MB)
+[1585373463] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 85% capacity! 5.8T of 7.3T
+[1585373463] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 85% capacity! 5.8T of 7.3T
+[1585373463] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 85% capacity! 5.8T of 7.3T
+[1585373828] Auto-save of retention data completed successfully.
+[1585377063] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 84% capacity! 5.8T of 7.3T
+[1585377063] SERVICE NOTIFICATION: jatin;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 84% capacity! 5.8T of 7.3T
+[1585377063] SERVICE NOTIFICATION: atul;vonly-replica;/media/data Partition;WARNING;notify-service-by-email;/media/data is at 84% capacity! 5.8T of 7.3T
+[1585377187] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;1;WARNING - load average: 10.83, 10.79, 10.14
+[1585377247] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;2;WARNING - load average: 10.84, 10.80, 10.18
+[1585377307] SERVICE ALERT: vonly-replica;Current Load;WARNING;SOFT;3;WARNING - load average: 10.55, 10.72, 10.19
+[1585377367] SERVICE NOTIFICATION: jatin;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 10.37, 10.62, 10.19
+[1585377367] SERVICE NOTIFICATION: atul;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 10.37, 10.62, 10.19
+[1585377367] SERVICE NOTIFICATION: srinivas.bethi;vonly-replica;Current Load;WARNING;notify-service-by-email;WARNING - load average: 10.37, 10.62, 10.19
+[1585377367] SERVICE ALERT: vonly-replica;Current Load;WARNING;HARD;4;WARNING - load average: 10.37, 10.62, 10.19
+[1585377421] SERVICE ALERT: vdb-staging;Current Load;WARNING;SOFT;1;WARNING - load average: 9.49, 10.33, 6.53
+[1585377427] Auto-save of retention data completed successfully.
+[1585377481] SERVICE ALERT: vdb-staging;Current Load;WARNING;SOFT;2;WARNING - load average: 9.39, 10.16, 6.71
+[1585377541] SERVICE ALERT: vdb-staging;Current Load;WARNING;SOFT;3;WARNING - load average: 9.35, 9.99, 6.88
+[1585377602] SERVICE NOTIFICATION: jatin;vdb-staging;Current Load;WARNING;notify-service-by-email;WARNING - load average: 9.26, 9.82, 7.01
+[1585377602] SERVICE NOTIFICATION: atul;vdb-staging;Current Load;WARNING;notify-service-by-email;WARNING - load average: 9.26, 9.82, 7.01
+[1585377602] SERVICE NOTIFICATION: srinivas.bethi;vdb-staging;Current Load;WARNING;notify-service-by-email;WARNING - load average: 9.26, 9.82, 7.01
+[1585377602] SERVICE ALERT: vdb-staging;Current Load;WARNING;HARD;4;WARNING - load average: 9.26, 9.82, 7.01
+[1585377634] SERVICE ALERT: WINV-107;CPU Load;CRITICAL;SOFT;1;CPU Load 99% (5 min average)
+[1585377721] SERVICE NOTIFICATION: srinivas.bethi;WINV-102;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 1862.64 Gb - used: 1558.70 Gb (84%) - free 303.94 Gb (16%)
+[1585377721] SERVICE NOTIFICATION: jatin;WINV-102;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 1862.64 Gb - used: 1558.70 Gb (84%) - free 303.94 Gb (16%)
+[1585377721] SERVICE NOTIFICATION: atul;WINV-102;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 1862.64 Gb - used: 1558.70 Gb (84%) - free 303.94 Gb (16%)
+[1585377754] SERVICE ALERT: WINV-107;CPU Load;OK;SOFT;2;CPU Load 33% (5 min average)
+[1585378355] SERVICE NOTIFICATION: srinivas.bethi;WINV-101;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 782.56 Gb (84%) - free 148.76 Gb (16%)
+[1585378355] SERVICE NOTIFICATION: jatin;WINV-101;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 782.56 Gb (84%) - free 148.76 Gb (16%)
+[1585378355] SERVICE NOTIFICATION: atul;WINV-101;Data Drive Space;WARNING;notify-service-by-email;d:\ - total: 931.32 Gb - used: 782.56 Gb (84%) - free 148.76 Gb (16%)

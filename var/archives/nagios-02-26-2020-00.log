@@ -604,3 +604,4 @@
 [1582703411] SERVICE NOTIFICATION: jatin;WINV-102;CPU Load;OK;notify-service-by-email;CPU Load 16% (5 min average)
 [1582703411] SERVICE NOTIFICATION: atul;WINV-102;CPU Load;OK;notify-service-by-email;CPU Load 16% (5 min average)
 [1582703411] SERVICE ALERT: WINV-102;CPU Load;OK;HARD;3;CPU Load 16% (5 min average)
+[1585130810] Caught SIGTERM, shutting down...
